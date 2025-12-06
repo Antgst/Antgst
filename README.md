@@ -28,14 +28,8 @@ Looking for an internship / apprenticeship in fullstack web development (Rennes 
 Former retail manager focused on team efficiency and field operations.  
 I aim to build tools that simplify scheduling, communication, and daily execution.
 
-## 🛠️ Tools & 🧰 Stack
-![C](https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=58a6ff)
-![Git](https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=58a6ff)
-![Linux](https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=58a6ff)
-![VS Code](https://img.shields.io/badge/VS%20Code-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff)
-
 ## 📌 Featured projects
-- [Holberton — "_printf"](https://github.com/Antgst/holbertonschool-printf)
+- [Holberton — _printf](https://github.com/Antgst/holbertonschool-printf)
 - [Holberton — C projects](https://github.com/Antgst/holbertonschool-low_level_programming)
 - [Holberton — Shell basics](https://github.com/Antgst/holbertonschool-shell)
 - [Holberton — Git intro](https://github.com/Antgst/git-intro)
@@ -49,8 +43,7 @@ I aim to build tools that simplify scheduling, communication, and daily executio
 ![Metrics](./github-metrics.svg)
 
 ## 🏃‍♂️ Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Antgst&bg_color=0d1117&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Antgst&bg_color=161b22&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true)
 
 ## 📊 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Antgst&show_icons=true&cache_seconds=1800)
