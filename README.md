@@ -30,7 +30,7 @@ I aim to build tools that simplify scheduling, communication, and daily executio
 ## 🔗 Links
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:ant.gousset@gmail.com)
 [![CV](https://img.shields.io/badge/CV-0d1117?style=for-the-badge&logo=googledocs&logoColor=58a6ff)](https://github.com/Antgst/cv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/antoinegousset352)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antoine%20Gousset-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/antoinegousset352)
 
 ## 📈 Metrics
 ![Metrics](./github-metrics.svg)
