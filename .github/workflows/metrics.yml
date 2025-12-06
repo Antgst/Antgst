@@ -1,7 +1,11 @@
 name: Metrics
+
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 6 * * *" # tous les jours
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 jobs:
