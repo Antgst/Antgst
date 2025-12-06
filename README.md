@@ -22,6 +22,7 @@ C • Git • Linux • (soon: JS/TS • Node • React)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ## 📌 Featured projects
 - [_printf](https://github.com/Antgst/holbertonschool-printf)
