@@ -19,19 +19,18 @@ I aim to build tools that simplify scheduling, communication, and daily executio
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=58a6ff)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58a6ff)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=58a6ff)
-[![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff)](https://code.visualstudio.com/)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff)
 
 ## 📌 Featured projects
-- [Holberton - "_printf Project"](https://github.com/Antgst/holbertonschool-printf)
-- [Holberton - C programming](https://github.com/Antgst/holbertonschool-low_level_programming)
-- [Holberton - Shell Programming](https://github.com/Antgst/holbertonschool-shell)
-- [Holberton - Git Programming](https://github.com/Antgst/git-intro)
+- [Holberton - "_printf"](https://github.com/Antgst/holbertonschool-printf)
+- [Holberton - C projects](https://github.com/Antgst/holbertonschool-low_level_programming)
+- [Holberton - Shell basics](https://github.com/Antgst/holbertonschool-shell)
+- [Holberton - Git intro](https://github.com/Antgst/git-intro)
 
 ## 🔗 Links
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:ant.gousset@gmail.com)
 [![CV](https://img.shields.io/badge/CV-0d1117?style=for-the-badge&logo=googledocs&logoColor=58a6ff)](https://github.com/Antgst/cv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/antoinegousset352)
-
 
 ## 📈 Metrics
 ![Metrics](./github-metrics.svg)
