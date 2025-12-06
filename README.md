@@ -9,7 +9,15 @@ I build projects focused on real-world needs, organization, and efficiency.
 Looking for an internship / apprenticeship in fullstack web development (Rennes or remote).
 
 ## 🧩 Skills
-[![My Skills](https://skillicons.dev/icons?i=c,bash,linux,git,vscode,html,css,js,ts,nodejs,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,vscode,c,bash&theme=dark)](https://skillicons.dev)
+
+<details>
+  <summary><b>Next up (learning soon)</b></summary>
+
+  <br/>
+
+  [![Next](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react&theme=dark)](https://skillicons.dev)
+</details>
 
 ## 🚀 Currently
 - C / fundamentals
