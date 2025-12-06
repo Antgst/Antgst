@@ -22,10 +22,10 @@ I aim to build tools that simplify scheduling, communication, and daily executio
 ![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff)
 
 ## 📌 Featured projects
-- [Holberton - "_printf"](https://github.com/Antgst/holbertonschool-printf)
-- [Holberton - C projects](https://github.com/Antgst/holbertonschool-low_level_programming)
-- [Holberton - Shell basics](https://github.com/Antgst/holbertonschool-shell)
-- [Holberton - Git intro](https://github.com/Antgst/git-intro)
+- [Holberton — "_printf"](https://github.com/Antgst/holbertonschool-printf)
+- [Holberton — C projects](https://github.com/Antgst/holbertonschool-low_level_programming)
+- [Holberton — Shell basics](https://github.com/Antgst/holbertonschool-shell)
+- [Holberton — Git intro](https://github.com/Antgst/git-intro)
 
 ## 🔗 Links
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:ant.gousset@gmail.com)
