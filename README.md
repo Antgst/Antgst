@@ -12,7 +12,7 @@ Je construis des projets orientés terrain, organisation et efficacité.
 C • Git • Linux • (bientôt : JS/TS • Node • React)
 
 ## 📌 Projets phares
-- _printf
+- ![_printf](https://github.com/Antgst/holbertonschool-printf)
 - ...
 
 ## 📈 Metrics
