@@ -1,5 +1,7 @@
 # 👋 Hi!
 
+![Profile views](https://komarev.com/ghpvc/?username=Antgst&label=Profile%20views&style=for-the-badge&color=161b22)
+
 I'm transitioning into fullstack web development.  
 I build projects focused on real-world needs, organization, and efficiency.
 
@@ -34,7 +36,6 @@ I aim to build tools that simplify scheduling, communication, and daily executio
 [![Gmail](https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:ant.gousset@gmail.com)
 [![CV](https://img.shields.io/badge/CV-161b22?style=for-the-badge&logo=googledocs&logoColor=58a6ff)](https://github.com/Antgst/cv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/antoinegousset352)
-![Profile views](https://komarev.com/ghpvc/?username=Antgst&label=Profile+views&style=for-the-badge&color=0d1117)
 
 ## 📈 Metrics
 ![Metrics](./github-metrics.svg)
