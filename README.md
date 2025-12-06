@@ -32,7 +32,11 @@ C • Git • Linux • (soon: JS/TS • Node • React)
 
 ## 🔗 Links
 - Portfolio: coming soon
-- LinkedIn: [Here](https://www.linkedin.com/in/antoinegousset352)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antoine%20Gousset-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoinegousset352)
+- [![Gmail](https://img.shields.io/badge/Gmail-ant.gousset%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ant.gousset@gmail.com)
+- [![CV](https://img.shields.io/badge/CV-View-0A66C2?logo=googledocs&logoColor=white)](TON_LIEN_CV)
+
+
 
 ## 📈 Metrics
 ![Metrics](./github-metrics.svg)
