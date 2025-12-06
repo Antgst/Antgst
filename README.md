@@ -36,13 +36,14 @@ C • Git • Linux • (soon: JS/TS • Node • React)
 - [![Gmail](https://img.shields.io/badge/Gmail-ant.gousset%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ant.gousset@gmail.com)
 - [![CV](https://img.shields.io/badge/CV-View-0A66C2?logo=googledocs&logoColor=white)](https://github.com/Antgst/CV/blob/main/CV.pdf)
 
-
-
 ## 📈 Metrics
 ![Metrics](./github-metrics.svg)
 
 ## 🏃‍♂️ Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Antgst)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Antgst&theme=github-compact&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Antgst&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Antgst&bg_color=0d1117&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true)
 
 ## 📊 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Antgst&show_icons=true&cache_seconds=1800)
