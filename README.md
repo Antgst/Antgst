@@ -35,7 +35,7 @@ C • Git • Linux • (soon: JS/TS • Node • React)
 
 ## 🔗 Links
 - Portfolio: coming soon
-- LinkedIn: [Here](www.linkedin.com/in/antoinegousset352)
+- LinkedIn: [Here](https://www.linkedin.com/in/antoinegousset352)
 
 ## 📊 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Antgst&show_icons=true&cache_seconds=1800)
