@@ -19,7 +19,7 @@ C • Git • Linux • (bientôt : JS/TS • Node • React)
 ![Metrics](./github-metrics.svg)
 
 ## 🏃‍♂️ Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TON_USER)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Antgst)
 
 ## 📊 Stats
 - ![Stats](https://github-readme-stats.vercel.app/api?username=Antgst&show_icons=true&cache_seconds=1800)
