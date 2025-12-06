@@ -16,5 +16,5 @@ C • Git • Linux • (bientôt : JS/TS • Node • React)
 - ...
 
 ## 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USER&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USER&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Antgst&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antgst&layout=compact)
