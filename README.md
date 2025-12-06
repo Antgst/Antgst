@@ -31,7 +31,6 @@ C • Git • Linux • (soon: JS/TS • Node • React)
 - [Holberton - Git Programming](https://github.com/Antgst/git-intro)
 
 ## 🔗 Links
-- Portfolio: coming soon
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:ant.gousset@gmail.com)
 [![CV](https://img.shields.io/badge/CV-0d1117?style=for-the-badge&logo=googledocs&logoColor=58a6ff)](https://github.com/Antgst/cv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/antoinegousset352)
