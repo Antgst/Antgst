@@ -15,10 +15,7 @@ Looking for an internship / apprenticeship in fullstack web development (Rennes 
 Former retail manager focused on team efficiency and field operations.  
 I aim to build tools that simplify scheduling, communication, and daily execution.
 
-## 🧰 Stack
-C • Git • Linux • (soon: JS/TS • Node • React)
-
-## 🛠️ Tools
+## 🛠️ Tools & 🧰 Stack
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=58a6ff)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58a6ff)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=58a6ff)
