@@ -25,10 +25,10 @@ C • Git • Linux • (soon: JS/TS • Node • React)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ## 📌 Featured projects
-- [Holberton school "_printf Project"](https://github.com/Antgst/holbertonschool-printf)
-- [Holberton school x C programming](https://github.com/Antgst/holbertonschool-low_level_programming)
-- [Holberton x Shell Programming](https://github.com/Antgst/holbertonschool-shell)
-- [Holberton x Git Programming](https://github.com/Antgst/git-intro)
+- [Holberton school - "_printf Project"](https://github.com/Antgst/holbertonschool-printf)
+- [Holberton school - C programming](https://github.com/Antgst/holbertonschool-low_level_programming)
+- [Holberton - Shell Programming](https://github.com/Antgst/holbertonschool-shell)
+- [Holberton - Git Programming](https://github.com/Antgst/git-intro)
 
 ## 🔗 Links
 - Portfolio: coming soon
