@@ -29,6 +29,7 @@ Former retail manager focused on team efficiency and field operations.
 I aim to build tools that simplify scheduling, communication, and daily execution.
 
 ## 📌 Featured projects
+- [Holberton — _Binary trees](https://github.com/Antgst/holbertonschool-binary_trees)
 - [Holberton — _printf](https://github.com/Antgst/holbertonschool-printf)
 - [Holberton — C projects](https://github.com/Antgst/holbertonschool-low_level_programming)
 - [Holberton — Shell basics](https://github.com/Antgst/holbertonschool-shell)
