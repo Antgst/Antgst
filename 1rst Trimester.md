@@ -8252,7 +8252,7 @@ void hash_table_delete(hash_table_t *ht)
 
 - --
 
-/**<a id="c-binary-trees-georgia"></a>
+<a id="c-binary-trees-georgia"></a>
 
 ## 💻 C - BINARY TREES GEORGIA
 
@@ -10003,4 +10003,3 @@ O(n^2)
 </details>
 
 - --
-/*
