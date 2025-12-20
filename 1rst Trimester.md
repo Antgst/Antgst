@@ -7827,6 +7827,7 @@ All your header files should be include guarded
 
 ### 🔎 More Info
 
+```c
 Data Structures
 Please use these data structures for this project:
 
@@ -7858,10 +7859,14 @@ typedef struct hash_table_s
      unsigned long int size;
      hash_node_t **array;
 } hash_table_t;
-Tests
+```
+### 🧪 Tests
 We strongly encourage you to work all together on a set of tests
-Python Dictionaries
+
+### 📚 Python Dictionaries
+
 Python dictionaries are implemented using hash tables. When you will be done with this project, you will be able to better understand the power and simplicity of Python dictionaries. So much is actually happening when you type d = {'a': 1, 'b': 2}, but everything looks so simple for the user. Python doesn’t use the exact same implementation than the one you will work on today though. If you are curious on how it works under the hood, here is a good blog post about how dictionaries are implemented in Python 2.7 (not mandatory).
+
 
 ### 🧩 Tâches
 
@@ -8254,42 +8259,47 @@ void hash_table_delete(hash_table_t *ht)
 
 <a id="c-binary-trees-georgia"></a>
 
-## 💻 C - BINARY TREES GEORGIA
+## 💻🌳 C - BINARY TREES (GEORGIA)
+
+---
 
 ### 📌 General
+- What is a binary tree
+- What is the difference between a binary tree and a Binary Search Tree
+- What is the possible gain in terms of time complexity compared to linked lists
+- What are the depth, the height, the size of a binary tree
+- What are the different traversal methods to go through a binary tree
+- What is a complete, a full, a perfect, a balanced binary tree
 
-What is a binary tree
-What is the difference between a binary tree and a Binary Search Tree
-What is the possible gain in terms of time complexity compared to linked lists
-What are the depth, the height, the size of a binary tree
-What are the different traversal methods to go through a binary tree
-What is a complete, a full, a perfect, a balanced binary tree
+---
 
 ### ✅ Requirements
+- Allowed editors: `vi`, `vim`, `emacs`
+- All files will be compiled on **Ubuntu 20.04 LTS** using `gcc` with:  
+  `-Wall -Werror -Wextra -pedantic -std=gnu89`
+- All files should end with a new line
+- A `README.md` at the root of the project folder is mandatory
+- Betty style required (`betty-style.pl`, `betty-doc.pl`)
+- You are not allowed to use global variables
+- No more than **5 functions per file**
+- You are allowed to use the standard library
+- `main.c` files shown are examples only (don’t push them; correction uses custom mains)
+- The prototypes of all your functions should be included in your header file called `binary_trees.h`
+- Don’t forget to push your header file
+- All your header files should be include guarded
 
-Allowed editors: vi, vim, emacs
-All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
-All your files should end with a new line
-A README.md file, at the root of the folder of the project, is mandatory
-Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
-You are not allowed to use global variables
-No more than 5 functions per file
-You are allowed to use the standard library
-In the following examples, the main.c files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own main.c files at compilation. Our main.c files might be different from the one shown in the examples
-The prototypes of all your functions should be included in your header file called binary_trees.h
-Don’t forget to push your header file
-All your header files should be include guarded
+#### 🧷 GitHub
+- There should be **one project repository per group**.  
+  If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a **0% score**.
 
-GitHub
-There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
+---
 
 ### 🔎 More Info
 
-Data structures
+#### 🧱 Data structures
 
-Please use the following data structures and types for binary trees. Don’t forget to include them in your header file.
-
-Basic Binary Tree
+##### 🌳 Basic Binary Tree
+```c
 /**
  * struct binary_tree_s - Binary tree node
  *
@@ -8307,26 +8317,35 @@ struct binary_tree_s
 };
 
 typedef struct binary_tree_s binary_tree_t;
+```
 
-Binary Search Tree
-
+##### 🌲 Binary Search Tree
+```c
 typedef struct binary_tree_s bst_t;
+```
 
-AVL Tree
-
+##### ⚖️ AVL Tree
+```c
 typedef struct binary_tree_s avl_t;
+```
 
-Max Binary Heap
-
+##### 📦 Max Binary Heap
+```c
 typedef struct binary_tree_s heap_t;
+```
 
-Note: For tasks 0 to 23 (included), you have to deal with simple binary trees. They are not BSTs, thus they don’t follow any kind of rule.
+> 📝 Note: For tasks 0 to 23 (included), you have to deal with **simple binary trees**. They are not BSTs, thus they don’t follow any kind of rule.
 
-Print function
-To match the examples in the tasks, you are given this function
+---
 
-This function is used only for visualization purposes. You don’t have to push it to your repo. It may not be used during the correction
+#### 🖨️ Print function
+To match the examples in the tasks, you are given this function.
 
+- This function is used only for visualization purposes.
+- You don’t have to push it to your repo.
+- It may not be used during the correction.
+
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -8426,7 +8445,10 @@ void binary_tree_print(const binary_tree_t *tree)
 	}
 	free(s);
 }
+```
 
+##### 🧩 Header example (for the print function)
+```c
 #ifndef _BINARY_TREES_H_
 #define _BINARY_TREES_H_
 
@@ -8451,6 +8473,9 @@ typedef struct binary_tree_s
 void binary_tree_print(const binary_tree_t *);
 
 #endif /* _BINARY_TREES_H_ */
+```
+
+---
 
 ### 🧩 Tâches
 
@@ -8458,16 +8483,14 @@ void binary_tree_print(const binary_tree_t *);
 <summary><strong>🧩 0. New node</strong></summary>
 
 **📝 Énoncé**
-
-Write a function that creates a binary tree node
-**Prototype:** binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
-Where parent is a pointer to the parent node of the node to create
-And value is the value to put in the new node
-When created, a node does not have any child
-Your function must return a pointer to the new node, or NULL on failure
+- Write a function that creates a binary tree node  
+- **Prototype:** `binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);`
+- `parent` is a pointer to the parent node of the node to create  
+- `value` is the value to put in the new node  
+- When created, a node does not have any child  
+- Return a pointer to the new node, or `NULL` on failure  
 
 **✅ Réponse**
-
 ```c
 #include <stdlib.h>
 #include "binary_trees.h"
@@ -8477,13 +8500,8 @@ Your function must return a pointer to the new node, or NULL on failure
 * @parent: Pointer to the parent node of the new node
 * @value: Value to store in the new node
 *
-* Description: Allocates memory for a new binary tree node,
-* initializes its value to `value`, sets its parent to `parent`,
-* and its left and right children to NULL.
-*
 * Return: Pointer to the newly created node, or NULL on failure
 */
-
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
 	binary_tree_t *new_node;
@@ -8500,23 +8518,18 @@ binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 	return (new_node);
 }
 ```
-
 </details>
 
 <details>
 <summary><strong>🧩 1. Insert left</strong></summary>
 
 **📝 Énoncé**
-
-Write a function that inserts a node as the left-child of another node
-**Prototype:** binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value);
-Where parent is a pointer to the node to insert the left-child in
-And value is the value to store in the new node
-Your function must return a pointer to the created node, or NULL on failure or if parent is NULL
-If parent already has a left-child, the new node must take its place, and the old left-child must be set as the left-child of the new node.
+- Write a function that inserts a node as the left-child of another node  
+- **Prototype:** `binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value);`
+- Return a pointer to the created node, or `NULL` on failure or if `parent` is `NULL`
+- If `parent` already has a left-child, the new node must take its place, and the old left-child must be set as the left-child of the new node  
 
 **✅ Réponse**
-
 ```c
 #include <stdlib.h>
 #include "binary_trees.h"
@@ -8526,13 +8539,7 @@ If parent already has a left-child, the new node must take its place, and the ol
  * @parent: Pointer to the parent node
  * @value: Value to store in the new node
  *
- * Description: Creates a new node and inserts it as the left child of
- * the parent node. If the parent already has a left child, the new
- * node replaces it and the old left child becomes the left child of
- * the new node.
- *
- * Return: Pointer to the newly created node, or NULL on failure or if
- * parent is NULL
+ * Return: Pointer to the newly created node, or NULL on failure or if parent is NULL
  */
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
 {
@@ -8552,31 +8559,26 @@ binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
 
 	if (parent->left != NULL)
 	{
-	new_node->left = parent->left;
-	parent->left->parent = new_node;
+		new_node->left = parent->left;
+		parent->left->parent = new_node;
 	}
 	parent->left = new_node;
 
 	return (new_node);
 }
 ```
-
 </details>
 
 <details>
 <summary><strong>🧩 2. Insert right</strong></summary>
 
 **📝 Énoncé**
-
-Write a function that inserts a node as the right-child of another node
-**Prototype:** binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value);
-Where parent is a pointer to the node to insert the right-child in
-And value is the value to store in the new node
-Your function must return a pointer to the created node, or NULL on failure or if parent is NULL
-If parent already has a right-child, the new node must take its place, and the old right-child must be set as the right-child of the new node.
+- Write a function that inserts a node as the right-child of another node  
+- **Prototype:** `binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value);`
+- Return a pointer to the created node, or `NULL` on failure or if `parent` is `NULL`
+- If `parent` already has a right-child, the new node must take its place, and the old right-child must be set as the right-child of the new node  
 
 **✅ Réponse**
-
 ```c
 #include <stdlib.h>
 #include "binary_trees.h"
@@ -8586,13 +8588,7 @@ If parent already has a right-child, the new node must take its place, and the o
  * @parent: Pointer to the parent node
  * @value: Value to store in the new node
  *
- * Description: Creates a new node and inserts it as the right child of
- * the parent node. If the parent already has a right child, the new
- * node replaces it and the old right child becomes the right child of
- * the new node.
- *
- * Return: Pointer to the newly created node,
- * or NULL on failure or if parent is NULL
+ * Return: Pointer to the newly created node, or NULL on failure or if parent is NULL
  */
 binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 {
@@ -8620,21 +8616,17 @@ binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 	return (new_node);
 }
 ```
-
 </details>
 
 <details>
 <summary><strong>🧩 3. Delete</strong></summary>
 
 **📝 Énoncé**
-
-Write a function that deletes an entire binary tree
-**Prototype:** void binary_tree_delete(binary_tree_t *tree);
-Where tree is a pointer to the root node of the tree to delete
-If tree is NULL, do nothing
+- Write a function that deletes an entire binary tree  
+- **Prototype:** `void binary_tree_delete(binary_tree_t *tree);`
+- If `tree` is `NULL`, do nothing  
 
 **✅ Réponse**
-
 ```c
 #include "binary_trees.h"
 #include <stdlib.h>
@@ -8642,8 +8634,6 @@ If tree is NULL, do nothing
 /**
 * binary_tree_delete - Deletes an entire binary tree
 * @tree: Pointer to the root node of the tree to delete
-*
-* If tree is NULL, do nothing
 */
 void binary_tree_delete(binary_tree_t *tree)
 {
@@ -8651,28 +8641,22 @@ void binary_tree_delete(binary_tree_t *tree)
 		return;
 
 	binary_tree_delete(tree->left);
-
 	binary_tree_delete(tree->right);
-
 	free(tree);
 }
 ```
-
 </details>
 
 <details>
 <summary><strong>🧩 4. Is leaf</strong></summary>
 
 **📝 Énoncé**
-
-Write a function that checks if a node is a leaf
-**Prototype:** int binary_tree_is_leaf(const binary_tree_t *node);
-Where node is a pointer to the node to check
-Your function must return 1 if node is a leaf, otherwise 0
-If node is NULL, return 0
+- Write a function that checks if a node is a leaf  
+- **Prototype:** `int binary_tree_is_leaf(const binary_tree_t *node);`
+- Return `1` if node is a leaf, otherwise `0`
+- If `node` is `NULL`, return `0`  
 
 **✅ Réponse**
-
 ```c
 #include "binary_trees.h"
 
@@ -8680,34 +8664,28 @@ If node is NULL, return 0
  * binary_tree_is_leaf - Checks if a node is a leaf
  * @node: Pointer to the node to check
  *
- * Return: 1 if the node is a leaf, 0 otherwise
- *         Returns 0 if node is NULL
+ * Return: 1 if leaf, 0 otherwise
  */
 int binary_tree_is_leaf(const binary_tree_t *node)
 {
 	if (node == NULL)
 		return (0);
-	if (node->left == NULL && node->right == NULL)
-		return (1);
-	return (0);
+
+	return (node->left == NULL && node->right == NULL);
 }
 ```
-
 </details>
 
 <details>
 <summary><strong>🧩 5. Is root</strong></summary>
 
 **📝 Énoncé**
-
-Write a function that checks if a given node is a root
-**Prototype:** int binary_tree_is_root(const binary_tree_t *node);
-Where node is a pointer to the node to check
-Your function must return 1 if node is a root, otherwise 0
-If node is NULL, return 0
+- Write a function that checks if a given node is a root  
+- **Prototype:** `int binary_tree_is_root(const binary_tree_t *node);`
+- Return `1` if node is a root, otherwise `0`
+- If `node` is `NULL`, return `0`  
 
 **✅ Réponse**
-
 ```c
 #include "binary_trees.h"
 
@@ -8715,44 +8693,34 @@ If node is NULL, return 0
  * binary_tree_is_root - Checks if a node is a root
  * @node: Pointer to the node to check
  *
- * Return: 1 if the node is a root, 0 otherwise
- *         Returns 0 if node is NULL
+ * Return: 1 if root, 0 otherwise
  */
 int binary_tree_is_root(const binary_tree_t *node)
 {
 	if (node == NULL)
 		return (0);
-	if (node->parent == NULL)
-		return (1);
-	return (0);
+
+	return (node->parent == NULL);
 }
 ```
-
 </details>
 
 <details>
 <summary><strong>🧩 6. Pre-order traversal</strong></summary>
 
 **📝 Énoncé**
-
-Write a function that goes through a binary tree using pre-order traversal
-**Prototype:** void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int));
-Where tree is a pointer to the root node of the tree to traverse
-And func is a pointer to a function to call for each node. The value in the node must be passed as a parameter to this function.
-If tree or func is NULL, do nothing
+- Write a function that goes through a binary tree using pre-order traversal  
+- **Prototype:** `void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int));`
+- If `tree` or `func` is `NULL`, do nothing  
 
 **✅ Réponse**
-
 ```c
 #include "binary_trees.h"
 
 /**
-* binary_tree_preorder - parcourt un arbre binaire en pré-ordre
-* @tree: pointeur vers la racine de l'arbre à parcourir
-* @func: pointeur vers la fonction à appeler pour chaque nœud
-*
-* Description: La fonction traverse l'arbre en pré-ordre et
-* appelle la fonction `func` sur la valeur de chaque nœud.
+* binary_tree_preorder - traverses a binary tree using pre-order traversal
+* @tree: pointer to the root node of the tree
+* @func: function to call on each node's value
 */
 void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
 {
@@ -8764,34 +8732,24 @@ void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
 	binary_tree_preorder(tree->right, func);
 }
 ```
-
 </details>
 
 <details>
 <summary><strong>🧩 7. In-order traversal</strong></summary>
 
 **📝 Énoncé**
-
-Write a function that goes through a binary tree using in-order traversal
-**Prototype:** void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int));
-Where tree is a pointer to the root node of the tree to traverse
-And func is a pointer to a function to call for each node. The value in the node must be passed as a parameter to this function.
-If tree or func is NULL, do nothing
+- Write a function that goes through a binary tree using in-order traversal  
+- **Prototype:** `void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int));`
+- If `tree` or `func` is `NULL`, do nothing  
 
 **✅ Réponse**
-
 ```c
-#include <stdlib.h>
-#include <stdio.h>
 #include "binary_trees.h"
 
 /**
  * binary_tree_inorder - traverses a binary tree in-order
  * @tree: pointer to the root node of the tree
  * @func: function to call on each node's value
- *
- * Description: Visits nodes in in-order (left → node → right)
- * and applies func to each node. Does nothing if tree or func is NULL.
  */
 void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int))
 {
@@ -8803,22 +8761,17 @@ void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int))
 	binary_tree_inorder(tree->right, func);
 }
 ```
-
 </details>
 
 <details>
 <summary><strong>🧩 8. Post-order traversal</strong></summary>
 
 **📝 Énoncé**
-
-Write a function that goes through a binary tree using post-order traversal
-**Prototype:** void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int));
-Where tree is a pointer to the root node of the tree to traverse
-And func is a pointer to a function to call for each node. The value in the node must be passed as a parameter to this function.
-If tree or func is NULL, do nothing
+- Write a function that goes through a binary tree using post-order traversal  
+- **Prototype:** `void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int));`
+- If `tree` or `func` is `NULL`, do nothing  
 
 **✅ Réponse**
-
 ```c
 #include "binary_trees.h"
 
@@ -8826,9 +8779,6 @@ If tree or func is NULL, do nothing
  * binary_tree_postorder - traverses a binary tree in post-order
  * @tree: pointer to the root node of the tree
  * @func: function to call on each node's value
- *
- * Description: Visits nodes in post-order (left → right → node)
- * and applies func to each node. Does nothing if tree or func is NULL.
  */
 void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
 {
@@ -8840,21 +8790,17 @@ void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
 	func(tree->n);
 }
 ```
-
 </details>
 
 <details>
 <summary><strong>🧩 9. Height</strong></summary>
 
 **📝 Énoncé**
-
-Write a function that measures the height of a binary tree
-**Prototype:** size_t binary_tree_height(const binary_tree_t *tree);
-Where tree is a pointer to the root node of the tree to measure the height.
-If tree is NULL, your function must return 0
+- Write a function that measures the height of a binary tree  
+- **Prototype:** `size_t binary_tree_height(const binary_tree_t *tree);`
+- If `tree` is `NULL`, return `0`  
 
 **✅ Réponse**
-
 ```c
 #include "binary_trees.h"
 
@@ -8871,7 +8817,6 @@ size_t binary_tree_height(const binary_tree_t *tree)
 	if (tree == NULL)
 		return (0);
 
-	/* Si c'est une feuille, height = 0 */
 	if (tree->left == NULL && tree->right == NULL)
 		return (0);
 
@@ -8884,21 +8829,17 @@ size_t binary_tree_height(const binary_tree_t *tree)
 	return (right_height + 1);
 }
 ```
-
 </details>
 
 <details>
 <summary><strong>🧩 10. Depth</strong></summary>
 
 **📝 Énoncé**
-
-Write a function that measures the depth of a node in a binary tree
-**Prototype:** size_t binary_tree_depth(const binary_tree_t *tree);
-Where tree is a pointer to the node to measure the depth
-If tree is NULL, your function must return 0
+- Write a function that measures the depth of a node in a binary tree  
+- **Prototype:** `size_t binary_tree_depth(const binary_tree_t *tree);`
+- If `tree` is `NULL`, return `0`  
 
 **✅ Réponse**
-
 ```c
 #include "binary_trees.h"
 
@@ -8910,12 +8851,11 @@ If tree is NULL, your function must return 0
 */
 size_t binary_tree_depth(const binary_tree_t *tree)
 {
-	size_t depth;
+	size_t depth = 0;
 
 	if (tree == NULL)
 		return (0);
 
-	depth = 0;
 	while (tree->parent != NULL)
 	{
 		tree = tree->parent;
@@ -8925,21 +8865,17 @@ size_t binary_tree_depth(const binary_tree_t *tree)
 	return (depth);
 }
 ```
-
 </details>
 
 <details>
 <summary><strong>🧩 11. Size</strong></summary>
 
 **📝 Énoncé**
-
-Write a function that measures the size of a binary tree
-**Prototype:** size_t binary_tree_size(const binary_tree_t *tree);
-Where tree is a pointer to the root node of the tree to measure the size
-If tree is NULL, the function must return 0
+- Write a function that measures the size of a binary tree  
+- **Prototype:** `size_t binary_tree_size(const binary_tree_t *tree);`
+- If `tree` is `NULL`, return `0`  
 
 **✅ Réponse**
-
 ```c
 #include "binary_trees.h"
 
@@ -8951,8 +8887,7 @@ If tree is NULL, the function must return 0
  */
 size_t binary_tree_size(const binary_tree_t *tree)
 {
-	size_t left_size;
-	size_t right_size;
+	size_t left_size, right_size;
 
 	if (tree == NULL)
 		return (0);
@@ -8963,22 +8898,18 @@ size_t binary_tree_size(const binary_tree_t *tree)
 	return (1 + left_size + right_size);
 }
 ```
-
 </details>
 
 <details>
 <summary><strong>🧩 12. Leaves</strong></summary>
 
 **📝 Énoncé**
-
-Write a function that counts the leaves in a binary tree
-**Prototype:** size_t binary_tree_leaves(const binary_tree_t *tree);
-Where tree is a pointer to the root node of the tree to count the number of leaves
-If tree is NULL, the function must return 0
-A NULL pointer is not a leaf
+- Write a function that counts the leaves in a binary tree  
+- **Prototype:** `size_t binary_tree_leaves(const binary_tree_t *tree);`
+- If `tree` is `NULL`, return `0`  
+- A NULL pointer is not a leaf  
 
 **✅ Réponse**
-
 ```c
 #include "binary_trees.h"
 
@@ -8986,16 +8917,11 @@ A NULL pointer is not a leaf
  * binary_tree_leaves - counts the leaves in a binary tree
  * @tree: pointer to the root node of the tree
  *
- * Description: Counts the number of leaf nodes in a binary tree.
- * A leaf is a node with no children.
- *
  * Return: number of leaves in the tree, or 0 if tree is NULL
  */
-
 size_t binary_tree_leaves(const binary_tree_t *tree)
 {
-	size_t left_leaves;
-	size_t right_leaves;
+	size_t left_leaves, right_leaves;
 
 	if (tree == NULL)
 		return (0);
@@ -9009,22 +8935,18 @@ size_t binary_tree_leaves(const binary_tree_t *tree)
 	return (left_leaves + right_leaves);
 }
 ```
-
 </details>
 
 <details>
 <summary><strong>🧩 13. Nodes</strong></summary>
 
 **📝 Énoncé**
-
-Write a function that counts the nodes with at least 1 child in a binary tree
-**Prototype:** size_t binary_tree_nodes(const binary_tree_t *tree);
-Where tree is a pointer to the root node of the tree to count the number of nodes
-If tree is NULL, the function must return 0
-A NULL pointer is not a node
+- Write a function that counts the nodes with at least 1 child in a binary tree  
+- **Prototype:** `size_t binary_tree_nodes(const binary_tree_t *tree);`
+- If `tree` is `NULL`, return `0`  
+- A NULL pointer is not a node  
 
 **✅ Réponse**
-
 ```c
 #include "binary_trees.h"
 
@@ -9050,31 +8972,23 @@ size_t binary_tree_nodes(const binary_tree_t *tree)
 	return (count);
 }
 ```
-
 </details>
 
 <details>
 <summary><strong>🧩 14. Balance factor</strong></summary>
 
 **📝 Énoncé**
-
-Write a function that measures the balance factor of a binary tree
-**Prototype:** int binary_tree_balance(const binary_tree_t *tree);
-Where tree is a pointer to the root node of the tree to measure the balance factor
-If tree is NULL, return 0
+- Write a function that measures the balance factor of a binary tree  
+- **Prototype:** `int binary_tree_balance(const binary_tree_t *tree);`
+- If `tree` is `NULL`, return `0`  
 
 **✅ Réponse**
-
 ```c
 #include "binary_trees.h"
 
 /**
  * binary_tree_height - Measures the height of a binary tree
  * @tree: Pointer to the root node of the tree
- *
- * Description: The height is defined as the number of edges on the
- * longest path from the root node to a leaf. An empty tree has a
- * height of 0.
  *
  * Return: The height of the tree, or 0 if @tree is NULL
  */
@@ -9090,15 +9004,15 @@ size_t binary_tree_height(const binary_tree_t *tree)
 
 	if (left_height > right_height)
 		return (left_height + 1);
-	else
-		return (right_height + 1);
+
+	return (right_height + 1);
 }
 
 /**
  * binary_tree_balance - measures the balance factor of a binary tree
  * @tree: pointer to the root node of the tree
  *
- * Return: The balance of the binary tree, or 0 if tree is NULL
+ * Return: balance factor, or 0 if tree is NULL
  */
 int binary_tree_balance(const binary_tree_t *tree)
 {
@@ -9107,899 +9021,12 @@ int binary_tree_balance(const binary_tree_t *tree)
 	if (tree == NULL)
 		return (0);
 
-	left_height = binary_tree_height(tree->left);
-	right_height = binary_tree_height(tree->right);
+	left_height = (int)binary_tree_height(tree->left);
+	right_height = (int)binary_tree_height(tree->right);
 
 	return (left_height - right_height);
 }
 ```
-
 </details>
 
-<details>
-<summary><strong>🧩 15. Is full</strong></summary>
-
-**📝 Énoncé**
-
-Write a function that checks if a binary tree is full
-**Prototype:** int binary_tree_is_full(const binary_tree_t *tree);
-Where tree is a pointer to the root node of the tree to check
-If tree is NULL, your function must return 0
-
-**✅ Réponse**
-
-```c
-#include "binary_trees.h"
-
-/**
- * binary_tree_is_full - checks if a binary tree is full
- * @tree: pointer to the root node of the tree
- *
- * Return: 1 if the tree is full, 0 otherwise
- */
-int binary_tree_is_full(const binary_tree_t *tree)
-{
-	int left_tree, right_tree;
-
-	if (tree == NULL)
-		return (0);
-
-	if (tree->left == NULL && tree->right == NULL)
-		return (1);
-
-	if (tree->left != NULL && tree->right != NULL)
-	{
-		left_tree = binary_tree_is_full(tree->left);
-		right_tree = binary_tree_is_full(tree->right);
-		if (left_tree && right_tree)
-			return (1);
-		else
-			return (0);
-	}
-	return (0);
-}
-```
-
-</details>
-
-<details>
-<summary><strong>🧩 16. Is perfect</strong></summary>
-
-**📝 Énoncé**
-
-Write a function that checks if a binary tree is perfect
-**Prototype:** int binary_tree_is_perfect(const binary_tree_t *tree);
-Where tree is a pointer to the root node of the tree to check
-If tree is NULL, your function must return 0
-
-**✅ Réponse**
-
-```c
-#include "binary_trees.h"
-
-/**
-* _tree_depth - measures the depth of a node in a binary tree
-* @tree: pointer to the node to measure
-*
-* Description: Returns the depth of the node in the tree. The depth
-* is defined as the number of edges from the node to the root node.
-*
-* Return: The depth of the binary tree
-*/
-size_t _tree_depth(const binary_tree_t *tree)
-{
-	size_t depth = 0;
-	const binary_tree_t *node = tree;
-
-	while (node->parent != NULL)
-	{
-		node = node->parent;
-		depth++;
-	}
-	return (depth);
-}
-
-/**
-* binary_tree_is_full - checks if a binary tree is full
-* @tree: pointer to the root node of the tree
-*
-* Return: 1 if the tree is full, 0 otherwise
-*/
-int binary_tree_is_full(const binary_tree_t *tree)
-{
-	int left_tree, right_tree;
-
-	if (tree == NULL)
-		return (0);
-
-	if (tree->left == NULL && tree->right == NULL)
-		return (1);
-
-	if (tree->left != NULL && tree->right != NULL)
-	{
-		left_tree = binary_tree_is_full(tree->left);
-		right_tree = binary_tree_is_full(tree->right);
-		if (left_tree && right_tree)
-			return (1);
-		else
-			return (0);
-	}
-	return (0);
-}
-
-/**
-* check_all_leaves_depth - checks if all leaves in a binary tree
-*                          are at the same depth
-* @node: pointer to the root of the subtree
-* @depth_ref: reference depth to compare the leaves against
-*
-* Return: 1 if all leaves are at the same depth, 0 otherwise
-*/
-int check_all_leaves_depth(const binary_tree_t *node, size_t depth_ref)
-{
-	int left, right;
-
-	if (node == NULL)
-		return (1);
-
-	if (node->left == NULL && node->right == NULL)
-		return (_tree_depth(node) == depth_ref);
-
-	left = check_all_leaves_depth(node->left, depth_ref);
-	right = check_all_leaves_depth(node->right, depth_ref);
-
-	return (left && right);
-}
-/**
-* binary_tree_is_perfect - checks if a binary tree is perfect
-* @tree: pointer to the root node of the tree
-*
-* Return: 1 if the tree is perfect, 0 otherwise
-*/
-int binary_tree_is_perfect(const binary_tree_t *tree)
-{
-	const binary_tree_t *node;
-	size_t depth_ref;
-
-	if (tree == NULL)
-		return (0);
-
-	if (!binary_tree_is_full(tree))
-		return (0);
-
-	node = tree;
-	while (node->left != NULL)
-		node = node->left;
-
-	depth_ref = _tree_depth(node);
-
-	return (check_all_leaves_depth(tree, depth_ref));
-}
-```
-
-</details>
-
-<details>
-<summary><strong>🧩 17. Sibling</strong></summary>
-
-**📝 Énoncé**
-
-Write a function that finds the sibling of a node
-**Prototype:** binary_tree_t *binary_tree_sibling(binary_tree_t *node);
-Where node is a pointer to the node to find the sibling
-Your function must return a pointer to the sibling node
-If node is NULL or the parent is NULL, return NULL
-If node has no sibling, return NULL
-
-**✅ Réponse**
-
-```c
-#include "binary_trees.h"
-
-/**
- * binary_tree_sibling - finds the sibling of a node in a binary tree
- * @node: pointer to the node to find the sibling of
- *
- * Return: pointer to the sibling node, or NULL if node is NULL,
- *         if parent is NULL, or if there is no sibling
- */
-binary_tree_t *binary_tree_sibling(binary_tree_t *node)
-{
-	if (node == NULL || node->parent == NULL)
-		return (NULL);
-
-	if (node->parent->left == node)
-		return (node->parent->right);
-
-	return (node->parent->left);
-}
-```
-
-</details>
-
-<details>
-<summary><strong>🧩 18. Uncle</strong></summary>
-
-**📝 Énoncé**
-
-Write a function that finds the uncle of a node
-**Prototype:** binary_tree_t *binary_tree_uncle(binary_tree_t *node);
-Where node is a pointer to the node to find the uncle
-Your function must return a pointer to the uncle node
-If node is NULL, return NULL
-If node has no uncle, return NULL
-
-**✅ Réponse**
-
-```c
-#include "binary_trees.h"
-
-/**
-* binary_tree_uncle - Finds the uncle of a node in a binary tree
-* @node: Pointer to the node to find the uncle of
-*
-* Return: Pointer to the uncle node
-*         If node is NULL or has no uncle, returns NULL
-*/
-binary_tree_t *binary_tree_uncle(binary_tree_t *node)
-{
-	binary_tree_t *parent;
-	binary_tree_t *grandparent;
-	binary_tree_t *uncle;
-
-	if (node == NULL)
-		return (NULL);
-
-	parent = node->parent;
-	if (parent == NULL)
-		return (NULL);
-
-	grandparent = parent->parent;
-	if (grandparent == NULL)
-		return (NULL);
-
-	if (grandparent->left == parent)
-		uncle = grandparent->right;
-	else
-		uncle = grandparent->left;
-
-	return (uncle);
-}
-```
-
-</details>
-
-- --
-
-<a id="c-binary-trees-antoine"></a>
-
-## 💻 C - BINARY TREES ANTOINE
-
-### 📌 General
-
-What is a binary tree
-What is the difference between a binary tree and a Binary Search Tree
-What is the possible gain in terms of time complexity compared to linked lists
-What are the depth, the height, the size of a binary tree
-What are the different traversal methods to go through a binary tree
-What is a complete, a full, a perfect, a balanced binary tree
-
-### ✅ Requirements
-
-Allowed editors: vi, vim, emacs
-All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
-All your files should end with a new line
-A README.md file, at the root of the folder of the project, is mandatory
-Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
-You are not allowed to use global variables
-No more than 5 functions per file
-You are allowed to use the standard library
-In the following examples, the main.c files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own main.c files at compilation. Our main.c files might be different from the one shown in the examples
-The prototypes of all your functions should be included in your header file called binary_trees.h
-Don’t forget to push your header file
-All your header files should be include guarded
-
-GitHub
-There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
-
-### 🔎 More Info
-
-Data structures
-
-Please use the following data structures and types for binary trees. Don’t forget to include them in your header file.
-
-Basic Binary Tree
-/**
- * struct binary_tree_s - Binary tree node
- *
- * @n: Integer stored in the node
- * @parent: Pointer to the parent node
- * @left: Pointer to the left child node
- * @right: Pointer to the right child node
- */
-struct binary_tree_s
-{
-    int n;
-    struct binary_tree_s *parent;
-    struct binary_tree_s *left;
-    struct binary_tree_s *right;
-};
-
-typedef struct binary_tree_s binary_tree_t;
-
-Binary Search Tree
-
-typedef struct binary_tree_s bst_t;
-
-AVL Tree
-
-typedef struct binary_tree_s avl_t;
-
-Max Binary Heap
-
-typedef struct binary_tree_s heap_t;
-
-Note: For tasks 0 to 23 (included), you have to deal with simple binary trees. They are not BSTs, thus they don’t follow any kind of rule.
-
-Print function
-To match the examples in the tasks, you are given this function
-
-This function is used only for visualization purposes. You don’t have to push it to your repo. It may not be used during the correction
-
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include "binary_trees.h"
-
-/* Original code from http://stackoverflow.com/a/13755911/5184480 */
-
-/**
- * print_t - Stores recursively each level in an array of strings
- *
- * @tree: Pointer to the node to print
- * @offset: Offset to print
- * @depth: Depth of the node
- * @s: Buffer
- *
- * Return: length of printed tree after process
- */
-static int print_t(const binary_tree_t *tree, int offset, int depth, char **s)
-{
-	char b[6];
-	int width, left, right, is_left, i;
-
-	if (!tree)
-		return (0);
-	is_left = (tree->parent && tree->parent->left == tree);
-	width = sprintf(b, "(%03d)", tree->n);
-	left = print_t(tree->left, offset, depth + 1, s);
-	right = print_t(tree->right, offset + left + width, depth + 1, s);
-	for (i = 0; i < width; i++)
-		s[depth][offset + left + i] = b[i];
-	if (depth && is_left)
-	{
-		for (i = 0; i < width + right; i++)
-			s[depth - 1][offset + left + width / 2 + i] = '-';
-		s[depth - 1][offset + left + width / 2] = '.';
-	}
-	else if (depth && !is_left)
-	{
-		for (i = 0; i < left + width; i++)
-			s[depth - 1][offset - width / 2 + i] = '-';
-		s[depth - 1][offset + left + width / 2] = '.';
-	}
-	return (left + width + right);
-}
-
-/**
- * _height - Measures the height of a binary tree
- *
- * @tree: Pointer to the node to measures the height
- *
- * Return: The height of the tree starting at @node
- */
-static size_t _height(const binary_tree_t *tree)
-{
-	size_t height_l;
-	size_t height_r;
-
-	height_l = tree->left ? 1 + _height(tree->left) : 0;
-	height_r = tree->right ? 1 + _height(tree->right) : 0;
-	return (height_l > height_r ? height_l : height_r);
-}
-
-/**
- * binary_tree_print - Prints a binary tree
- *
- * @tree: Pointer to the root node of the tree to print
- */
-void binary_tree_print(const binary_tree_t *tree)
-{
-	char **s;
-	size_t height, i, j;
-
-	if (!tree)
-		return;
-	height = _height(tree);
-	s = malloc(sizeof(*s) * (height + 1));
-	if (!s)
-		return;
-	for (i = 0; i < height + 1; i++)
-	{
-		s[i] = malloc(sizeof(**s) * 255);
-		if (!s[i])
-			return;
-		memset(s[i], 32, 255);
-	}
-	print_t(tree, 0, 0, s);
-	for (i = 0; i < height + 1; i++)
-	{
-		for (j = 254; j > 1; --j)
-		{
-			if (s[i][j] != ' ')
-				break;
-			s[i][j] = '\0';
-		}
-		printf("%s\n", s[i]);
-		free(s[i]);
-	}
-	free(s);
-}
-
-#ifndef _BINARY_TREES_H_
-#define _BINARY_TREES_H_
-
-#include <stddef.h>
-
-/**
- * struct binary_tree_s - Binary tree node
- *
- * @n: Integer stored in the node
- * @parent: Pointer to the parent node
- * @left: Pointer to the left child node
- * @right: Pointer to the right child node
- */
-typedef struct binary_tree_s
-{
-	int n;
-	struct binary_tree_s *parent;
-	struct binary_tree_s *left;
-	struct binary_tree_s *right;
-} binary_tree_t;
-
-void binary_tree_print(const binary_tree_t *);
-
-#endif /* _BINARY_TREES_H_ */
-
-### 🧩 Tâches
-
-<details>
-<summary><strong>🧩 0. New node</strong></summary>
-
-**📝 Énoncé**
-
-But : Créer a binary tree node.
-
-Write a function that creates a binary tree node
-
-**Prototype:** binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
-Where parent is a pointer to the parent node of the node to create
-And value is the value to put in the new node
-When created, a node does not have any child
-Your function must return a pointer to the new node, or NULL on failure
-
-**✅ Réponse**
-
-```c
-General
-At least four different sorting algorithms
-What is the Big O notation, and how to evaluate the time complexity of an algorithm
-How to select the best sorting algorithm for a given input
-What is a stable sorting algorithm
-
-Requirements
-Allowed editors: vi, vim, emacs
-All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
-All your files should end with a new line
-A README.md file, at the root of the folder of the project, is mandatory
-Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
-You are not allowed to use global variables
-No more than 5 functions per file
-Unless specified otherwise, you are not allowed to use the standard library. Any use of functions like printf, puts, … is totally forbidden.
-In the following examples, the main.c files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own main.c files at compilation. Our main.c files might be different from the one shown in the examples
-The prototypes of all your functions should be included in your header file called sort.h
-Don’t forget to push your header file
-All your header files should be include guarded
-A list/array does not need to be sorted if its size is less than 2.
-
-GitHub
-There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
-
-Data Structure and Functions
-For this project you are given the following print_array, and print_list functions:
-#include <stdlib.h>
-#include <stdio.h>
-
-/**
- * print_array - Prints an array of integers
- *
- * @array: The array to be printed
- * @size: Number of elements in @array
- */
-void print_array(const int *array, size_t size)
-{
-    size_t i;
-
-    i = 0;
-    while (array && i < size)
-    {
-        if (i > 0)
-            printf(", ");
-        printf("%d", array[i]);
-        ++i;
-    }
-    printf("\n");
-}
-#include <stdio.h>
-#include "sort.h"
-
-/**
- * print_list - Prints a list of integers
- *
- * @list: The list to be printed
- */
-void print_list(const listint_t *list)
-{
-    int i;
-
-    i = 0;
-    while (list)
-    {
-        if (i > 0)
-            printf(", ");
-        printf("%d", list->n);
-        ++i;
-        list = list->next;
-    }
-    printf("\n");
-}
-Our files print_array.c and print_list.c (containing the print_array and print_list functions) will be compiled with your functions during the correction.
-Please declare the prototype of the functions print_array and print_list in your sort.h header file
-Please use the following data structure for doubly linked list:
-
-/**
- * struct listint_s - Doubly linked list node
- *
- * @n: Integer stored in the node
- * @prev: Pointer to the previous element of the list
- * @next: Pointer to the next element of the list
- */
-typedef struct listint_s
-{
-    const int n;
-    struct listint_s *prev;
-    struct listint_s *next;
-} listint_t;
-
-Please, note this format is used for Quiz and Task questions.
-O(1)
-O(n)
-O(n!)
-n square -> O(n^2)
-log(n) -> O(log(n))
-n * log(n) -> O(nlog(n))
-n + k -> O(n+k)
-…
-
-Please use the “short” notation (don’t use constants). Example: O(nk) or O(wn) should be written O(n). If an answer is required within a file, all your answers files must have a newline at the end.
-
-Tests
-
-Here is a quick tip to help you test your sorting algorithms with big sets of random integers: Random.org
-```
-
-</details>
-
-<details>
-<summary><strong>🧩 0. Bubble sort</strong></summary>
-
-**📝 Énoncé**
-
-Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
-**Prototype:** void bubble_sort(int *array, size_t size);
-You’re expected to print the array after each time you swap two elements (See example below)
-Write in the file 0-O, the big O notations of the time complexity of the Bubble sort algorithm, with 1 notation per line:
-in the best case
-in the average case
-in the worst case
-
-**✅ Réponse**
-
-```c
-#include <stdio.h>
-#include <stdlib.h>
-#include "sort.h"
-
-/**
- * bubble_sort - Sort an array of integers in ascending order
- * @array: Pointer to the array
- * @size: Number of elements
- *
- * Return: void
- */
-void bubble_sort(int *array, size_t size)
-{
-	size_t i, j;
-	int tmp;
-
-	for (i = 0; i < size - 1; i++)
-	{
-		for (j = 0; j < size - i - 1; j++)
-		{
-			if (array[j] > array[j + 1])
-			{
-				tmp = array[j];
-				array[j] = array[j + 1];
-				array[j + 1] = tmp;
-
-				print_array(array, size);
-			}
-		}
-	}
-}
-
-O(n)
-O(n^2)
-O(n^2)
-```
-
-</details>
-
-<details>
-<summary><strong>🧩 1. Insertion sort</strong></summary>
-
-**📝 Énoncé**
-
-Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
-**Prototype:** void insertion_sort_list(listint_t **list);
-You are not allowed to modify the integer n of a node. You have to swap the nodes themselves.
-You’re expected to print the list after each time you swap two elements (See example below)
-Write in the file 1-O, the big O notations of the time complexity of the Insertion sort algorithm, with 1 notation per line:
-in the best case
-in the average case
-in the worst case
-
-**✅ Réponse**
-
-```c
-#include <stdio.h>
-#include <stdlib.h>
-#include "sort.h"
-
-/**
- * insertion_sort_list - sorts a doubly linked list of integers
- *                        in ascending order using the Insertion Sort
- *
- * @list: pointer to the head of the list
- *
- * Description: Sorts a doubly linked list of integers in ascending order.
- *              Nodes must be swapped; the integer values inside nodes
- *              cannot be modified. Prints the list after each swap.
- *
- * Return: void
- */
-void insertion_sort_list(listint_t **list)
-{
-	listint_t *head;
-	listint_t *current;
-	listint_t *tmp;
-	listint_t *prev_node;
-	listint_t *next_node;
-
-	if (list == NULL || *list == NULL || (*list)->next == NULL)
-		return;
-
-	head = *list;
-	current = head->next;
-
-	while (current != NULL)
-	{
-		tmp = current->next;
-		prev_node = current->prev;
-
-		while (prev_node != NULL && current->n < prev_node->n)
-		{
-			next_node = current->next;
-
-			current->prev = prev_node->prev;
-			current->next = prev_node;
-			prev_node->prev = current;
-			prev_node->next = next_node;
-
-			if (next_node != NULL)
-				next_node->prev = prev_node;
-
-			if (current->prev != NULL)
-				current->prev->next = current;
-			else
-				*list = current;
-
-			prev_node = current->prev;
-			print_list(*list);
-		}
-		current = tmp;
-	}
-}
-
-O(n)
-O(n^2)
-O(n^2)
-```
-
-</details>
-
-<details>
-<summary><strong>🧩 2. Selection sort</strong></summary>
-
-**📝 Énoncé**
-
-Write a function that sorts an array of integers in ascending order using the Selection sort algorithm
-**Prototype:** void selection_sort(int *array, size_t size);
-You’re expected to print the array after each time you swap two elements (See example below)
-Write in the file 2-O, the big O notations of the time complexity of the Selection sort algorithm, with 1 notation per line:
-in the best case
-in the average case
-in the worst case
-
-**✅ Réponse**
-
-```c
-#include <stdio.h>
-#include <stdlib.h>
-#include "sort.h"
-
-/**
-* selection_sort - sorts an array of integers in ascending order
-*                   using the Selection sort algorithm
-* @array: pointer to the array to sort
-* @size: size of the array
-*
-* Return: void
-*/
-void selection_sort(int *array, size_t size)
-{
-	size_t i, j, min_index = 0;
-	int tmp;
-
-	if (!array || size < 2)
-		return;
-
-	for (i = 0; i < size - 1; i++)
-	{
-		min_index = i;
-		for (j = i + 1; j < size; j++)
-			if (array[j] < array[min_index])
-				min_index = j;
-		if (min_index != i)
-		{
-			tmp = array[i];
-			array[i] = array[min_index];
-			array[min_index] = tmp;
-
-			print_array(array, size);
-		}
-	}
-}
-
-O(n^2)
-O(n^2)
-O(n^2)
-```
-
-</details>
-
-<details>
-<summary><strong>🧩 3. Quick sort</strong></summary>
-
-**📝 Énoncé**
-
-Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
-**Prototype:** void quick_sort(int *array, size_t size);
-You must implement the Lomuto partition scheme.
-The pivot should always be the last element of the partition being sorted.
-You’re expected to print the array after each time you swap two elements (See example below)
-Write in the file 3-O, the big O notations of the time complexity of the Quick sort algorithm, with 1 notation per line:
-in the best case
-in the average case
-in the worst case
-
-**✅ Réponse**
-
-```c
-#include "sort.h"
-void recurs(int array[], int low, int high, size_t size);
-int partition(int array[], int low, int high, size_t size);
-
-/**
- * quick_sort - Sorts an array of integers in ascending order using Quick sort.
- * @array: Array of integers to sort.
- * @size: Size of the array.
- *
- * Description: Uses the Lomuto partition scheme.
- *              The pivot is always the last element.
- *              Prints the array after each swap.
- */
-void quick_sort(int *array, size_t size)
-{
-	if (!array || size < 2)
-		return;
-
-	recurs(array, 0, size - 1, size);
-}
-
-/**
- * partition - Partitions the array for Quick sort.
- * @array: Array of integers to partition.
- * @low: Starting index of the partition.
- * @high: Ending index of the partition.
- * @size: Size of the array.
- *
- * Return: The index of the pivot after partitioning.
- */
-int partition(int array[], int low, int high, size_t size)
-{
-	int pivot = array[high];
-	int temp, j;
-	int i = low;
-
-	for (j = low; j < high; j++)
-	{
-		if (array[j] <= pivot)
-		{
-			if (i < j)
-			{
-				temp = array[i];
-				array[i] = array[j];
-				array[j] = temp;
-				print_array(array, size);
-			}
-			i++;
-		}
-	}
-	if (i != high)
-	{
-		temp = array[i];
-		array[i] = array[high];
-		array[high] = temp;
-		print_array(array, size);
-	}
-	return (i);
-}
-
-/**
- * recurs - Recursively applies Quick sort to subarrays.
- * @array: Array of integers to sort.
- * @low: Starting index of the subarray.
- * @high: Ending index of the subarray.
- * @size: Size of the array.
- */
-void recurs(int array[], int low, int high, size_t size)
-{
-	int index_pivot;
-
-	if (low < high)
-	{
-		index_pivot = partition(array, low, high, size);
-		recurs(array, low, index_pivot - 1, size);
-		recurs(array, index_pivot + 1, high, size);
-	}
-}
-
-O(nlog(n))
-O(nlog(n))
-O(n^2)
-```
-
-</details>
-
-- --
+---
