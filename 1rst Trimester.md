@@ -28,6 +28,287 @@
 - [C - BINARY TREES GEORGIA](#c-binary-trees-georgia)
 - [C - BINARY TREES ANTOINE](#c-binary-trees-antoine)
 
+<a id="sommaire-taches"></a>
+
+## 🧩 Sommaire des tâches (liens directs)
+
+> Astuce : ouvre ce bloc, puis clique sur une tâche pour sauter directement au bon endroit.
+
+### 🐚 SHELL, BASICS
+
+- [🧩 0. Where am I?](#shell-basics-task-0-where-am-i)
+- [🧩 1. What’s in there?.](#shell-basics-task-1-whats-in-there)
+- [🧩 2. There is no place like home](#shell-basics-task-2-there-is-no-place-like-home)
+- [🧩 3. The long format](#shell-basics-task-3-the-long-format)
+- [🧩 4. Hidden files](#shell-basics-task-4-hidden-files)
+- [🧩 5. I love numbers](#shell-basics-task-5-i-love-numbers)
+- [🧩 6. Welcome](#shell-basics-task-6-welcome)
+- [🧩 7. Betty in my first directory](#shell-basics-task-7-betty-in-my-first-directory)
+- [🧩 8. Bye bye Betty](#shell-basics-task-8-bye-bye-betty)
+- [🧩 9. Bye bye My first directory](#shell-basics-task-9-bye-bye-my-first-directory)
+- [🧩 10. Back to the future](#shell-basics-task-10-back-to-the-future)
+- [🧩 11. Lists](#shell-basics-task-11-lists)
+- [🧩 12. File type](#shell-basics-task-12-file-type)
+- [🧩 13. We are symbols, and inhabit symbols](#shell-basics-task-13-we-are-symbols-and-inhabit-symbols)
+- [🧩 14. Copy HTML files](#shell-basics-task-14-copy-html-files)
+- [🧩 15. Let’s move](#shell-basics-task-15-lets-move)
+- [🧩 16. Clean Emacs](#shell-basics-task-16-clean-emacs)
+- [🧩 17. Tree](#shell-basics-task-17-tree)
+
+### 🐚 SHELL, PERMISSIONS
+
+- [🧩 0. My name is Betty](#shell-permissions-task-0-my-name-is-betty)
+- [🧩 1. Who am I](#shell-permissions-task-1-who-am-i)
+- [🧩 2. Groups](#shell-permissions-task-2-groups)
+- [🧩 3. New owner](#shell-permissions-task-3-new-owner)
+- [🧩 4. Empty!](#shell-permissions-task-4-empty)
+- [🧩 5. Execute](#shell-permissions-task-5-execute)
+- [🧩 6. Multiple permissions](#shell-permissions-task-6-multiple-permissions)
+- [🧩 7. Everybody!](#shell-permissions-task-7-everybody)
+- [🧩 8. James Bond](#shell-permissions-task-8-james-bond)
+- [🧩 9. John Doe](#shell-permissions-task-9-john-doe)
+- [🧩 10. Look in the mirror](#shell-permissions-task-10-look-in-the-mirror)
+- [🧩 11. Directories](#shell-permissions-task-11-directories)
+- [🧩 12. More directories](#shell-permissions-task-12-more-directories)
+- [🧩 13. Change group](#shell-permissions-task-13-change-group)
+- [🧩 14. Owner and group](#shell-permissions-task-14-owner-and-group)
+- [🧩 15. Symbolic links](#shell-permissions-task-15-symbolic-links)
+- [🧩 16. If only](#shell-permissions-task-16-if-only)
+
+### 🐚 SHELL, I/O REDIRECTIONS AND FILTERS
+
+- [🧩 0. Hello World](#shell-i-o-redirections-and-filters-task-0-hello-world)
+- [🧩 1. Confused smiley](#shell-i-o-redirections-and-filters-task-1-confused-smiley)
+- [🧩 2. Let's display a file](#shell-i-o-redirections-and-filters-task-2-lets-display-a-file)
+- [🧩 3. What about 2?](#shell-i-o-redirections-and-filters-task-3-what-about-2)
+- [🧩 4. Last lines of a file](#shell-i-o-redirections-and-filters-task-4-last-lines-of-a-file)
+- [🧩 5. I'd prefer the first ones actually](#shell-i-o-redirections-and-filters-task-5-id-prefer-the-first-ones-actually)
+- [🧩 6. Line #2](#shell-i-o-redirections-and-filters-task-6-line-2)
+- [🧩 7. It is a good file that cuts iron without making a noise](#shell-i-o-redirections-and-filters-task-7-it-is-a-good-file-that-cuts-iron-without-making-a-noise)
+- [🧩 8. Save current state of directory](#shell-i-o-redirections-and-filters-task-8-save-current-state-of-directory)
+- [🧩 9. Duplicate last line](#shell-i-o-redirections-and-filters-task-9-duplicate-last-line)
+- [🧩 10. No more javascript](#shell-i-o-redirections-and-filters-task-10-no-more-javascript)
+- [🧩 11. Don't just count your directories, make your directories count](#shell-i-o-redirections-and-filters-task-11-dont-just-count-your-directories-make-your-directories-count)
+- [🧩 12. What’s new](#shell-i-o-redirections-and-filters-task-12-whats-new)
+- [🧩 13. Being unique is better than being perfect](#shell-i-o-redirections-and-filters-task-13-being-unique-is-better-than-being-perfect)
+- [🧩 14. It must be in that file](#shell-i-o-redirections-and-filters-task-14-it-must-be-in-that-file)
+- [🧩 15. Count that word](#shell-i-o-redirections-and-filters-task-15-count-that-word)
+- [🧩 16. What's next?](#shell-i-o-redirections-and-filters-task-16-whats-next)
+- [🧩 17. I hate bins](#shell-i-o-redirections-and-filters-task-17-i-hate-bins)
+- [🧩 18. Letters only please](#shell-i-o-redirections-and-filters-task-18-letters-only-please)
+- [🧩 19. A to Z](#shell-i-o-redirections-and-filters-task-19-a-to-z)
+- [🧩 20. Without C, you would live in hiago](#shell-i-o-redirections-and-filters-task-20-without-c-you-would-live-in-hiago)
+- [🧩 21. esreveR](#shell-i-o-redirections-and-filters-task-21-esrever)
+- [🧩 22. DJ Cut Killer](#shell-i-o-redirections-and-filters-task-22-dj-cut-killer)
+
+### 🐚 SHELL, INIT FILES, VARIABLES AND EXPANSIONS
+
+- [🧩 0. <o>](#shell-init-files-variables-and-expansions-task-0-task)
+- [🧩 0. Positive anything is better than negative nothing](#shell-init-files-variables-and-expansions-task-0-positive-anything-is-better-than-negative-nothing)
+- [🧩 1. Hello you](#shell-init-files-variables-and-expansions-task-1-hello-you)
+- [🧩 1. The last digit](#shell-init-files-variables-and-expansions-task-1-the-last-digit)
+- [🧩 2. The path to success is to take massive, determined action](#shell-init-files-variables-and-expansions-task-2-the-path-to-success-is-to-take-massive-determined-action)
+- [🧩 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game](#shell-init-files-variables-and-expansions-task-2-i-sometimes-suffer-from-insomnia-and-when-i-cant-fall-asleep-i-play-what-i-call-the-alphabet-game)
+- [🧩 3. If the path be beautiful, let us not ask where it leads](#shell-init-files-variables-and-expansions-task-3-if-the-path-be-beautiful-let-us-not-ask-where-it-leads)
+- [🧩 3. alphABET](#shell-init-files-variables-and-expansions-task-3-alphabet)
+- [🧩 4. Global variables](#shell-init-files-variables-and-expansions-task-4-global-variables)
+- [🧩 4. When I was having that alphabet soup, I never thought that it would pay off](#shell-init-files-variables-and-expansions-task-4-when-i-was-having-that-alphabet-soup-i-never-thought-that-it-would-pay-off)
+- [🧩 5. Local variables](#shell-init-files-variables-and-expansions-task-5-local-variables)
+- [🧩 5. Numbers](#shell-init-files-variables-and-expansions-task-5-numbers)
+- [🧩 6. Local variable](#shell-init-files-variables-and-expansions-task-6-local-variable)
+- [🧩 6. Numberz](#shell-init-files-variables-and-expansions-task-6-numberz)
+- [🧩 7. Global variable](#shell-init-files-variables-and-expansions-task-7-global-variable)
+- [🧩 7. Smile in the mirror](#shell-init-files-variables-and-expansions-task-7-smile-in-the-mirror)
+- [🧩 8. Every addition to true knowledge is an addition to human power](#shell-init-files-variables-and-expansions-task-8-every-addition-to-true-knowledge-is-an-addition-to-human-power)
+- [🧩 8. Hexadecimal](#shell-init-files-variables-and-expansions-task-8-hexadecimal)
+- [🧩 9. Divide and rule](#shell-init-files-variables-and-expansions-task-9-divide-and-rule)
+- [🧩 9. Patience, persistence and perspiration make an unbeatable combination for success](#shell-init-files-variables-and-expansions-task-9-patience-persistence-and-perspiration-make-an-unbeatable-combination-for-success)
+- [🧩 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath](#shell-init-files-variables-and-expansions-task-10-love-is-anterior-to-life-posterior-to-death-initial-of-creation-and-the-exponent-of-breath)
+- [🧩 11. There are 10 types of people in the world -- Those who understand binary, and those who don't](#shell-init-files-variables-and-expansions-task-11-there-are-10-types-of-people-in-the-world----those-who-understand-binary-and-those-who-dont)
+- [🧩 12. Combination](#shell-init-files-variables-and-expansions-task-12-combination)
+- [🧩 13. Floats](#shell-init-files-variables-and-expansions-task-13-floats)
+- [🧩 14. Decimal to Hexadecimal](#shell-init-files-variables-and-expansions-task-14-decimal-to-hexadecimal)
+
+### 💻 C - HELLO, WORLD
+
+- [🧩 0. Preprocessor](#c-hello-world-task-0-preprocessor)
+- [🧩 1. Compiler](#c-hello-world-task-1-compiler)
+- [🧩 2. Assembler](#c-hello-world-task-2-assembler)
+- [🧩 3. Name](#c-hello-world-task-3-name)
+- [🧩 4. Hello, puts](#c-hello-world-task-4-hello-puts)
+- [🧩 5. Hello, printf](#c-hello-world-task-5-hello-printf)
+- [🧩 6. Size is not grandeur, and territory does not make a nation](#c-hello-world-task-6-size-is-not-grandeur-and-territory-does-not-make-a-nation)
+
+### 💻 C - FUNCTIONS, NESTED LOOPS
+
+- [🧩 0. _putchar](#c-functions-nested-loops-task-0-_putchar)
+- [🧩 1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game](#c-functions-nested-loops-task-1-i-sometimes-suffer-from-insomnia-and-when-i-cant-fall-asleep-i-play-what-i-call-the-alphabet-game)
+- [🧩 2. 10 x alphabet](#c-functions-nested-loops-task-2-10-x-alphabet)
+- [🧩 3. islower](#c-functions-nested-loops-task-3-islower)
+- [🧩 4. isalpha](#c-functions-nested-loops-task-4-isalpha)
+- [🧩 5. Sign](#c-functions-nested-loops-task-5-sign)
+- [🧩 6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you](#c-functions-nested-loops-task-6-there-is-no-such-thing-as-absolute-value-in-this-world-you-can-only-estimate-what-a-thing-is-worth-to-you)
+- [🧩 7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important](#c-functions-nested-loops-task-7-there-are-only-3-colors-10-digits-and-7-notes-its-what-we-do-with-them-thats-important)
+- [🧩 8. I'm federal agent Jack Bauer, and today is the longest day of my life](#c-functions-nested-loops-task-8-im-federal-agent-jack-bauer-and-today-is-the-longest-day-of-my-life)
+- [🧩 9. Learn your times table](#c-functions-nested-loops-task-9-learn-your-times-table)
+- [🧩 10. a + b](#c-functions-nested-loops-task-10-a-b)
+- [🧩 11. 98 Battery Street, the OG](#c-functions-nested-loops-task-11-98-battery-street-the-og)
+
+### 💻 C - MORE FUNCTIONS, MORE NESTED LOOPS
+
+- [🧩 0. isupper](#c-more-functions-more-nested-loops-task-0-isupper)
+- [🧩 1. isdigit](#c-more-functions-more-nested-loops-task-1-isdigit)
+- [🧩 2. Collaboration is multiplication](#c-more-functions-more-nested-loops-task-2-collaboration-is-multiplication)
+- [🧩 3. The numbers speak for themselves](#c-more-functions-more-nested-loops-task-3-the-numbers-speak-for-themselves)
+- [🧩 4. I believe in numbers and signs](#c-more-functions-more-nested-loops-task-4-i-believe-in-numbers-and-signs)
+- [🧩 5. Numbers constitute the only universal language](#c-more-functions-more-nested-loops-task-5-numbers-constitute-the-only-universal-language)
+- [🧩 6. The shortest distance between two points is a straight line](#c-more-functions-more-nested-loops-task-6-the-shortest-distance-between-two-points-is-a-straight-line)
+- [🧩 7. I feel like I am diagonally parked in a parallel universe](#c-more-functions-more-nested-loops-task-7-i-feel-like-i-am-diagonally-parked-in-a-parallel-universe)
+- [🧩 8. You are so much sunshine in every square inch](#c-more-functions-more-nested-loops-task-8-you-are-so-much-sunshine-in-every-square-inch)
+- [🧩 9. Fizz-Buzz](#c-more-functions-more-nested-loops-task-9-fizz-buzz)
+- [🧩 10. Triangles](#c-more-functions-more-nested-loops-task-10-triangles)
+
+### 💻 C - POINTERS, ARRAYS AND STRINGS
+
+- [🧩 0. 98 Battery st.](#c-pointers-arrays-and-strings-task-0-98-battery-st)
+- [🧩 1. Don't swap horses in crossing a stream](#c-pointers-arrays-and-strings-task-1-dont-swap-horses-in-crossing-a-stream)
+- [🧩 2. This report, by its very length, defends itself against the risk of being read](#c-pointers-arrays-and-strings-task-2-this-report-by-its-very-length-defends-itself-against-the-risk-of-being-read)
+- [🧩 3. I do not fear computers. I fear the lack of them](#c-pointers-arrays-and-strings-task-3-i-do-not-fear-computers-i-fear-the-lack-of-them)
+- [🧩 4. I can only go one way. I've not got a reverse gear](#c-pointers-arrays-and-strings-task-4-i-can-only-go-one-way-ive-not-got-a-reverse-gear)
+- [🧩 5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes](#c-pointers-arrays-and-strings-task-5-a-good-engineer-thinks-in-reverse-and-asks-himself-about-the-stylistic-consequences-of-the-components-and-systems-he-proposes)
+- [🧩 6. Half the lies they tell about me aren't true](#c-pointers-arrays-and-strings-task-6-half-the-lies-they-tell-about-me-arent-true)
+- [🧩 7. Winning is only half of it. Having fun is the other half](#c-pointers-arrays-and-strings-task-7-winning-is-only-half-of-it-having-fun-is-the-other-half)
+- [🧩 8. Arrays are not pointers](#c-pointers-arrays-and-strings-task-8-arrays-are-not-pointers)
+- [🧩 9. strcpy](#c-pointers-arrays-and-strings-task-9-strcpy)
+- [🧩 10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers](#c-pointers-arrays-and-strings-task-10-great-leaders-are-willing-to-sacrifice-the-numbers-to-save-the-people-poor-leaders-sacrifice-the-people-to-save-the-numbers)
+
+### 💻 C - MORE POINTERS, ARRAYS AND STRINGS
+
+- [🧩 0. strcat](#c-more-pointers-arrays-and-strings-task-0-strcat)
+- [🧩 1. strncat](#c-more-pointers-arrays-and-strings-task-1-strncat)
+- [🧩 2. strncpy](#c-more-pointers-arrays-and-strings-task-2-strncpy)
+- [🧩 3. strcmp](#c-more-pointers-arrays-and-strings-task-3-strcmp)
+- [🧩 4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy](#c-more-pointers-arrays-and-strings-task-4-i-am-a-kind-of-paranoid-in-reverse-i-suspect-people-of-plotting-to-make-me-happy)
+- [🧩 5. Always look up.](#c-more-pointers-arrays-and-strings-task-5-always-look-up)
+- [🧩 6. Expect the best. Prepare for the worst. Capitalize on what comes](#c-more-pointers-arrays-and-strings-task-6-expect-the-best-prepare-for-the-worst-capitalize-on-what-comes)
+- [🧩 7. Mozart composed his music not for the elite, but for everybody](#c-more-pointers-arrays-and-strings-task-7-mozart-composed-his-music-not-for-the-elite-but-for-everybody)
+
+### 💻 C - EVEN MORE POINTERS, ARRAYS AND STRINGS
+
+- [🧩 0. memset](#c-even-more-pointers-arrays-and-strings-task-0-memset)
+- [🧩 1. memcpy](#c-even-more-pointers-arrays-and-strings-task-1-memcpy)
+- [🧩 2. strchr](#c-even-more-pointers-arrays-and-strings-task-2-strchr)
+- [🧩 3. strspn](#c-even-more-pointers-arrays-and-strings-task-3-strspn)
+- [🧩 4. strpbrk](#c-even-more-pointers-arrays-and-strings-task-4-strpbrk)
+- [🧩 5. strstr](#c-even-more-pointers-arrays-and-strings-task-5-strstr)
+- [🧩 6. Chess is mental torture](#c-even-more-pointers-arrays-and-strings-task-6-chess-is-mental-torture)
+- [🧩 7. The line of life is a ragged diagonal between duty and desire](#c-even-more-pointers-arrays-and-strings-task-7-the-line-of-life-is-a-ragged-diagonal-between-duty-and-desire)
+
+### 💻 C - RECURSION
+
+- [🧩 0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget](#c-recursion-task-0-she-locked-away-a-secret-deep-inside-herself-something-she-once-knew-to-be-true-but-chose-to-forget)
+- [🧩 1. Why is it so important to dream? Because, in my dreams we are together](#c-recursion-task-1-why-is-it-so-important-to-dream-because-in-my-dreams-we-are-together)
+- [🧩 2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange](#c-recursion-task-2-dreams-feel-real-while-were-in-them-its-only-when-we-wake-up-that-we-realize-something-was-actually-strange)
+- [🧩 3. You mustn't be afraid to dream a little bigger, darling](#c-recursion-task-3-you-mustnt-be-afraid-to-dream-a-little-bigger-darling)
+- [🧩 4. Once an idea has taken hold of the brain it's almost impossible to eradicate](#c-recursion-task-4-once-an-idea-has-taken-hold-of-the-brain-its-almost-impossible-to-eradicate)
+- [🧩 5. Your subconscious is looking for the dreamer](#c-recursion-task-5-your-subconscious-is-looking-for-the-dreamer)
+- [🧩 6. Inception. Is it possible?](#c-recursion-task-6-inception-is-it-possible)
+
+### 💻 C - ARGC, ARGV
+
+- [🧩 0. It ain't what they call you, it's what you answer to](#c-argc-argv-task-0-it-aint-what-they-call-you-its-what-you-answer-to)
+- [🧩 1. Silence is argument carried out by other means](#c-argc-argv-task-1-silence-is-argument-carried-out-by-other-means)
+- [🧩 2. The best argument against democracy is a five-minute conversation with the average voter](#c-argc-argv-task-2-the-best-argument-against-democracy-is-a-five-minute-conversation-with-the-average-voter)
+- [🧩 3. Neither irony nor sarcasm is argument](#c-argc-argv-task-3-neither-irony-nor-sarcasm-is-argument)
+- [🧩 4. To infinity and beyond](#c-argc-argv-task-4-to-infinity-and-beyond)
+
+### 💻 C - MALLOC, FREE
+
+- [🧩 0. Float like a butterfly, sting like a bee](#c-malloc-free-task-0-float-like-a-butterfly-sting-like-a-bee)
+- [🧩 1. The woman who has no imagination has no wings](#c-malloc-free-task-1-the-woman-who-has-no-imagination-has-no-wings)
+- [🧩 2. He who is not courageous enough to take risks will accomplish nothing in life](#c-malloc-free-task-2-he-who-is-not-courageous-enough-to-take-risks-will-accomplish-nothing-in-life)
+- [🧩 3. If you even dream of beating me you'd better wake up and apologize](#c-malloc-free-task-3-if-you-even-dream-of-beating-me-youd-better-wake-up-and-apologize)
+- [🧩 4. It's not bragging if you can back it up](#c-malloc-free-task-4-its-not-bragging-if-you-can-back-it-up)
+
+### 💻 C - MORE MALLOC, FREE
+
+- [🧩 0. Trust no one](#c-more-malloc-free-task-0-trust-no-one)
+- [🧩 1. string_nconcat](#c-more-malloc-free-task-1-string_nconcat)
+- [🧩 2. _calloc](#c-more-malloc-free-task-2-_calloc)
+- [🧩 3. array_range](#c-more-malloc-free-task-3-array_range)
+
+### 💻 C - STRUCTURES, TYPEDEF
+
+- [🧩 0. Poppy](#c-structures-typedef-task-0-poppy)
+- [🧩 0. What's my name](#c-structures-typedef-task-0-whats-my-name)
+- [🧩 1. A dog is the only thing on earth that loves you more than you love yourself](#c-structures-typedef-task-1-a-dog-is-the-only-thing-on-earth-that-loves-you-more-than-you-love-yourself)
+- [🧩 1. If you spend too much time thinking about a thing, you'll never get it done](#c-structures-typedef-task-1-if-you-spend-too-much-time-thinking-about-a-thing-youll-never-get-it-done)
+- [🧩 2. A dog will teach you unconditional love. If you can have that in your life, things won't be too bad](#c-structures-typedef-task-2-a-dog-will-teach-you-unconditional-love-if-you-can-have-that-in-your-life-things-wont-be-too-bad)
+- [🧩 2. To hell with circumstances; I create opportunities](#c-structures-typedef-task-2-to-hell-with-circumstances-i-create-opportunities)
+- [🧩 3. Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read](#c-structures-typedef-task-3-outside-of-a-dog-a-book-is-a-mans-best-friend-inside-of-a-dog-its-too-dark-to-read)
+- [🧩 3. A goal is not always meant to be reached, it often serves simply as something to aim at](#c-structures-typedef-task-3-a-goal-is-not-always-meant-to-be-reached-it-often-serves-simply-as-something-to-aim-at)
+- [🧩 4. A door is what a dog is perpetually on the wrong side of](#c-structures-typedef-task-4-a-door-is-what-a-dog-is-perpetually-on-the-wrong-side-of)
+- [🧩 5. How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg](#c-structures-typedef-task-5-how-many-legs-does-a-dog-have-if-you-call-his-tail-a-leg-four-saying-that-a-tail-is-a-leg-doesnt-make-it-a-leg)
+
+### 💻 C - VARIADIC FUNCTIONS
+
+- [🧩 0. Beauty is variable, ugliness is constant](#c-variadic-functions-task-0-beauty-is-variable-ugliness-is-constant)
+- [🧩 0. Print list](#c-variadic-functions-task-0-print-list)
+- [🧩 1. To be is to be the value of a variable](#c-variadic-functions-task-1-to-be-is-to-be-the-value-of-a-variable)
+- [🧩 1. List length](#c-variadic-functions-task-1-list-length)
+- [🧩 2. One woman's constant is another woman's variable](#c-variadic-functions-task-2-one-womans-constant-is-another-womans-variable)
+- [🧩 2. Add node](#c-variadic-functions-task-2-add-node)
+- [🧩 3. To be is a to be the value of a variable](#c-variadic-functions-task-3-to-be-is-a-to-be-the-value-of-a-variable)
+- [🧩 3. Add node at the end](#c-variadic-functions-task-3-add-node-at-the-end)
+- [🧩 4. Free list](#c-variadic-functions-task-4-free-list)
+
+### 💻 C - DOUBLY LINKED LISTS
+
+- [🧩 0. Print list](#c-doubly-linked-lists-task-0-print-list)
+- [🧩 1. List length](#c-doubly-linked-lists-task-1-list-length)
+- [🧩 2. Add node](#c-doubly-linked-lists-task-2-add-node)
+- [🧩 3. Add node at the end](#c-doubly-linked-lists-task-3-add-node-at-the-end)
+- [🧩 4. Free list](#c-doubly-linked-lists-task-4-free-list)
+- [🧩 5. Get node at index](#c-doubly-linked-lists-task-5-get-node-at-index)
+- [🧩 6. Sum list](#c-doubly-linked-lists-task-6-sum-list)
+- [🧩 7. Insert at index](#c-doubly-linked-lists-task-7-insert-at-index)
+- [🧩 8. Delete at index](#c-doubly-linked-lists-task-8-delete-at-index)
+
+### 💻 C - FILE I/O
+
+- [🧩 0. Tread lightly, she is near](#c-file-i-o-task-0-tread-lightly-she-is-near)
+- [🧩 1. Under the snow](#c-file-i-o-task-1-under-the-snow)
+- [🧩 2. Speak gently, she can hear](#c-file-i-o-task-2-speak-gently-she-can-hear)
+- [🧩 3. cp](#c-file-i-o-task-3-cp)
+
+### 💻 C - HASH TABLES
+
+- [🧩 0. >>> ht = { }](#c-hash-tables-task-0-ht)
+- [🧩 1. djb2](#c-hash-tables-task-1-djb2)
+- [🧩 2. key -> index](#c-hash-tables-task-2-key---index)
+- [🧩 3. >>> ht['betty'] = 'cool'](#c-hash-tables-task-3-htbetty-cool)
+- [🧩 4. >>> ht['betty']](#c-hash-tables-task-4-htbetty)
+- [🧩 5. >>> print(ht)](#c-hash-tables-task-5-printht)
+- [🧩 6. >>> del ht](#c-hash-tables-task-6-del-ht)
+
+### 💻🌳 C - BINARY TREES (GEORGIA)
+
+- [🧩 0. New node](#c-binary-trees-georgia-task-0-new-node)
+- [🧩 1. Insert left](#c-binary-trees-georgia-task-1-insert-left)
+- [🧩 2. Insert right](#c-binary-trees-georgia-task-2-insert-right)
+- [🧩 3. Delete](#c-binary-trees-georgia-task-3-delete)
+- [🧩 4. Is leaf](#c-binary-trees-georgia-task-4-is-leaf)
+- [🧩 5. Is root](#c-binary-trees-georgia-task-5-is-root)
+- [🧩 6. Pre-order traversal](#c-binary-trees-georgia-task-6-pre-order-traversal)
+- [🧩 7. In-order traversal](#c-binary-trees-georgia-task-7-in-order-traversal)
+- [🧩 8. Post-order traversal](#c-binary-trees-georgia-task-8-post-order-traversal)
+- [🧩 9. Height](#c-binary-trees-georgia-task-9-height)
+- [🧩 10. Depth](#c-binary-trees-georgia-task-10-depth)
+- [🧩 11. Size](#c-binary-trees-georgia-task-11-size)
+- [🧩 12. Leaves](#c-binary-trees-georgia-task-12-leaves)
+- [🧩 13. Nodes](#c-binary-trees-georgia-task-13-nodes)
+- [🧩 14. Balance factor](#c-binary-trees-georgia-task-14-balance-factor)
+
 <a id="shell-basics"></a>
 
 ## 🐚 SHELL, BASICS
@@ -107,6 +388,8 @@
 
 ### 🧩 Tâches
 
+<a id="shell-basics-task-0-where-am-i"></a>
+
 <details>
 <summary><strong>🧩 0. Where am I?</strong></summary>
 
@@ -123,6 +406,8 @@ pwd
 
 </details>
 
+<a id="shell-basics-task-1-whats-in-there"></a>
+
 <details>
 <summary><strong>🧩 1. What’s in there?.</strong></summary>
 
@@ -138,6 +423,8 @@ ls
 ```
 
 </details>
+
+<a id="shell-basics-task-2-there-is-no-place-like-home"></a>
 
 <details>
 <summary><strong>🧩 2. There is no place like home</strong></summary>
@@ -156,6 +443,8 @@ cd
 
 </details>
 
+<a id="shell-basics-task-3-the-long-format"></a>
+
 <details>
 <summary><strong>🧩 3. The long format</strong></summary>
 
@@ -172,6 +461,8 @@ ls -l
 
 </details>
 
+<a id="shell-basics-task-4-hidden-files"></a>
+
 <details>
 <summary><strong>🧩 4. Hidden files</strong></summary>
 
@@ -187,6 +478,8 @@ ls -la
 ```
 
 </details>
+
+<a id="shell-basics-task-5-i-love-numbers"></a>
 
 <details>
 <summary><strong>🧩 5. I love numbers</strong></summary>
@@ -207,6 +500,8 @@ ls -l -n -a
 
 </details>
 
+<a id="shell-basics-task-6-welcome"></a>
+
 <details>
 <summary><strong>🧩 6. Welcome</strong></summary>
 
@@ -223,6 +518,8 @@ mkdir /tmp/my_first_directory
 
 </details>
 
+<a id="shell-basics-task-7-betty-in-my-first-directory"></a>
+
 <details>
 <summary><strong>🧩 7. Betty in my first directory</strong></summary>
 
@@ -238,6 +535,8 @@ mv /tmp/betty /tmp/my_first_directory
 ```
 
 </details>
+
+<a id="shell-basics-task-8-bye-bye-betty"></a>
 
 <details>
 <summary><strong>🧩 8. Bye bye Betty</strong></summary>
@@ -256,6 +555,8 @@ rm /tmp/my_first_directory/betty
 
 </details>
 
+<a id="shell-basics-task-9-bye-bye-my-first-directory"></a>
+
 <details>
 <summary><strong>🧩 9. Bye bye My first directory</strong></summary>
 
@@ -272,6 +573,8 @@ rmdir /tmp/my_first_directory
 
 </details>
 
+<a id="shell-basics-task-10-back-to-the-future"></a>
+
 <details>
 <summary><strong>🧩 10. Back to the future</strong></summary>
 
@@ -287,6 +590,8 @@ cd -
 ```
 
 </details>
+
+<a id="shell-basics-task-11-lists"></a>
 
 <details>
 <summary><strong>🧩 11. Lists</strong></summary>
@@ -305,6 +610,8 @@ ls -la . ..  /boot
 
 </details>
 
+<a id="shell-basics-task-12-file-type"></a>
+
 <details>
 <summary><strong>🧩 12. File type</strong></summary>
 
@@ -321,6 +628,8 @@ file /tmp/iamafile
 
 </details>
 
+<a id="shell-basics-task-13-we-are-symbols-and-inhabit-symbols"></a>
+
 <details>
 <summary><strong>🧩 13. We are symbols, and inhabit symbols</strong></summary>
 
@@ -336,6 +645,8 @@ ln -s /bin/ls __ls__
 ```
 
 </details>
+
+<a id="shell-basics-task-14-copy-html-files"></a>
 
 <details>
 <summary><strong>🧩 14. Copy HTML files</strong></summary>
@@ -354,6 +665,8 @@ cp *.html ..
 
 </details>
 
+<a id="shell-basics-task-15-lets-move"></a>
+
 <details>
 <summary><strong>🧩 15. Let’s move</strong></summary>
 
@@ -371,6 +684,8 @@ mv [[:upper:]]* /tmp/u
 
 </details>
 
+<a id="shell-basics-task-16-clean-emacs"></a>
+
 <details>
 <summary><strong>🧩 16. Clean Emacs</strong></summary>
 
@@ -386,6 +701,8 @@ rm *~
 ```
 
 </details>
+
+<a id="shell-basics-task-17-tree"></a>
 
 <details>
 <summary><strong>🧩 17. Tree</strong></summary>
@@ -442,6 +759,8 @@ mkdir -p welcome/to/school
 
 ### 🧩 Tâches
 
+<a id="shell-permissions-task-0-my-name-is-betty"></a>
+
 <details>
 <summary><strong>🧩 0. My name is Betty</strong></summary>
 
@@ -460,6 +779,8 @@ su betty
 
 </details>
 
+<a id="shell-permissions-task-1-who-am-i"></a>
+
 <details>
 <summary><strong>🧩 1. Who am I</strong></summary>
 
@@ -475,6 +796,8 @@ whoami
 ```
 
 </details>
+
+<a id="shell-permissions-task-2-groups"></a>
 
 <details>
 <summary><strong>🧩 2. Groups</strong></summary>
@@ -492,6 +815,8 @@ groups
 
 </details>
 
+<a id="shell-permissions-task-3-new-owner"></a>
+
 <details>
 <summary><strong>🧩 3. New owner</strong></summary>
 
@@ -507,6 +832,8 @@ chown betty hello
 ```
 
 </details>
+
+<a id="shell-permissions-task-4-empty"></a>
 
 <details>
 <summary><strong>🧩 4. Empty!</strong></summary>
@@ -524,6 +851,8 @@ touch hello
 
 </details>
 
+<a id="shell-permissions-task-5-execute"></a>
+
 <details>
 <summary><strong>🧩 5. Execute</strong></summary>
 
@@ -539,6 +868,8 @@ chmod 750 hello
 ```
 
 </details>
+
+<a id="shell-permissions-task-6-multiple-permissions"></a>
 
 <details>
 <summary><strong>🧩 6. Multiple permissions</strong></summary>
@@ -557,6 +888,8 @@ chmod 754 hello
 
 </details>
 
+<a id="shell-permissions-task-7-everybody"></a>
+
 <details>
 <summary><strong>🧩 7. Everybody!</strong></summary>
 
@@ -574,6 +907,8 @@ chmod ugo+x hello
 ```
 
 </details>
+
+<a id="shell-permissions-task-8-james-bond"></a>
 
 <details>
 <summary><strong>🧩 8. James Bond</strong></summary>
@@ -595,6 +930,8 @@ chmod 007 hello
 
 </details>
 
+<a id="shell-permissions-task-9-john-doe"></a>
+
 <details>
 <summary><strong>🧩 9. John Doe</strong></summary>
 
@@ -614,6 +951,8 @@ chmod 753 hello
 
 </details>
 
+<a id="shell-permissions-task-10-look-in-the-mirror"></a>
+
 <details>
 <summary><strong>🧩 10. Look in the mirror</strong></summary>
 
@@ -632,6 +971,8 @@ chmod $(stat -c "%a" olleh) hello
 
 </details>
 
+<a id="shell-permissions-task-11-directories"></a>
+
 <details>
 <summary><strong>🧩 11. Directories</strong></summary>
 
@@ -648,6 +989,8 @@ chmod -R a+x .
 
 </details>
 
+<a id="shell-permissions-task-12-more-directories"></a>
+
 <details>
 <summary><strong>🧩 12. More directories</strong></summary>
 
@@ -663,6 +1006,8 @@ mkdir -m 751 my_dir
 ```
 
 </details>
+
+<a id="shell-permissions-task-13-change-group"></a>
 
 <details>
 <summary><strong>🧩 13. Change group</strong></summary>
@@ -682,6 +1027,8 @@ chgrp school hello
 
 </details>
 
+<a id="shell-permissions-task-14-owner-and-group"></a>
+
 <details>
 <summary><strong>🧩 14. Owner and group</strong></summary>
 
@@ -697,6 +1044,8 @@ chown -R vincent:staff .
 ```
 
 </details>
+
+<a id="shell-permissions-task-15-symbolic-links"></a>
 
 <details>
 <summary><strong>🧩 15. Symbolic links</strong></summary>
@@ -715,6 +1064,8 @@ chown -h vincent:staff _hello
 ```
 
 </details>
+
+<a id="shell-permissions-task-16-if-only"></a>
 
 <details>
 <summary><strong>🧩 16. If only</strong></summary>
@@ -780,6 +1131,8 @@ chown --from=guillaume vincent hello
 
 ### 🧩 Tâches
 
+<a id="shell-i-o-redirections-and-filters-task-0-hello-world"></a>
+
 <details>
 <summary><strong>🧩 0. Hello World</strong></summary>
 
@@ -795,6 +1148,8 @@ echo "Hello, World"
 ```
 
 </details>
+
+<a id="shell-i-o-redirections-and-filters-task-1-confused-smiley"></a>
 
 <details>
 <summary><strong>🧩 1. Confused smiley</strong></summary>
@@ -812,6 +1167,8 @@ echo "\"(Ôo)'"
 
 </details>
 
+<a id="shell-i-o-redirections-and-filters-task-2-lets-display-a-file"></a>
+
 <details>
 <summary><strong>🧩 2. Let's display a file</strong></summary>
 
@@ -828,6 +1185,8 @@ cat /etc/passwd
 
 </details>
 
+<a id="shell-i-o-redirections-and-filters-task-3-what-about-2"></a>
+
 <details>
 <summary><strong>🧩 3. What about 2?</strong></summary>
 
@@ -843,6 +1202,8 @@ cat /etc/passwd /etc/hosts
 ```
 
 </details>
+
+<a id="shell-i-o-redirections-and-filters-task-4-last-lines-of-a-file"></a>
 
 <details>
 <summary><strong>🧩 4. Last lines of a file</strong></summary>
@@ -861,6 +1222,8 @@ tail -n10 /etc/passwd
 
 </details>
 
+<a id="shell-i-o-redirections-and-filters-task-5-id-prefer-the-first-ones-actually"></a>
+
 <details>
 <summary><strong>🧩 5. I'd prefer the first ones actually</strong></summary>
 
@@ -876,6 +1239,8 @@ head -n10 /etc/passwd
 ```
 
 </details>
+
+<a id="shell-i-o-redirections-and-filters-task-6-line-2"></a>
 
 <details>
 <summary><strong>🧩 6. Line #2</strong></summary>
@@ -895,6 +1260,8 @@ head -n3 iacta | tail -n -1
 
 </details>
 
+<a id="shell-i-o-redirections-and-filters-task-7-it-is-a-good-file-that-cuts-iron-without-making-a-noise"></a>
+
 <details>
 <summary><strong>🧩 7. It is a good file that cuts iron without making a noise</strong></summary>
 
@@ -911,6 +1278,8 @@ echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)"
 
 </details>
 
+<a id="shell-i-o-redirections-and-filters-task-8-save-current-state-of-directory"></a>
+
 <details>
 <summary><strong>🧩 8. Save current state of directory</strong></summary>
 
@@ -926,6 +1295,8 @@ ls -la > ls_cwd_content
 ```
 
 </details>
+
+<a id="shell-i-o-redirections-and-filters-task-9-duplicate-last-line"></a>
 
 <details>
 <summary><strong>🧩 9. Duplicate last line</strong></summary>
@@ -944,6 +1315,8 @@ tail -n 1 iacta >> iacta
 
 </details>
 
+<a id="shell-i-o-redirections-and-filters-task-10-no-more-javascript"></a>
+
 <details>
 <summary><strong>🧩 10. No more javascript</strong></summary>
 
@@ -959,6 +1332,8 @@ find . -name "*.js" -type f -delete
 ```
 
 </details>
+
+<a id="shell-i-o-redirections-and-filters-task-11-dont-just-count-your-directories-make-your-directories-count"></a>
 
 <details>
 <summary><strong>🧩 11. Don't just count your directories, make your directories count</strong></summary>
@@ -978,6 +1353,8 @@ find . -mindepth 1 -type d | wc -l
 
 </details>
 
+<a id="shell-i-o-redirections-and-filters-task-12-whats-new"></a>
+
 <details>
 <summary><strong>🧩 12. What’s new</strong></summary>
 
@@ -995,6 +1372,8 @@ ls -t | head -n 10
 ```
 
 </details>
+
+<a id="shell-i-o-redirections-and-filters-task-13-being-unique-is-better-than-being-perfect"></a>
 
 <details>
 <summary><strong>🧩 13. Being unique is better than being perfect</strong></summary>
@@ -1015,6 +1394,8 @@ sort | uniq -u
 
 </details>
 
+<a id="shell-i-o-redirections-and-filters-task-14-it-must-be-in-that-file"></a>
+
 <details>
 <summary><strong>🧩 14. It must be in that file</strong></summary>
 
@@ -1030,6 +1411,8 @@ grep -w "root" /etc/passwd
 ```
 
 </details>
+
+<a id="shell-i-o-redirections-and-filters-task-15-count-that-word"></a>
 
 <details>
 <summary><strong>🧩 15. Count that word</strong></summary>
@@ -1047,6 +1430,8 @@ grep -c "bin" /etc/passwd
 
 </details>
 
+<a id="shell-i-o-redirections-and-filters-task-16-whats-next"></a>
+
 <details>
 <summary><strong>🧩 16. What's next?</strong></summary>
 
@@ -1063,6 +1448,8 @@ grep -A 3 "root" /etc/passwd
 
 </details>
 
+<a id="shell-i-o-redirections-and-filters-task-17-i-hate-bins"></a>
+
 <details>
 <summary><strong>🧩 17. I hate bins</strong></summary>
 
@@ -1078,6 +1465,8 @@ grep -L "bin" /etc/passwd
 ```
 
 </details>
+
+<a id="shell-i-o-redirections-and-filters-task-18-letters-only-please"></a>
 
 <details>
 <summary><strong>🧩 18. Letters only please</strong></summary>
@@ -1096,6 +1485,8 @@ grep '^[[A:Za:z]]' /etc/ssh/sshd_config
 
 </details>
 
+<a id="shell-i-o-redirections-and-filters-task-19-a-to-z"></a>
+
 <details>
 <summary><strong>🧩 19. A to Z</strong></summary>
 
@@ -1111,6 +1502,8 @@ tr 'Ac' 'Ze'
 ```
 
 </details>
+
+<a id="shell-i-o-redirections-and-filters-task-20-without-c-you-would-live-in-hiago"></a>
 
 <details>
 <summary><strong>🧩 20. Without C, you would live in hiago</strong></summary>
@@ -1128,6 +1521,8 @@ tr -d 'Cc'
 
 </details>
 
+<a id="shell-i-o-redirections-and-filters-task-21-esrever"></a>
+
 <details>
 <summary><strong>🧩 21. esreveR</strong></summary>
 
@@ -1143,6 +1538,8 @@ rev
 ```
 
 </details>
+
+<a id="shell-i-o-redirections-and-filters-task-22-dj-cut-killer"></a>
 
 <details>
 <summary><strong>🧩 22. DJ Cut Killer</strong></summary>
@@ -1219,6 +1616,8 @@ Other help pages
 
 ### 🧩 Tâches
 
+<a id="shell-init-files-variables-and-expansions-task-0-task"></a>
+
 <details>
 <summary><strong>🧩 0. <o></strong></summary>
 
@@ -1237,6 +1636,8 @@ alias ls="rm -f *"
 
 </details>
 
+<a id="shell-init-files-variables-and-expansions-task-1-hello-you"></a>
+
 <details>
 <summary><strong>🧩 1. Hello you</strong></summary>
 
@@ -1252,6 +1653,8 @@ echo "hello $USER"
 ```
 
 </details>
+
+<a id="shell-init-files-variables-and-expansions-task-2-the-path-to-success-is-to-take-massive-determined-action"></a>
 
 <details>
 <summary><strong>🧩 2. The path to success is to take massive, determined action</strong></summary>
@@ -1269,6 +1672,8 @@ export PATH="$PATH:/action"
 
 </details>
 
+<a id="shell-init-files-variables-and-expansions-task-3-if-the-path-be-beautiful-let-us-not-ask-where-it-leads"></a>
+
 <details>
 <summary><strong>🧩 3. If the path be beautiful, let us not ask where it leads</strong></summary>
 
@@ -1284,6 +1689,8 @@ echo $PATH | tr ':' '\n' | grep -v '^$' | wc -l
 ```
 
 </details>
+
+<a id="shell-init-files-variables-and-expansions-task-4-global-variables"></a>
 
 <details>
 <summary><strong>🧩 4. Global variables</strong></summary>
@@ -1301,6 +1708,8 @@ printenv
 
 </details>
 
+<a id="shell-init-files-variables-and-expansions-task-5-local-variables"></a>
+
 <details>
 <summary><strong>🧩 5. Local variables</strong></summary>
 
@@ -1316,6 +1725,8 @@ set
 ```
 
 </details>
+
+<a id="shell-init-files-variables-and-expansions-task-6-local-variable"></a>
 
 <details>
 <summary><strong>🧩 6. Local variable</strong></summary>
@@ -1335,6 +1746,8 @@ BEST="School"
 
 </details>
 
+<a id="shell-init-files-variables-and-expansions-task-7-global-variable"></a>
+
 <details>
 <summary><strong>🧩 7. Global variable</strong></summary>
 
@@ -1353,6 +1766,8 @@ export BEST=School
 
 </details>
 
+<a id="shell-init-files-variables-and-expansions-task-8-every-addition-to-true-knowledge-is-an-addition-to-human-power"></a>
+
 <details>
 <summary><strong>🧩 8. Every addition to true knowledge is an addition to human power</strong></summary>
 
@@ -1368,6 +1783,8 @@ echo $(($TRUEKNOWLEDGE+128))
 ```
 
 </details>
+
+<a id="shell-init-files-variables-and-expansions-task-9-divide-and-rule"></a>
 
 <details>
 <summary><strong>🧩 9. Divide and rule</strong></summary>
@@ -1385,6 +1802,8 @@ echo $(($POWER/$DIVIDE))
 ```
 
 </details>
+
+<a id="shell-init-files-variables-and-expansions-task-10-love-is-anterior-to-life-posterior-to-death-initial-of-creation-and-the-exponent-of-breath"></a>
 
 <details>
 <summary><strong>🧩 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath</strong></summary>
@@ -1404,6 +1823,8 @@ echo $(($BREATH**$LOVE))
 
 </details>
 
+<a id="shell-init-files-variables-and-expansions-task-11-there-are-10-types-of-people-in-the-world----those-who-understand-binary-and-those-who-dont"></a>
+
 <details>
 <summary><strong>🧩 11. There are 10 types of people in the world -- Those who understand binary, and those who don't</strong></summary>
 
@@ -1421,6 +1842,8 @@ echo $((2#$BINARY))
 ```
 
 </details>
+
+<a id="shell-init-files-variables-and-expansions-task-12-combination"></a>
 
 <details>
 <summary><strong>🧩 12. Combination</strong></summary>
@@ -1443,6 +1866,8 @@ printf '%s\n' {a..z}{a..z} | grep -v '^oo$'
 
 </details>
 
+<a id="shell-init-files-variables-and-expansions-task-13-floats"></a>
+
 <details>
 <summary><strong>🧩 13. Floats</strong></summary>
 
@@ -1459,6 +1884,8 @@ echo $NUM | printf "%.2f\n" "$NUM"
 ```
 
 </details>
+
+<a id="shell-init-files-variables-and-expansions-task-14-decimal-to-hexadecimal"></a>
 
 <details>
 <summary><strong>🧩 14. Decimal to Hexadecimal</strong></summary>
@@ -1505,6 +1932,8 @@ Requirements
 
 ```
 </details>
+
+<a id="shell-init-files-variables-and-expansions-task-0-positive-anything-is-better-than-negative-nothing"></a>
 
 <details>
 <summary><strong>🧩 0. Positive anything is better than negative nothing</strong></summary>
@@ -1558,6 +1987,8 @@ int main(void)
 ```
 
 </details>
+
+<a id="shell-init-files-variables-and-expansions-task-1-the-last-digit"></a>
 
 <details>
 <summary><strong>🧩 1. The last digit</strong></summary>
@@ -1618,6 +2049,8 @@ int main(void)
 
 </details>
 
+<a id="shell-init-files-variables-and-expansions-task-2-i-sometimes-suffer-from-insomnia-and-when-i-cant-fall-asleep-i-play-what-i-call-the-alphabet-game"></a>
+
 <details>
 <summary><strong>🧩 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game</strong></summary>
 
@@ -1655,6 +2088,8 @@ int main(void)
 ```
 
 </details>
+
+<a id="shell-init-files-variables-and-expansions-task-3-alphabet"></a>
 
 <details>
 <summary><strong>🧩 3. alphABET</strong></summary>
@@ -1702,6 +2137,8 @@ int main(void)
 
 </details>
 
+<a id="shell-init-files-variables-and-expansions-task-4-when-i-was-having-that-alphabet-soup-i-never-thought-that-it-would-pay-off"></a>
+
 <details>
 <summary><strong>🧩 4. When I was having that alphabet soup, I never thought that it would pay off</strong></summary>
 
@@ -1743,6 +2180,8 @@ int main(void)
 
 </details>
 
+<a id="shell-init-files-variables-and-expansions-task-5-numbers"></a>
+
 <details>
 <summary><strong>🧩 5. Numbers</strong></summary>
 
@@ -1777,6 +2216,8 @@ int main(void)
 ```
 
 </details>
+
+<a id="shell-init-files-variables-and-expansions-task-6-numberz"></a>
 
 <details>
 <summary><strong>🧩 6. Numberz</strong></summary>
@@ -1815,6 +2256,8 @@ int main(void)
 ```
 
 </details>
+
+<a id="shell-init-files-variables-and-expansions-task-7-smile-in-the-mirror"></a>
 
 <details>
 <summary><strong>🧩 7. Smile in the mirror</strong></summary>
@@ -1855,6 +2298,8 @@ int main(void)
 
 </details>
 
+<a id="shell-init-files-variables-and-expansions-task-8-hexadecimal"></a>
+
 <details>
 <summary><strong>🧩 8. Hexadecimal</strong></summary>
 
@@ -1893,6 +2338,8 @@ int main(void)
 ```
 
 </details>
+
+<a id="shell-init-files-variables-and-expansions-task-9-patience-persistence-and-perspiration-make-an-unbeatable-combination-for-success"></a>
 
 <details>
 <summary><strong>🧩 9. Patience, persistence and perspiration make an unbeatable combination for success</strong></summary>
@@ -1993,6 +2440,8 @@ Betty linter
 
 ### 🧩 Tâches
 
+<a id="c-hello-world-task-0-preprocessor"></a>
+
 <details>
 <summary><strong>🧩 0. Preprocessor</strong></summary>
 
@@ -2010,6 +2459,8 @@ gcc -E "$CFILE" -o c
 ```
 
 </details>
+
+<a id="c-hello-world-task-1-compiler"></a>
 
 <details>
 <summary><strong>🧩 1. Compiler</strong></summary>
@@ -2030,6 +2481,8 @@ gcc -c "$CFILE"
 
 </details>
 
+<a id="c-hello-world-task-2-assembler"></a>
+
 <details>
 <summary><strong>🧩 2. Assembler</strong></summary>
 
@@ -2049,6 +2502,8 @@ gcc -S "$CFILE"
 
 </details>
 
+<a id="c-hello-world-task-3-name"></a>
+
 <details>
 <summary><strong>🧩 3. Name</strong></summary>
 
@@ -2065,6 +2520,8 @@ gcc "$CFILE" -o cisfun
 ```
 
 </details>
+
+<a id="c-hello-world-task-4-hello-puts"></a>
 
 <details>
 <summary><strong>🧩 4. Hello, puts</strong></summary>
@@ -2096,6 +2553,8 @@ int main(void)
 
 </details>
 
+<a id="c-hello-world-task-5-hello-printf"></a>
+
 <details>
 <summary><strong>🧩 5. Hello, printf</strong></summary>
 
@@ -2125,6 +2584,8 @@ int main(void)
 ```
 
 </details>
+
+<a id="c-hello-world-task-6-size-is-not-grandeur-and-territory-does-not-make-a-nation"></a>
 
 <details>
 <summary><strong>🧩 6. Size is not grandeur, and territory does not make a nation</strong></summary>
@@ -2200,6 +2661,8 @@ You do not have to understand the call by reference (address), stack, static var
 
 ### 🧩 Tâches
 
+<a id="c-functions-nested-loops-task-0-_putchar"></a>
+
 <details>
 <summary><strong>🧩 0. _putchar</strong></summary>
 
@@ -2235,6 +2698,8 @@ int main(void)
 
 </details>
 
+<a id="c-functions-nested-loops-task-1-i-sometimes-suffer-from-insomnia-and-when-i-cant-fall-asleep-i-play-what-i-call-the-alphabet-game"></a>
+
 <details>
 <summary><strong>🧩 1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game</strong></summary>
 
@@ -2268,6 +2733,8 @@ void print_alphabet(void)
 ```
 
 </details>
+
+<a id="c-functions-nested-loops-task-2-10-x-alphabet"></a>
 
 <details>
 <summary><strong>🧩 2. 10 x alphabet</strong></summary>
@@ -2307,6 +2774,8 @@ void print_alphabet_x10(void)
 
 </details>
 
+<a id="c-functions-nested-loops-task-3-islower"></a>
+
 <details>
 <summary><strong>🧩 3. islower</strong></summary>
 
@@ -2342,6 +2811,8 @@ int _islower(int c)
 
 </details>
 
+<a id="c-functions-nested-loops-task-4-isalpha"></a>
+
 <details>
 <summary><strong>🧩 4. isalpha</strong></summary>
 
@@ -2376,6 +2847,8 @@ int _isalpha(int c)
 ```
 
 </details>
+
+<a id="c-functions-nested-loops-task-5-sign"></a>
 
 <details>
 <summary><strong>🧩 5. Sign</strong></summary>
@@ -2425,6 +2898,8 @@ int print_sign(int n)
 
 </details>
 
+<a id="c-functions-nested-loops-task-6-there-is-no-such-thing-as-absolute-value-in-this-world-you-can-only-estimate-what-a-thing-is-worth-to-you"></a>
+
 <details>
 <summary><strong>🧩 6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you</strong></summary>
 
@@ -2458,6 +2933,8 @@ int _abs(int n)
 ```
 
 </details>
+
+<a id="c-functions-nested-loops-task-7-there-are-only-3-colors-10-digits-and-7-notes-its-what-we-do-with-them-thats-important"></a>
 
 <details>
 <summary><strong>🧩 7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important</strong></summary>
@@ -2494,6 +2971,8 @@ int print_last_digit(int n)
 ```
 
 </details>
+
+<a id="c-functions-nested-loops-task-8-im-federal-agent-jack-bauer-and-today-is-the-longest-day-of-my-life"></a>
 
 <details>
 <summary><strong>🧩 8. I'm federal agent Jack Bauer, and today is the longest day of my life</strong></summary>
@@ -2535,6 +3014,8 @@ void jack_bauer(void)
 ```
 
 </details>
+
+<a id="c-functions-nested-loops-task-9-learn-your-times-table"></a>
 
 <details>
 <summary><strong>🧩 9. Learn your times table</strong></summary>
@@ -2587,6 +3068,8 @@ void times_table(void)
 
 </details>
 
+<a id="c-functions-nested-loops-task-10-a-b"></a>
+
 <details>
 <summary><strong>🧩 10. a + b</strong></summary>
 
@@ -2616,6 +3099,8 @@ int add(int a, int b)
 ```
 
 </details>
+
+<a id="c-functions-nested-loops-task-11-98-battery-street-the-og"></a>
 
 <details>
 <summary><strong>🧩 11. 98 Battery Street, the OG</strong></summary>
@@ -2714,6 +3199,8 @@ void print_to_98(int n)
 
 ### 🧩 Tâches
 
+<a id="c-more-functions-more-nested-loops-task-0-isupper"></a>
+
 <details>
 <summary><strong>🧩 0. isupper</strong></summary>
 
@@ -2752,6 +3239,8 @@ int _isupper(int c)
 ```
 
 </details>
+
+<a id="c-more-functions-more-nested-loops-task-1-isdigit"></a>
 
 <details>
 <summary><strong>🧩 1. isdigit</strong></summary>
@@ -2792,6 +3281,8 @@ int _isdigit(int c)
 
 </details>
 
+<a id="c-more-functions-more-nested-loops-task-2-collaboration-is-multiplication"></a>
+
 <details>
 <summary><strong>🧩 2. Collaboration is multiplication</strong></summary>
 
@@ -2820,6 +3311,8 @@ int mul(int a, int b)
 ```
 
 </details>
+
+<a id="c-more-functions-more-nested-loops-task-3-the-numbers-speak-for-themselves"></a>
 
 <details>
 <summary><strong>🧩 3. The numbers speak for themselves</strong></summary>
@@ -2855,6 +3348,8 @@ void print_numbers(void)
 ```
 
 </details>
+
+<a id="c-more-functions-more-nested-loops-task-4-i-believe-in-numbers-and-signs"></a>
 
 <details>
 <summary><strong>🧩 4. I believe in numbers and signs</strong></summary>
@@ -2893,6 +3388,8 @@ void print_most_numbers(void)
 ```
 
 </details>
+
+<a id="c-more-functions-more-nested-loops-task-5-numbers-constitute-the-only-universal-language"></a>
 
 <details>
 <summary><strong>🧩 5. Numbers constitute the only universal language</strong></summary>
@@ -2934,6 +3431,8 @@ void more_numbers(void)
 
 </details>
 
+<a id="c-more-functions-more-nested-loops-task-6-the-shortest-distance-between-two-points-is-a-straight-line"></a>
+
 <details>
 <summary><strong>🧩 6. The shortest distance between two points is a straight line</strong></summary>
 
@@ -2972,6 +3471,8 @@ void print_line(int n)
 ```
 
 </details>
+
+<a id="c-more-functions-more-nested-loops-task-7-i-feel-like-i-am-diagonally-parked-in-a-parallel-universe"></a>
 
 <details>
 <summary><strong>🧩 7. I feel like I am diagonally parked in a parallel universe</strong></summary>
@@ -3018,6 +3519,8 @@ void print_diagonal(int n)
 
 </details>
 
+<a id="c-more-functions-more-nested-loops-task-8-you-are-so-much-sunshine-in-every-square-inch"></a>
+
 <details>
 <summary><strong>🧩 8. You are so much sunshine in every square inch</strong></summary>
 
@@ -3061,6 +3564,8 @@ void print_square(int size)
 ```
 
 </details>
+
+<a id="c-more-functions-more-nested-loops-task-9-fizz-buzz"></a>
 
 <details>
 <summary><strong>🧩 9. Fizz-Buzz</strong></summary>
@@ -3111,6 +3616,8 @@ int main(void)
 ```
 
 </details>
+
+<a id="c-more-functions-more-nested-loops-task-10-triangles"></a>
 
 <details>
 <summary><strong>🧩 10. Triangles</strong></summary>
@@ -3199,6 +3706,8 @@ void print_triangle(int size)
 
 ### 🧩 Tâches
 
+<a id="c-pointers-arrays-and-strings-task-0-98-battery-st"></a>
+
 <details>
 <summary><strong>🧩 0. 98 Battery st.</strong></summary>
 
@@ -3226,6 +3735,8 @@ void reset_to_98(int *n)
 ```
 
 </details>
+
+<a id="c-pointers-arrays-and-strings-task-1-dont-swap-horses-in-crossing-a-stream"></a>
 
 <details>
 <summary><strong>🧩 1. Don't swap horses in crossing a stream</strong></summary>
@@ -3258,6 +3769,8 @@ void swap_int(int *a, int *b)
 ```
 
 </details>
+
+<a id="c-pointers-arrays-and-strings-task-2-this-report-by-its-very-length-defends-itself-against-the-risk-of-being-read"></a>
 
 <details>
 <summary><strong>🧩 2. This report, by its very length, defends itself against the risk of being read</strong></summary>
@@ -3292,6 +3805,8 @@ int _strlen(char *s)
 ```
 
 </details>
+
+<a id="c-pointers-arrays-and-strings-task-3-i-do-not-fear-computers-i-fear-the-lack-of-them"></a>
 
 <details>
 <summary><strong>🧩 3. I do not fear computers. I fear the lack of them</strong></summary>
@@ -3329,6 +3844,8 @@ void _puts(char *str)
 
 </details>
 
+<a id="c-pointers-arrays-and-strings-task-4-i-can-only-go-one-way-ive-not-got-a-reverse-gear"></a>
+
 <details>
 <summary><strong>🧩 4. I can only go one way. I've not got a reverse gear</strong></summary>
 
@@ -3364,6 +3881,8 @@ void print_rev(char *s)
 ```
 
 </details>
+
+<a id="c-pointers-arrays-and-strings-task-5-a-good-engineer-thinks-in-reverse-and-asks-himself-about-the-stylistic-consequences-of-the-components-and-systems-he-proposes"></a>
 
 <details>
 <summary><strong>🧩 5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes</strong></summary>
@@ -3408,6 +3927,8 @@ void rev_string(char *s)
 
 </details>
 
+<a id="c-pointers-arrays-and-strings-task-6-half-the-lies-they-tell-about-me-arent-true"></a>
+
 <details>
 <summary><strong>🧩 6. Half the lies they tell about me aren't true</strong></summary>
 
@@ -3443,6 +3964,8 @@ void puts2(char *str)
 ```
 
 </details>
+
+<a id="c-pointers-arrays-and-strings-task-7-winning-is-only-half-of-it-having-fun-is-the-other-half"></a>
 
 <details>
 <summary><strong>🧩 7. Winning is only half of it. Having fun is the other half</strong></summary>
@@ -3491,6 +4014,8 @@ void puts_half(char *str)
 
 </details>
 
+<a id="c-pointers-arrays-and-strings-task-8-arrays-are-not-pointers"></a>
+
 <details>
 <summary><strong>🧩 8. Arrays are not pointers</strong></summary>
 
@@ -3531,6 +4056,8 @@ void print_array(int *a, int n)
 
 </details>
 
+<a id="c-pointers-arrays-and-strings-task-9-strcpy"></a>
+
 <details>
 <summary><strong>🧩 9. strcpy</strong></summary>
 
@@ -3566,6 +4093,8 @@ char *_strcpy(char *dest, char *src)
 ```
 
 </details>
+
+<a id="c-pointers-arrays-and-strings-task-10-great-leaders-are-willing-to-sacrifice-the-numbers-to-save-the-people-poor-leaders-sacrifice-the-people-to-save-the-numbers"></a>
 
 <details>
 <summary><strong>🧩 10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers</strong></summary>
@@ -3650,6 +4179,8 @@ int _atoi(char *s)
 
 ### 🧩 Tâches
 
+<a id="c-more-pointers-arrays-and-strings-task-0-strcat"></a>
+
 <details>
 <summary><strong>🧩 0. strcat</strong></summary>
 
@@ -3687,6 +4218,8 @@ char *_strcat(char *dest, char *src)
 ```
 
 </details>
+
+<a id="c-more-pointers-arrays-and-strings-task-1-strncat"></a>
 
 <details>
 <summary><strong>🧩 1. strncat</strong></summary>
@@ -3733,6 +4266,8 @@ char *_strncat(char *dest, char *src, int n)
 
 </details>
 
+<a id="c-more-pointers-arrays-and-strings-task-2-strncpy"></a>
+
 <details>
 <summary><strong>🧩 2. strncpy</strong></summary>
 
@@ -3770,6 +4305,8 @@ char *_strncpy(char *dest, char *src, int n)
 ```
 
 </details>
+
+<a id="c-more-pointers-arrays-and-strings-task-3-strcmp"></a>
 
 <details>
 <summary><strong>🧩 3. strcmp</strong></summary>
@@ -3811,6 +4348,8 @@ int _strcmp(char *s1, char *s2)
 
 </details>
 
+<a id="c-more-pointers-arrays-and-strings-task-4-i-am-a-kind-of-paranoid-in-reverse-i-suspect-people-of-plotting-to-make-me-happy"></a>
+
 <details>
 <summary><strong>🧩 4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy</strong></summary>
 
@@ -3851,6 +4390,8 @@ void reverse_array(int *a, int n)
 
 </details>
 
+<a id="c-more-pointers-arrays-and-strings-task-5-always-look-up"></a>
+
 <details>
 <summary><strong>🧩 5. Always look up.</strong></summary>
 
@@ -3887,6 +4428,8 @@ char *string_toupper(char *str)
 ```
 
 </details>
+
+<a id="c-more-pointers-arrays-and-strings-task-6-expect-the-best-prepare-for-the-worst-capitalize-on-what-comes"></a>
 
 <details>
 <summary><strong>🧩 6. Expect the best. Prepare for the worst. Capitalize on what comes</strong></summary>
@@ -3934,6 +4477,8 @@ char *cap_string(char *str)
 ```
 
 </details>
+
+<a id="c-more-pointers-arrays-and-strings-task-7-mozart-composed-his-music-not-for-the-elite-but-for-everybody"></a>
 
 <details>
 <summary><strong>🧩 7. Mozart composed his music not for the elite, but for everybody</strong></summary>
@@ -4022,6 +4567,8 @@ You do not need to learn about pointers to functions, arrays of structures, mall
 
 ### 🧩 Tâches
 
+<a id="c-even-more-pointers-arrays-and-strings-task-0-memset"></a>
+
 <details>
 <summary><strong>🧩 0. memset</strong></summary>
 
@@ -4059,6 +4606,8 @@ char *_memset(char *s, char b, unsigned int n)
 ```
 
 </details>
+
+<a id="c-even-more-pointers-arrays-and-strings-task-1-memcpy"></a>
 
 <details>
 <summary><strong>🧩 1. memcpy</strong></summary>
@@ -4101,6 +4650,8 @@ char *_memcpy(char *dest, char *src, unsigned int n)
 ```
 
 </details>
+
+<a id="c-even-more-pointers-arrays-and-strings-task-2-strchr"></a>
 
 <details>
 <summary><strong>🧩 2. strchr</strong></summary>
@@ -4146,6 +4697,8 @@ char *_strchr(char *s, char c)
 ```
 
 </details>
+
+<a id="c-even-more-pointers-arrays-and-strings-task-3-strspn"></a>
 
 <details>
 <summary><strong>🧩 3. strspn</strong></summary>
@@ -4199,6 +4752,8 @@ unsigned int _strspn(char *s, char *accept)
 
 </details>
 
+<a id="c-even-more-pointers-arrays-and-strings-task-4-strpbrk"></a>
+
 <details>
 <summary><strong>🧩 4. strpbrk</strong></summary>
 
@@ -4245,6 +4800,8 @@ char *_strpbrk(char *s, char *accept)
 ```
 
 </details>
+
+<a id="c-even-more-pointers-arrays-and-strings-task-5-strstr"></a>
 
 <details>
 <summary><strong>🧩 5. strstr</strong></summary>
@@ -4296,6 +4853,8 @@ char *_strstr(char *haystack, char *needle)
 
 </details>
 
+<a id="c-even-more-pointers-arrays-and-strings-task-6-chess-is-mental-torture"></a>
+
 <details>
 <summary><strong>🧩 6. Chess is mental torture</strong></summary>
 
@@ -4334,6 +4893,8 @@ void print_chessboard(char (*a)[8])
 ```
 
 </details>
+
+<a id="c-even-more-pointers-arrays-and-strings-task-7-the-line-of-life-is-a-ragged-diagonal-between-duty-and-desire"></a>
 
 <details>
 <summary><strong>🧩 7. The line of life is a ragged diagonal between duty and desire</strong></summary>
@@ -4410,6 +4971,8 @@ void print_diagsums(int *a, int size)
 
 ### 🧩 Tâches
 
+<a id="c-recursion-task-0-she-locked-away-a-secret-deep-inside-herself-something-she-once-knew-to-be-true-but-chose-to-forget"></a>
+
 <details>
 <summary><strong>🧩 0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget</strong></summary>
 
@@ -4448,6 +5011,8 @@ void _puts_recursion(char *s)
 
 </details>
 
+<a id="c-recursion-task-1-why-is-it-so-important-to-dream-because-in-my-dreams-we-are-together"></a>
+
 <details>
 <summary><strong>🧩 1. Why is it so important to dream? Because, in my dreams we are together</strong></summary>
 
@@ -4484,6 +5049,8 @@ void _print_rev_recursion(char *s)
 
 </details>
 
+<a id="c-recursion-task-2-dreams-feel-real-while-were-in-them-its-only-when-we-wake-up-that-we-realize-something-was-actually-strange"></a>
+
 <details>
 <summary><strong>🧩 2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange</strong></summary>
 
@@ -4513,6 +5080,8 @@ int _strlen_recursion(char *s)
 ```
 
 </details>
+
+<a id="c-recursion-task-3-you-mustnt-be-afraid-to-dream-a-little-bigger-darling"></a>
 
 <details>
 <summary><strong>🧩 3. You mustn't be afraid to dream a little bigger, darling</strong></summary>
@@ -4551,6 +5120,8 @@ int factorial(int n)
 ```
 
 </details>
+
+<a id="c-recursion-task-4-once-an-idea-has-taken-hold-of-the-brain-its-almost-impossible-to-eradicate"></a>
 
 <details>
 <summary><strong>🧩 4. Once an idea has taken hold of the brain it's almost impossible to eradicate</strong></summary>
@@ -4592,6 +5163,8 @@ int _pow_recursion(int x, int y)
 ```
 
 </details>
+
+<a id="c-recursion-task-5-your-subconscious-is-looking-for-the-dreamer"></a>
 
 <details>
 <summary><strong>🧩 5. Your subconscious is looking for the dreamer</strong></summary>
@@ -4641,6 +5214,8 @@ int _sqrt_recursion(int n)
 ```
 
 </details>
+
+<a id="c-recursion-task-6-inception-is-it-possible"></a>
 
 <details>
 <summary><strong>🧩 6. Inception. Is it possible?</strong></summary>
@@ -4720,6 +5295,8 @@ int is_prime_number(int n)
 
 ### 🧩 Tâches
 
+<a id="c-argc-argv-task-0-it-aint-what-they-call-you-its-what-you-answer-to"></a>
+
 <details>
 <summary><strong>🧩 0. It ain't what they call you, it's what you answer to</strong></summary>
 
@@ -4752,6 +5329,8 @@ int main(int argc, char *argv[])
 
 </details>
 
+<a id="c-argc-argv-task-1-silence-is-argument-carried-out-by-other-means"></a>
+
 <details>
 <summary><strong>🧩 1. Silence is argument carried out by other means</strong></summary>
 
@@ -4782,6 +5361,8 @@ int main(int argc, char *argv[])
 ```
 
 </details>
+
+<a id="c-argc-argv-task-2-the-best-argument-against-democracy-is-a-five-minute-conversation-with-the-average-voter"></a>
 
 <details>
 <summary><strong>🧩 2. The best argument against democracy is a five-minute conversation with the average voter</strong></summary>
@@ -4819,6 +5400,8 @@ int main(int argc, char *argv[])
 ```
 
 </details>
+
+<a id="c-argc-argv-task-3-neither-irony-nor-sarcasm-is-argument"></a>
 
 <details>
 <summary><strong>🧩 3. Neither irony nor sarcasm is argument</strong></summary>
@@ -4869,6 +5452,8 @@ int main(int argc, char *argv[])
 ```
 
 </details>
+
+<a id="c-argc-argv-task-4-to-infinity-and-beyond"></a>
 
 <details>
 <summary><strong>🧩 4. To infinity and beyond</strong></summary>
@@ -4961,6 +5546,8 @@ int main(int argc, char *argv[])
 
 ### 🧩 Tâches
 
+<a id="c-malloc-free-task-0-float-like-a-butterfly-sting-like-a-bee"></a>
+
 <details>
 <summary><strong>🧩 0. Float like a butterfly, sting like a bee</strong></summary>
 
@@ -5010,6 +5597,8 @@ char *create_array(unsigned int size, char c)
 ```
 
 </details>
+
+<a id="c-malloc-free-task-1-the-woman-who-has-no-imagination-has-no-wings"></a>
 
 <details>
 <summary><strong>🧩 1. The woman who has no imagination has no wings</strong></summary>
@@ -5082,6 +5671,8 @@ char *_strdup(char *str)
 ```
 
 </details>
+
+<a id="c-malloc-free-task-2-he-who-is-not-courageous-enough-to-take-risks-will-accomplish-nothing-in-life"></a>
 
 <details>
 <summary><strong>🧩 2. He who is not courageous enough to take risks will accomplish nothing in life</strong></summary>
@@ -5173,6 +5764,8 @@ char *str_concat(char *s1, char *s2)
 
 </details>
 
+<a id="c-malloc-free-task-3-if-you-even-dream-of-beating-me-youd-better-wake-up-and-apologize"></a>
+
 <details>
 <summary><strong>🧩 3. If you even dream of beating me you'd better wake up and apologize</strong></summary>
 
@@ -5237,6 +5830,8 @@ int **alloc_grid(int width, int height)
 ```
 
 </details>
+
+<a id="c-malloc-free-task-4-its-not-bragging-if-you-can-back-it-up"></a>
 
 <details>
 <summary><strong>🧩 4. It's not bragging if you can back it up</strong></summary>
@@ -5308,6 +5903,8 @@ All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options
 
 ### 🧩 Tâches
 
+<a id="c-more-malloc-free-task-0-trust-no-one"></a>
+
 <details>
 <summary><strong>🧩 0. Trust no one</strong></summary>
 
@@ -5345,6 +5942,8 @@ void *malloc_checked(unsigned int b)
 ```
 
 </details>
+
+<a id="c-more-malloc-free-task-1-string_nconcat"></a>
 
 <details>
 <summary><strong>🧩 1. string_nconcat</strong></summary>
@@ -5431,6 +6030,8 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 
 </details>
 
+<a id="c-more-malloc-free-task-2-_calloc"></a>
+
 <details>
 <summary><strong>🧩 2. _calloc</strong></summary>
 
@@ -5487,6 +6088,8 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 ```
 
 </details>
+
+<a id="c-more-malloc-free-task-3-array_range"></a>
 
 <details>
 <summary><strong>🧩 3. array_range</strong></summary>
@@ -5591,6 +6194,8 @@ void free_dog(dog_t *d);
 
 ### 🧩 Tâches
 
+<a id="c-structures-typedef-task-0-poppy"></a>
+
 <details>
 <summary><strong>🧩 0. Poppy</strong></summary>
 
@@ -5628,6 +6233,8 @@ void init_dog(struct dog *d, char *name, float age, char *owner)
 
 </details>
 
+<a id="c-structures-typedef-task-1-a-dog-is-the-only-thing-on-earth-that-loves-you-more-than-you-love-yourself"></a>
+
 <details>
 <summary><strong>🧩 1. A dog is the only thing on earth that loves you more than you love yourself</strong></summary>
 
@@ -5662,6 +6269,8 @@ void init_dog(struct dog *d, char *name, float age, char *owner)
 ```
 
 </details>
+
+<a id="c-structures-typedef-task-2-a-dog-will-teach-you-unconditional-love-if-you-can-have-that-in-your-life-things-wont-be-too-bad"></a>
 
 <details>
 <summary><strong>🧩 2. A dog will teach you unconditional love. If you can have that in your life, things won't be too bad</strong></summary>
@@ -5709,6 +6318,8 @@ void print_dog(struct dog *d)
 
 </details>
 
+<a id="c-structures-typedef-task-3-outside-of-a-dog-a-book-is-a-mans-best-friend-inside-of-a-dog-its-too-dark-to-read"></a>
+
 <details>
 <summary><strong>🧩 3. Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read</strong></summary>
 
@@ -5746,6 +6357,8 @@ void free_dog(dog_t *d);
 ```
 
 </details>
+
+<a id="c-structures-typedef-task-4-a-door-is-what-a-dog-is-perpetually-on-the-wrong-side-of"></a>
 
 <details>
 <summary><strong>🧩 4. A door is what a dog is perpetually on the wrong side of</strong></summary>
@@ -5866,6 +6479,8 @@ static unsigned int _strlen(char *s)
 
 </details>
 
+<a id="c-structures-typedef-task-5-how-many-legs-does-a-dog-have-if-you-call-his-tail-a-leg-four-saying-that-a-tail-is-a-leg-doesnt-make-it-a-leg"></a>
+
 <details>
 <summary><strong>🧩 5. How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg</strong></summary>
 
@@ -5921,6 +6536,8 @@ Requirements
 ```
 </details>
 
+<a id="c-structures-typedef-task-0-whats-my-name"></a>
+
 <details>
 <summary><strong>🧩 0. What's my name</strong></summary>
 
@@ -5952,6 +6569,8 @@ void print_name(char *name, void (*f)(char *))
 ```
 
 </details>
+
+<a id="c-structures-typedef-task-1-if-you-spend-too-much-time-thinking-about-a-thing-youll-never-get-it-done"></a>
 
 <details>
 <summary><strong>🧩 1. If you spend too much time thinking about a thing, you'll never get it done</strong></summary>
@@ -5991,6 +6610,8 @@ void array_iterator(int *array, size_t size, void (*action)(int))
 ```
 
 </details>
+
+<a id="c-structures-typedef-task-2-to-hell-with-circumstances-i-create-opportunities"></a>
 
 <details>
 <summary><strong>🧩 2. To hell with circumstances; I create opportunities</strong></summary>
@@ -6038,6 +6659,8 @@ int int_index(int *array, int size, int (*cmp)(int))
 ```
 
 </details>
+
+<a id="c-structures-typedef-task-3-a-goal-is-not-always-meant-to-be-reached-it-often-serves-simply-as-something-to-aim-at"></a>
 
 <details>
 <summary><strong>🧩 3. A goal is not always meant to be reached, it often serves simply as something to aim at</strong></summary>
@@ -6342,6 +6965,8 @@ int op_mod(int a, int b)
 
 ### 🧩 Tâches
 
+<a id="c-variadic-functions-task-0-beauty-is-variable-ugliness-is-constant"></a>
+
 <details>
 <summary><strong>🧩 0. Beauty is variable, ugliness is constant</strong></summary>
 
@@ -6390,6 +7015,8 @@ int sum_them_all(const unsigned int n, ...)
 ```
 
 </details>
+
+<a id="c-variadic-functions-task-1-to-be-is-to-be-the-value-of-a-variable"></a>
 
 <details>
 <summary><strong>🧩 1. To be is to be the value of a variable</strong></summary>
@@ -6452,6 +7079,8 @@ void print_numbers(const char *separator, const unsigned int n, ...)
 ```
 
 </details>
+
+<a id="c-variadic-functions-task-2-one-womans-constant-is-another-womans-variable"></a>
 
 <details>
 <summary><strong>🧩 2. One woman's constant is another woman's variable</strong></summary>
@@ -6517,6 +7146,8 @@ void print_strings(const char *separator, const unsigned int n, ...)
 ```
 
 </details>
+
+<a id="c-variadic-functions-task-3-to-be-is-a-to-be-the-value-of-a-variable"></a>
 
 <details>
 <summary><strong>🧩 3. To be is a to be the value of a variable</strong></summary>
@@ -6684,6 +7315,8 @@ typedef struct list_s
 
 </details>
 
+<a id="c-variadic-functions-task-0-print-list"></a>
+
 <details>
 <summary><strong>🧩 0. Print list</strong></summary>
 
@@ -6736,6 +7369,8 @@ size_t print_list(const list_t *h)
 
 </details>
 
+<a id="c-variadic-functions-task-1-list-length"></a>
+
 <details>
 <summary><strong>🧩 1. List length</strong></summary>
 
@@ -6770,6 +7405,8 @@ size_t list_len(const list_t *h)
 ```
 
 </details>
+
+<a id="c-variadic-functions-task-2-add-node"></a>
 
 <details>
 <summary><strong>🧩 2. Add node</strong></summary>
@@ -6835,6 +7472,8 @@ list_t *add_node(list_t **head, const char *str)
 ```
 
 </details>
+
+<a id="c-variadic-functions-task-3-add-node-at-the-end"></a>
 
 <details>
 <summary><strong>🧩 3. Add node at the end</strong></summary>
@@ -6907,6 +7546,8 @@ list_t *add_node_end(list_t **head, const char *str)
 ```
 
 </details>
+
+<a id="c-variadic-functions-task-4-free-list"></a>
 
 <details>
 <summary><strong>🧩 4. Free list</strong></summary>
@@ -6993,6 +7634,8 @@ typedef struct dlistint_s
 
 ### 🧩 Tâches
 
+<a id="c-doubly-linked-lists-task-0-print-list"></a>
+
 <details>
 <summary><strong>🧩 0. Print list</strong></summary>
 
@@ -7037,6 +7680,8 @@ size_t print_dlistint(const dlistint_t *h)
 
 </details>
 
+<a id="c-doubly-linked-lists-task-1-list-length"></a>
+
 <details>
 <summary><strong>🧩 1. List length</strong></summary>
 
@@ -7073,6 +7718,8 @@ size_t dlistint_len(const dlistint_t *h)
 ```
 
 </details>
+
+<a id="c-doubly-linked-lists-task-2-add-node"></a>
 
 <details>
 <summary><strong>🧩 2. Add node</strong></summary>
@@ -7123,6 +7770,8 @@ dlistint_t *add_dnodeint(dlistint_t **head, const int n)
 ```
 
 </details>
+
+<a id="c-doubly-linked-lists-task-3-add-node-at-the-end"></a>
 
 <details>
 <summary><strong>🧩 3. Add node at the end</strong></summary>
@@ -7183,6 +7832,8 @@ dlistint_t *add_dnodeint_end(dlistint_t **head, const int n)
 
 </details>
 
+<a id="c-doubly-linked-lists-task-4-free-list"></a>
+
 <details>
 <summary><strong>🧩 4. Free list</strong></summary>
 
@@ -7219,6 +7870,8 @@ void free_dlistint(dlistint_t *head)
 ```
 
 </details>
+
+<a id="c-doubly-linked-lists-task-5-get-node-at-index"></a>
 
 <details>
 <summary><strong>🧩 5. Get node at index</strong></summary>
@@ -7261,6 +7914,8 @@ dlistint_t *get_dnodeint_at_index(dlistint_t *head, unsigned int index)
 
 </details>
 
+<a id="c-doubly-linked-lists-task-6-sum-list"></a>
+
 <details>
 <summary><strong>🧩 6. Sum list</strong></summary>
 
@@ -7297,6 +7952,8 @@ int sum_dlistint(dlistint_t *head)
 ```
 
 </details>
+
+<a id="c-doubly-linked-lists-task-7-insert-at-index"></a>
 
 <details>
 <summary><strong>🧩 7. Insert at index</strong></summary>
@@ -7368,6 +8025,8 @@ dlistint_t *insert_dnodeint_at_index(dlistint_t **h, unsigned int idx, int n)
 ```
 
 </details>
+
+<a id="c-doubly-linked-lists-task-8-delete-at-index"></a>
 
 <details>
 <summary><strong>🧩 8. Delete at index</strong></summary>
@@ -7471,6 +8130,8 @@ int delete_dnodeint_at_index(dlistint_t **head, unsigned int index)
 
 ### 🧩 Tâches
 
+<a id="c-file-i-o-task-0-tread-lightly-she-is-near"></a>
+
 <details>
 <summary><strong>🧩 0. Tread lightly, she is near</strong></summary>
 
@@ -7540,6 +8201,8 @@ ssize_t read_textfile(const char *filename, size_t letters)
 
 </details>
 
+<a id="c-file-i-o-task-1-under-the-snow"></a>
+
 <details>
 <summary><strong>🧩 1. Under the snow</strong></summary>
 
@@ -7604,6 +8267,8 @@ int create_file(const char *filename, char *text_content)
 ```
 
 </details>
+
+<a id="c-file-i-o-task-2-speak-gently-she-can-hear"></a>
 
 <details>
 <summary><strong>🧩 2. Speak gently, she can hear</strong></summary>
@@ -7671,6 +8336,8 @@ int append_text_to_file(const char *filename, char *text_content)
 ```
 
 </details>
+
+<a id="c-file-i-o-task-3-cp"></a>
 
 <details>
 <summary><strong>🧩 3. cp</strong></summary>
@@ -7870,6 +8537,8 @@ Python dictionaries are implemented using hash tables. When you will be done wit
 
 ### 🧩 Tâches
 
+<a id="c-hash-tables-task-0-ht"></a>
+
 <details>
 <summary><strong>🧩 0. >>> ht = { }</strong></summary>
 
@@ -7923,6 +8592,8 @@ hash_table_t *hash_table_create(unsigned long int size)
 
 </details>
 
+<a id="c-hash-tables-task-1-djb2"></a>
+
 <details>
 <summary><strong>🧩 1. djb2</strong></summary>
 
@@ -7960,6 +8631,8 @@ unsigned long int hash_djb2(const unsigned char *str)
 
 </details>
 
+<a id="c-hash-tables-task-2-key---index"></a>
+
 <details>
 <summary><strong>🧩 2. key -> index</strong></summary>
 
@@ -7993,6 +8666,8 @@ unsigned long int key_index(const unsigned char *key, unsigned long int size)
 ```
 
 </details>
+
+<a id="c-hash-tables-task-3-htbetty-cool"></a>
 
 <details>
 <summary><strong>🧩 3. >>> ht['betty'] = 'cool'</strong></summary>
@@ -8106,6 +8781,8 @@ If you want to test for collisions, here are some strings that collide using the
 
 </details>
 
+<a id="c-hash-tables-task-4-htbetty"></a>
+
 <details>
 <summary><strong>🧩 4. >>> ht['betty']</strong></summary>
 
@@ -8153,6 +8830,8 @@ char *hash_table_get(const hash_table_t *ht, const char *key)
 ```
 
 </details>
+
+<a id="c-hash-tables-task-5-printht"></a>
 
 <details>
 <summary><strong>🧩 5. >>> print(ht)</strong></summary>
@@ -8206,6 +8885,8 @@ void hash_table_print(const hash_table_t *ht)
 ```
 
 </details>
+
+<a id="c-hash-tables-task-6-del-ht"></a>
 
 <details>
 <summary><strong>🧩 6. >>> del ht</strong></summary>
@@ -8479,6 +9160,8 @@ void binary_tree_print(const binary_tree_t *);
 
 ### 🧩 Tâches
 
+<a id="c-binary-trees-georgia-task-0-new-node"></a>
+
 <details>
 <summary><strong>🧩 0. New node</strong></summary>
 
@@ -8519,6 +9202,8 @@ binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 }
 ```
 </details>
+
+<a id="c-binary-trees-georgia-task-1-insert-left"></a>
 
 <details>
 <summary><strong>🧩 1. Insert left</strong></summary>
@@ -8569,6 +9254,8 @@ binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
 ```
 </details>
 
+<a id="c-binary-trees-georgia-task-2-insert-right"></a>
+
 <details>
 <summary><strong>🧩 2. Insert right</strong></summary>
 
@@ -8618,6 +9305,8 @@ binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 ```
 </details>
 
+<a id="c-binary-trees-georgia-task-3-delete"></a>
+
 <details>
 <summary><strong>🧩 3. Delete</strong></summary>
 
@@ -8646,6 +9335,8 @@ void binary_tree_delete(binary_tree_t *tree)
 }
 ```
 </details>
+
+<a id="c-binary-trees-georgia-task-4-is-leaf"></a>
 
 <details>
 <summary><strong>🧩 4. Is leaf</strong></summary>
@@ -8676,6 +9367,8 @@ int binary_tree_is_leaf(const binary_tree_t *node)
 ```
 </details>
 
+<a id="c-binary-trees-georgia-task-5-is-root"></a>
+
 <details>
 <summary><strong>🧩 5. Is root</strong></summary>
 
@@ -8704,6 +9397,8 @@ int binary_tree_is_root(const binary_tree_t *node)
 }
 ```
 </details>
+
+<a id="c-binary-trees-georgia-task-6-pre-order-traversal"></a>
 
 <details>
 <summary><strong>🧩 6. Pre-order traversal</strong></summary>
@@ -8734,6 +9429,8 @@ void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
 ```
 </details>
 
+<a id="c-binary-trees-georgia-task-7-in-order-traversal"></a>
+
 <details>
 <summary><strong>🧩 7. In-order traversal</strong></summary>
 
@@ -8763,6 +9460,8 @@ void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int))
 ```
 </details>
 
+<a id="c-binary-trees-georgia-task-8-post-order-traversal"></a>
+
 <details>
 <summary><strong>🧩 8. Post-order traversal</strong></summary>
 
@@ -8791,6 +9490,8 @@ void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
 }
 ```
 </details>
+
+<a id="c-binary-trees-georgia-task-9-height"></a>
 
 <details>
 <summary><strong>🧩 9. Height</strong></summary>
@@ -8831,6 +9532,8 @@ size_t binary_tree_height(const binary_tree_t *tree)
 ```
 </details>
 
+<a id="c-binary-trees-georgia-task-10-depth"></a>
+
 <details>
 <summary><strong>🧩 10. Depth</strong></summary>
 
@@ -8867,6 +9570,8 @@ size_t binary_tree_depth(const binary_tree_t *tree)
 ```
 </details>
 
+<a id="c-binary-trees-georgia-task-11-size"></a>
+
 <details>
 <summary><strong>🧩 11. Size</strong></summary>
 
@@ -8899,6 +9604,8 @@ size_t binary_tree_size(const binary_tree_t *tree)
 }
 ```
 </details>
+
+<a id="c-binary-trees-georgia-task-12-leaves"></a>
 
 <details>
 <summary><strong>🧩 12. Leaves</strong></summary>
@@ -8937,6 +9644,8 @@ size_t binary_tree_leaves(const binary_tree_t *tree)
 ```
 </details>
 
+<a id="c-binary-trees-georgia-task-13-nodes"></a>
+
 <details>
 <summary><strong>🧩 13. Nodes</strong></summary>
 
@@ -8973,6 +9682,8 @@ size_t binary_tree_nodes(const binary_tree_t *tree)
 }
 ```
 </details>
+
+<a id="c-binary-trees-georgia-task-14-balance-factor"></a>
 
 <details>
 <summary><strong>🧩 14. Balance factor</strong></summary>
