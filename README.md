@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Antgst&label=Profile%20views&style=for-the-badge&color=161b22)
 
 ## 🏅 Certifications
-
+A growing set of verified certifications focused on practical, real-world software development skills.
 <p align="left">
   <a href="https://www.credly.com/badges/af58ae9a-0280-40a0-85d0-78e09c8b8aba/public_url" target="_blank" rel="noopener noreferrer">
     <img src="assets/badges/agile-explorer.png" alt="IBM SkillsBuild - Agile Explorer" width="90" />
