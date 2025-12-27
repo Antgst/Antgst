@@ -2,6 +2,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Antgst&label=Profile%20views&style=for-the-badge&color=161b22)
 
+I'm transitioning into fullstack web development.  
+I build projects focused on real-world needs, organization, and efficiency.
+
 ## 🏅 Certifications
 A growing set of verified certifications focused on practical, real-world software development skills.
 <p align="left">
@@ -13,9 +16,6 @@ A growing set of verified certifications focused on practical, real-world softwa
     <img src="assets/badges/open-source-foundations.png" alt="IBM Skills Network - Open Source Foundations" width="90" />
   </a>
 </p>
-
-I'm transitioning into fullstack web development.  
-I build projects focused on real-world needs, organization, and efficiency.
 
 ## 🎯 Goal
 Looking for an internship / apprenticeship in fullstack web development (Rennes or remote).
