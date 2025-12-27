@@ -2,6 +2,18 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Antgst&label=Profile%20views&style=for-the-badge&color=161b22)
 
+## 🏅 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/af58ae9a-0280-40a0-85d0-78e09c8b8aba/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="assets/badges/agile-explorer.png" alt="IBM SkillsBuild - Agile Explorer" width="90" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/75b2e0d4-6a2b-4f47-a5b0-edf2b346fd52/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="assets/badges/open-source-foundations.png" alt="IBM Skills Network - Open Source Foundations" width="90" />
+  </a>
+</p>
+
 I'm transitioning into fullstack web development.  
 I build projects focused on real-world needs, organization, and efficiency.
 
