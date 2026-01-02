@@ -41,13 +41,13 @@ Former retail manager focused on team efficiency and field operations.
 I aim to build tools that simplify scheduling, communication, and daily execution.
 
 ## 📌 Featured projects
-- [Holberton — Simple Shell](https://github.com/Antgst/holbertonschool-simple_shell) (Group project)
-- [Holberton — Sorting algorithms & Big O](https://github.com/Antgst/holbertonschool-sorting_algorithms) (Group project)
-- [Holberton — Binary trees](https://github.com/Antgst/holbertonschool-binary_trees) (Group project)
-- [Holberton — _printf](https://github.com/Antgst/holbertonschool-printf) (Group project)
-- [Holberton — Low level programming](https://github.com/Antgst/holbertonschool-low_level_programming)
-- [Holberton — Shell basics](https://github.com/Antgst/holbertonschool-shell)
-- [Holberton — Git intro](https://github.com/Antgst/git-intro)
+- [Holberton — C - Simple Shell](https://github.com/Antgst/holbertonschool-simple_shell) (Group project)
+- [Holberton — C - Sorting algorithms & Big O](https://github.com/Antgst/holbertonschool-sorting_algorithms) (Group project)
+- [Holberton — C - Binary trees](https://github.com/Antgst/holbertonschool-binary_trees) (Group project)
+- [Holberton — C - _printf](https://github.com/Antgst/holbertonschool-printf) (Group project)
+- [Holberton — C - Low level programming](https://github.com/Antgst/holbertonschool-low_level_programming)
+- [Holberton — BASH - Shell basics](https://github.com/Antgst/holbertonschool-shell)
+- [Holberton — BASH - Git intro](https://github.com/Antgst/git-intro)
 
 ## 🔗 Links
 [![Gmail](https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:ant.gousset@gmail.com)
