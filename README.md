@@ -41,6 +41,8 @@ Former retail manager focused on team efficiency and field operations.
 I aim to build tools that simplify scheduling, communication, and daily execution.
 
 ## 📌 Featured projects
+- [Holberton — Python - Higher level programming](https://github.com/Antgst/holbertonschool-higher_level_programming)
+- [Holberton — Python - Chat GPT Introduction](https://github.com/Antgst/holbertonschool-chatgpt-introduction)
 - [Holberton — C - Simple Shell](https://github.com/Antgst/holbertonschool-simple_shell) (Group project)
 - [Holberton — C - Sorting algorithms & Big O](https://github.com/Antgst/holbertonschool-sorting_algorithms) (Group project)
 - [Holberton — C - Binary trees](https://github.com/Antgst/holbertonschool-binary_trees) (Group project)
