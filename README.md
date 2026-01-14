@@ -21,7 +21,8 @@ A growing set of verified certifications focused on practical, real-world softwa
 Looking for an internship / apprenticeship in fullstack web development (Rennes or remote).
 
 ## 🧩 Skills
-[![My Skills](https://skillicons.dev/icons?i=git,linux,vscode,c,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,vscode,c,python,bash&theme=dark)](https://skillicons.dev)
+
 
 <details>
   <summary><b>Next up (learning soon)</b></summary>
