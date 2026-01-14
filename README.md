@@ -40,17 +40,34 @@ I aim to build simple, reliable tools with real impact on daily work.
 ## 📌 Featured projects
 
 ### Systems in C
-- [Simple Shell](https://github.com/Antgst/holbertonschool-simple_shell) *(group project)* — processes, parsing, exec
-- [_printf](https://github.com/Antgst/holbertonschool-printf) *(group project)* — formatting, variadic functions
-- [Sorting algorithms & Big O](https://github.com/Antgst/holbertonschool-sorting_algorithms) *(group project)*
+Low-level projects focused on memory management, processes, and core Unix concepts.
+
+- [Simple Shell](https://github.com/Antgst/holbertonschool-simple_shell) *(group project)*  
+  A Unix shell clone handling command parsing, process creation, environment variables, and built-ins using `fork`, `execve`, and `wait`.
+
+- [_printf](https://github.com/Antgst/holbertonschool-printf) *(group project)*  
+  Custom implementation of `printf`, focusing on variadic functions, format parsing, and low-level output handling.
+
+- [Sorting algorithms & Big O](https://github.com/Antgst/holbertonschool-sorting_algorithms) *(group project)*  
+  Implementation and analysis of classic sorting algorithms with time complexity evaluation (Big O).
 
 ### Python
-- [Higher level programming](https://github.com/Antgst/holbertonschool-higher_level_programming)
-- [ChatGPT Introduction](https://github.com/Antgst/holbertonschool-chatgpt-introduction)
+Projects focused on higher-level logic, clean code, debugging, and documentation.
+
+- [Higher level programming](https://github.com/Antgst/holbertonschool-higher_level_programming)  
+  Progressive Python exercises covering data structures, control flow, functions, and object-oriented concepts.
+
+- [ChatGPT Introduction](https://github.com/Antgst/holbertonschool-chatgpt-introduction)  
+  Exercises combining Python, debugging, and documentation, with an emphasis on explaining and correcting code.
 
 ### Shell & tooling
-- [Shell basics](https://github.com/Antgst/holbertonschool-shell)
-- [Git intro](https://github.com/Antgst/git-intro)
+Foundations for working efficiently in a Unix-based development environment.
+
+- [Shell basics](https://github.com/Antgst/holbertonschool-shell)  
+  Introduction to Bash scripting, file permissions, redirections, and basic shell commands.
+
+- [Git intro](https://github.com/Antgst/git-intro)  
+  Fundamentals of Git: version control, branching, commits, and collaboration workflows.
 
 ## 🔗 Links
 [![Gmail](https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:ant.gousset@gmail.com)
