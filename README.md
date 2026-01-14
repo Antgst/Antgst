@@ -57,6 +57,12 @@ I aim to build simple, reliable tools with real impact on daily work.
 [![CV](https://img.shields.io/badge/CV-161b22?style=for-the-badge&logo=googledocs&logoColor=58a6ff)](https://github.com/Antgst/cv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/antoinegousset352)
 
+## 📈 Metrics
+![Metrics](./github-metrics.svg)
+
+## 🏃‍♂️ Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Antgst&bg_color=161b22&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true)
+
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antgst&show_icons=true&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antgst&layout=compact&cache_seconds=1800)
