@@ -73,6 +73,7 @@ Foundations for working efficiently in a Unix-based development environment.
 [![Gmail](https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:ant.gousset@gmail.com)
 [![CV](https://img.shields.io/badge/CV-161b22?style=for-the-badge&logo=googledocs&logoColor=58a6ff)](https://github.com/Antgst/cv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/antoinegousset352)
+[![Discord](https://img.shields.io/badge/Discord-161b22?style=for-the-badge&logo=discord&logoColor=58a6ff)](https://discord.com/users/158600817031643136)
 
 ## 📈 Metrics
 ![Metrics](./github-metrics.svg)
