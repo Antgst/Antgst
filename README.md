@@ -1,6 +1,6 @@
 # 👋 Hi!
 
-![Profile views](https://komarev.com/ghpvc/?username=Antgst&label=Profile%20views&style=for-the-badge&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Antgst&label=Profile%20views&style=for-the-badge&color=red)
 
 **Fullstack developer in training (Holberton School)**  
 I build practical tools for real-world operations: scheduling, communication, and daily execution.
