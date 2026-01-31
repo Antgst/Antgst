@@ -23,13 +23,6 @@ Looking for an **internship / apprenticeship** in **fullstack web development** 
 
 ---
 
-## 📈 Language distribution
-<p align="center">
-  <img src="./github-metrics.svg#gh-dark-mode-only" />
-</p>
-
----
-
 ## 🚀 Currently
 - Building: **C / Python projects** (CLI tools, algorithms, fundamentals)
 - Learning: **Web stack** (HTML / CSS / JS → React / Node)
