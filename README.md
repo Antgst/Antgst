@@ -47,8 +47,9 @@ I approach development with a **pragmatic, structured, and result-oriented minds
   </a>
   &nbsp;&nbsp;
   <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/d963726866c84123b554ec64ce725b86">
-    <img src="https://raw.githubusercontent.com/Antgst/Antgst/main/assets/badges/ibm-sql-relational-101.png" width="90" />
-  </a>
+  <img src="./assets/badges/ibm-sql-relational-101.png" width="90" />
+</a>
+
 </p>
 
 ---
