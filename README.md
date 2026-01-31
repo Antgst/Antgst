@@ -21,6 +21,14 @@ Looking for an **internship / apprenticeship** in **fullstack web development** 
   [![Next](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react&theme=dark)](https://skillicons.dev)
 </details>
 
+## 📊 Languages usage (based on my repositories)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antgst&layout=compact&langs_count=8&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&border_color=161b22" />
+</p>
+
 ---
 
 ## 🚀 Currently
