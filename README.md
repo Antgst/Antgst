@@ -74,6 +74,17 @@ https://github.com/Antgst/holbertonschool-chatgpt-introduction
 
 </details>
 
+<details>
+  <summary><b>🛠 Shell & Tooling</b></summary>
+
+  **Shell Basics**  
+  https://github.com/Antgst/holbertonschool-shell
+
+  **Git Intro**  
+  https://github.com/Antgst/git-intro
+
+</details>
+
 ---
 
 # 🏅 Certifications
