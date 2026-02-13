@@ -3,63 +3,62 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Antgst&label=Profile%20views&style=for-the-badge&color=red)
 
 **Fullstack developer in training — Holberton School (Rennes)**  
-Former retail operations manager → building structured, scalable software.
-
----
-
-## 🎯 Looking for
-**Internship / Apprenticeship – Fullstack Web Development**  
-Rennes or remote.
+Former retail manager (50+ team members) now building structured, scalable software with a systems mindset.
 
 ---
 
 # 🚀 Highlight Project
 
-## 🏡 HBnB Evolution *(group project)*
+## 🏗 HBnB Evolution *(group project)*
 Python • OOP • Layered Architecture • UML  
 
 - Entity modeling (User / Place / Review / Amenity)  
-- Clean separation of concerns  
-- API interaction flows  
-- Technical documentation  
+- Clear separation of concerns  
+- Facade pattern implementation  
+- API interaction flows & technical documentation  
 
 👉 https://github.com/Antgst/holbertonschool-hbnb
 
 ---
 
-# 💫 About Me
+# 🧠 Core Focus
 
-🔭 **I’m currently working on**  
-Low-level systems projects in C and building HBnB Evolution (Python, OOP, layered architecture).
+🔭 **Currently working on**  
+Low-level systems programming in C and backend architecture foundations in Python.
 
-👯 **I’m looking to collaborate on**  
-Open-source tools, backend architecture projects, or practical SaaS ideas solving real operational problems.
+🌱 **Currently learning**  
+Advanced OOP, clean architecture principles, and progressing toward full web stack (HTML / CSS / JavaScript → React / Node).
 
-🤝 **I’m looking for help with**  
-Deepening my understanding of system design, scalable backend architecture, and production-ready web stacks.
-
-🌱 **I’m currently learning**  
-Advanced Python (OOP, clean architecture) and preparing for full web stack (HTML, CSS, JavaScript → React / Node).
-
-💬 **Ask me about**  
-Systems programming, transitioning from operations management to tech, or building structured learning workflows.
-
-⚡ **Fun fact**  
-I managed retail teams for 17+ years before switching to software development.
+🎯 **Looking for**  
+Internship / apprenticeship in fullstack web development (Rennes or remote).
 
 ---
 
-# 🧠 Core Foundations
+# 💻 Technical Foundations
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,c,python,vscode,markdown&theme=dark)](https://skillicons.dev)
+
+<details>
+<summary><b>Next (in progress)</b></summary>
+
+[![Next](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react&theme=dark)](https://skillicons.dev)
+
+</details>
+
+---
+
+# 📂 Systems & Programming Projects
 
 <details>
 <summary><b>🖥 Systems Programming (C)</b></summary>
 
-- Simple Shell → parsing, processes, memory discipline  
-- _printf → variadic functions & format parsing  
-- Sorting Algorithms & Big O → complexity analysis  
-
+**Simple Shell** – process handling, parsing, memory discipline  
 https://github.com/Antgst/holbertonschool-simple_shell  
+
+**_printf** – variadic functions & format parsing  
 https://github.com/Antgst/holbertonschool-printf  
+
+**Sorting Algorithms & Big O** – complexity analysis  
 https://github.com/Antgst/holbertonschool-sorting_algorithms  
 
 </details>
@@ -67,70 +66,67 @@ https://github.com/Antgst/holbertonschool-sorting_algorithms
 <details>
 <summary><b>🐍 Python</b></summary>
 
-- Data structures  
-- OOP  
-- Clean architecture fundamentals  
-
+**Higher Level Programming** – data structures, OOP, abstraction  
 https://github.com/Antgst/holbertonschool-higher_level_programming  
+
+**ChatGPT Introduction** – debugging & structured documentation  
 https://github.com/Antgst/holbertonschool-chatgpt-introduction  
 
 </details>
 
-<details>
-<summary><b>🛠 Shell & Tooling</b></summary>
+---
 
-https://github.com/Antgst/holbertonschool-shell  
-https://github.com/Antgst/git-intro  
+# 🏅 Certifications
+<details>
+<summary><b>View certifications</b></summary>
+
+<p align="left">
+  <a href="https://www.credly.com/badges/af58ae9a-0280-40a0-85d0-78e09c8b8aba/public_url">
+    <img src="./assets/badges/agile-explorer.png" width="90" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/75b2e0d4-6a2b-4f47-a5b0-edf2b346fd52/public_url">
+    <img src="./assets/badges/open-source-foundations.png" width="90" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/d963726866c84123b554ec64ce725b86">
+    <img src="./assets/badges/ibm-sql-relational-101.png" width="90" />
+  </a>
+</p>
 
 </details>
 
 ---
 
-# 💻 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+# 📈 GitHub
 
 <details>
-<summary><b>Next (learning)</b></summary>
+<summary><b>Stats & Activity</b></summary>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Antgst&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=161b22" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antgst&layout=compact&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&border_color=161b22" />
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Antgst&bg_color=161b22&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true)
 
 </details>
 
 ---
 
-# 📊 GitHub Stats
+# 🌐 Contact
 
-![](https://github-readme-stats.vercel.app/api?username=Antgst&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Antgst&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antgst&theme=dark&hide_border=false&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Antgst&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-# 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoinegousset352/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ant.gousset@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/158600817031643136)
-
----
-
-<!-- Minimal. Structured. Honest. -->
+<p align="left">
+  <a href="mailto:ant.gousset@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+  <a href="https://www.linkedin.com/in/antoinegousset352">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="https://discord.com/users/158600817031643136">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
+  </a>
+  <a href="https://github.com/Antgst/CV">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
+</p>
