@@ -17,7 +17,7 @@ Python • OOP • Layered Architecture • UML
 - Facade pattern implementation  
 - API interaction flows & technical documentation  
 
-👉 https://github.com/Antgst/holbertonschool-hbnb
+👉 [Hbnb project](https://github.com/Antgst/holbertonschool-hbnb)
 
 ---
 
@@ -53,13 +53,13 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
 <summary><b>🖥 Systems Programming (C)</b></summary>
 
 **Simple Shell** – process handling, parsing, memory discipline  
-https://github.com/Antgst/holbertonschool-simple_shell  
+👉 [Simple shell project](https://github.com/Antgst/holbertonschool-simple_shell)
 
 **_printf** – variadic functions & format parsing  
-https://github.com/Antgst/holbertonschool-printf  
+👉 [Printf project](https://github.com/Antgst/holbertonschool-printf)
 
 **Sorting Algorithms & Big O** – complexity analysis  
-https://github.com/Antgst/holbertonschool-sorting_algorithms  
+👉 [Sorting algorithms Project](https://github.com/Antgst/holbertonschool-sorting_algorithms)
 
 </details>
 
@@ -67,21 +67,21 @@ https://github.com/Antgst/holbertonschool-sorting_algorithms
 <summary><b>🐍 Python</b></summary>
 
 **Higher Level Programming** – data structures, OOP, abstraction  
-https://github.com/Antgst/holbertonschool-higher_level_programming  
+👉 [Higher level programming](https://github.com/Antgst/holbertonschool-higher_level_programming)
 
 **ChatGPT Introduction** – debugging & structured documentation  
-https://github.com/Antgst/holbertonschool-chatgpt-introduction  
+👉 [ChatGPT introduction](https://github.com/Antgst/holbertonschool-chatgpt-introduction)
 
 </details>
 
 <details>
-  <summary><b>🛠 Shell & Tooling</b></summary>
+<summary><b>🛠 Shell & Tooling</b></summary>
 
-  **Shell Basics**  
-  https://github.com/Antgst/holbertonschool-shell
+**Shell Basics**  
+👉 [Shell](https://github.com/Antgst/holbertonschool-shell)
 
-  **Git Intro**  
-  https://github.com/Antgst/git-intro
+**Git Intro**  
+👉 [Git intro](https://github.com/Antgst/git-intro)
 
 </details>
 
