@@ -2,15 +2,27 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Antgst&label=Profile%20views&style=for-the-badge&color=red)
 
-**Fullstack developer in training — Holberton School (Rennes)**  
+**Full-Stack developer in training — Holberton School (Rennes)**  
 Former retail manager (50+ team members) now building structured, scalable software with a systems mindset.
+
+---
+
+# 📅 Technical Exchange
+
+Open to discussing:
+- Full-Stack development
+- Backend architecture
+- Internship opportunities (July 2026)
+
+👉 **Schedule a 20-minute meeting:**  
+https://calendar.app.google/U6Q94Svp3Wt1fEj26
 
 ---
 
 # 🚀 Highlight Project
 
 ## 🏗 HBnB Evolution *(group project)*
-Python • OOP • Layered Architecture • UML  
+Python • OOP • Layered Architecture • UML
 
 - Entity modeling (User / Place / Review / Amenity)  
 - Clear separation of concerns  
@@ -59,7 +71,7 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
 👉 [Printf project](https://github.com/Antgst/holbertonschool-printf)
 
 **Sorting Algorithms & Big O** – complexity analysis  
-👉 [Sorting algorithms Project](https://github.com/Antgst/holbertonschool-sorting_algorithms)
+👉 [Sorting algorithms project](https://github.com/Antgst/holbertonschool-sorting_algorithms)
 
 </details>
 
@@ -88,6 +100,7 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
 ---
 
 # 🏅 Certifications
+
 <details>
 <summary><b>View certifications</b></summary>
 
