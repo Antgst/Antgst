@@ -7,15 +7,12 @@ Former retail manager (50+ team members) now building structured, scalable softw
 
 ---
 
-# 📅 Technical Exchange
+# 📅 Let’s Connect
 
-Open to discussing:
-- Full-Stack development
-- Backend architecture
-- Internship opportunities (July 2026)
+Interested in discussing full-stack engineering, architecture, or internship opportunities?
 
-👉 **Schedule a 20-minute meeting:**  
-https://calendar.app.google/U6Q94Svp3Wt1fEj26
+👉 Book a 20-minute technical call:  
+[Book me!](https://calendar.app.google/U6Q94Svp3Wt1fEj26)
 
 ---
 
