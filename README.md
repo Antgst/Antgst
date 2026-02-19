@@ -131,7 +131,7 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
   <a href="mailto:ant.gousset@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
-  <a href="https://www.linkedin.com/in/antoinegousset352">
+  <a href="https://www.linkedin.com/in/antoinegousset">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
   <a href="https://discord.com/users/158600817031643136">
