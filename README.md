@@ -11,7 +11,7 @@ Former retail manager (50+ team members) now building structured, scalable softw
 
 Interested in discussing full-stack engineering, architecture, or internship opportunities?
 
-👉 Book a 20-minute technical call:  
+👉 Book a 20-minute technical or informative call:  
 [Book me!](https://calendar.app.google/U6Q94Svp3Wt1fEj26)
 
 ---
