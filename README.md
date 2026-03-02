@@ -1,4 +1,8 @@
-# 👋 Antoine Gousset
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=230&section=header&text=Antoine%20Gousset&fontSize=55&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%20&descAlignY=58&descSize=18" />
+</p>
+
+# 👋 Hello, world!
 
 ![Profile views](https://komarev.com/ghpvc/?username=Antgst&label=Profile%20views&style=for-the-badge&color=red)
 
@@ -151,3 +155,5 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
     <img src="https://skillicons.dev/icons?i=github&theme=dark" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=140&section=footer" />
