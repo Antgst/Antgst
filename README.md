@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=230&section=header&text=Antoine%20Gousset&fontSize=55&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%20&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=230&section=header&text=Antoine%20Gousset&fontSize=55&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" />
 </p>
 
 # 👋 Hello, world!
 
-![Profile views](https://komarev.com/ghpvc/?username=Antgst&label=Profile%20views&style=for-the-badge&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=Antgst&label=Profile%20views&style=for-the-badge&color=1f6feb)
 
-**Full-Stack developer in training — Holberton School (Rennes)**  
+**Full-Stack developer — Holberton School (Rennes)**  
 Former retail manager (50+ team members) now building structured, scalable software with a systems mindset.
 
 ---
@@ -23,11 +23,13 @@ Interested in discussing full-stack engineering, architecture, or internship opp
 # 🚀 Highlight Project
 
 ## 🏗 HBnB Evolution *(group project)*
-Python • OOP • Layered Architecture • UML
+Python • OOP • Layered Architecture • UML • RESTful API • MySQL
 
 - Entity modeling (User / Place / Review / Amenity)  
 - Clear separation of concerns  
 - Facade pattern implementation  
+- RESTful API design (Flask / Flask-RESTX)  
+- MySQL integration & query structuring  
 - API interaction flows & technical documentation  
 
 👉 [Hbnb project](https://github.com/Antgst/holbertonschool-hbnb)
@@ -40,7 +42,7 @@ Python • OOP • Layered Architecture • UML
 Low-level systems programming in C and backend architecture foundations in Python.
 
 🌱 **Currently learning**  
-Advanced OOP, clean architecture principles, and progressing toward full web stack (HTML / CSS / JavaScript → React / Node).
+Advanced OOP, clean architecture principles, RESTful services, database modeling, and progressing toward full web stack (HTML / CSS / JavaScript → React / Node).
 
 🎯 **Looking for**  
 Internship / apprenticeship in fullstack web development (Rennes or remote).
@@ -49,7 +51,11 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
 
 # 💻 Technical Foundations
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,c,python,vscode,markdown&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,c,python,mysql,vscode,markdown&theme=dark)](https://skillicons.dev)
+
+**Also practiced:**  
+- RESTful API design (Flask / Flask-RESTX)  
+- MySQL (schema basics, relational logic, queries)  
 
 <details>
 <summary><b>Next (in progress)</b></summary>
@@ -129,11 +135,11 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
 <summary><b>Stats & Activity</b></summary>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Antgst&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=161b22" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antgst&layout=compact&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&border_color=161b22" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Antgst&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antgst&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=0d1117" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Antgst&bg_color=161b22&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Antgst&bg_color=0d1117&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true)
 
 </details>
 
