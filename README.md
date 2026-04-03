@@ -52,7 +52,7 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
 
 # 💻 Technical Foundations
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,c,python,html,css,js,mysql,sqlite,vscode,markdown&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,c,python,html,css,js,mysql,sqlite,postman,vscode,markdown&theme=dark)](https://skillicons.dev)
 
 **Also practiced:**  
 - RESTful API design (Flask / Flask-RESTX)  
@@ -75,24 +75,33 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
 <details>
 <summary><b>🖥 Systems Programming (C)</b></summary>
 
-**Simple Shell** – process handling, parsing, memory discipline  
+**Low Level Programming** – foundational C concepts, memory management, pointers, functions, and file handling  
+👉 [Low level programming](https://github.com/Antgst/holbertonschool-low_level_programming)
+
+**Simple Shell** – process handling, parsing, and memory discipline  
 👉 [Simple shell project](https://github.com/Antgst/holbertonschool-simple_shell)
 
-**_printf** – variadic functions & format parsing  
+**_printf** – variadic functions and format parsing  
 👉 [Printf project](https://github.com/Antgst/holbertonschool-printf)
 
-**Sorting Algorithms & Big O** – complexity analysis  
+**Sorting Algorithms & Big O** – algorithmic complexity and sorting strategies  
 👉 [Sorting algorithms project](https://github.com/Antgst/holbertonschool-sorting_algorithms)
+
+**Binary Trees** – tree structures, traversals, and recursive logic  
+👉 [Binary trees project](https://github.com/Antgst/holbertonschool-binary_trees)
 
 </details>
 
 <details>
-<summary><b>🐍 Python</b></summary>
+<summary><b>🐍 Python & Web</b></summary>
 
-**Higher Level Programming** – data structures, OOP, abstraction  
+**HBnB Evolution** – layered API architecture, JWT auth, persistence, front-end integration, and testing  
+👉 [HBnB project](https://github.com/Antgst/holbertonschool-hbnb)
+
+**Higher Level Programming** – Python data structures, OOP, abstraction, and problem solving  
 👉 [Higher level programming](https://github.com/Antgst/holbertonschool-higher_level_programming)
 
-**ChatGPT Introduction** – debugging & structured documentation  
+**ChatGPT Introduction** – debugging, prompting, and structured technical documentation  
 👉 [ChatGPT introduction](https://github.com/Antgst/holbertonschool-chatgpt-introduction)
 
 </details>
@@ -100,10 +109,10 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
 <details>
 <summary><b>🛠 Shell & Tooling</b></summary>
 
-**Shell Basics**  
+**Shell Basics** – command line fundamentals, navigation, permissions, and scripting basics  
 👉 [Shell](https://github.com/Antgst/holbertonschool-shell)
 
-**Git Intro**  
+**Git Intro** – version control fundamentals and collaborative workflow basics  
 👉 [Git intro](https://github.com/Antgst/git-intro)
 
 </details>
