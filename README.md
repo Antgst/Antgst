@@ -23,14 +23,15 @@ Interested in discussing full-stack engineering, architecture, or internship opp
 # 🚀 Highlight Project
 
 ## 🏗 HBnB Evolution *(group project)*
-Python • OOP • Layered Architecture • UML • RESTful API • MySQL
+Python • Flask • REST API • JWT • SQLAlchemy • HTML • CSS • JavaScript • SQLite
 
-- Entity modeling (User / Place / Review / Amenity)  
-- Clear separation of concerns  
-- Facade pattern implementation  
-- RESTful API design (Flask / Flask-RESTX)  
-- MySQL integration & query structuring  
-- API interaction flows & technical documentation  
+- Layered architecture with clear separation of concerns  
+- JWT authentication and role-based access control  
+- RESTful API design with Flask / Flask-RESTX  
+- Premium multi-page front-end connected to the API  
+- Dynamic place pages, host cards, amenities, galleries, and reviews  
+- Seeded demo data with realistic hosts, places, images, and amenities  
+- Exhaustive Postman validation suite (**142 tests passing**)  
 
 👉 [Hbnb project](https://github.com/Antgst/holbertonschool-hbnb)
 
@@ -39,7 +40,7 @@ Python • OOP • Layered Architecture • UML • RESTful API • MySQL
 # 🧠 Core Focus
 
 🔭 **Currently working on**  
-Low-level systems programming in C and backend architecture foundations in Python.
+Low-level systems programming in C, backend architecture foundations in Python, and full-stack web integration through the HBnB project.
 
 🌱 **Currently learning**  
 Advanced OOP, clean architecture principles, RESTful services, database modeling, and progressing toward full web stack (HTML / CSS / JavaScript → React / Node).
@@ -51,16 +52,19 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
 
 # 💻 Technical Foundations
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,c,python,mysql,vscode,markdown&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,c,python,html,css,js,mysql,sqlite,vscode,markdown&theme=dark)](https://skillicons.dev)
 
 **Also practiced:**  
 - RESTful API design (Flask / Flask-RESTX)  
-- MySQL (schema basics, relational logic, queries)  
+- JWT authentication and access control  
+- SQLAlchemy / SQLite persistence  
+- Front-end integration with vanilla JavaScript  
+- API validation with Postman  
 
 <details>
 <summary><b>Next (in progress)</b></summary>
 
-[![Next](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react&theme=dark)](https://skillicons.dev)
+[![Next](https://skillicons.dev/icons?i=ts,nodejs,react&theme=dark)](https://skillicons.dev)
 
 </details>
 
