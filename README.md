@@ -64,7 +64,7 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
 <details>
 <summary><b>Next (in progress)</b></summary>
 
-[![Next](https://skillicons.dev/icons?i=ts,nodejs,react&theme=dark)](https://skillicons.dev)
+[![Next](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,angular,vue,postgres,docker&theme=dark)](https://skillicons.dev)
 
 </details>
 
