@@ -138,6 +138,10 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
   <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/d963726866c84123b554ec64ce725b86" title="IBM SQL and Relational Databases 101">
     <img src="./assets/badges/ibm-sql-relational-101-badge.png" alt="IBM SQL and Relational Databases 101 badge" width="90" />
   </a>
+  &nbsp;&nbsp;
+  <a href="LIEN_DE_TA_CERTIFICATION_PROJECT_MANAGEMENT" title="Project Management Fundamentals">
+    <img src="./assets/badges/project-management-fundamentals.png" alt="Project Management Fundamentals badge" width="90" />
+  </a>
 </p>
 
 </details>
