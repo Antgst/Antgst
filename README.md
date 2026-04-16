@@ -124,17 +124,19 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
 <details>
 <summary><b>View certifications</b></summary>
 
+<br>
+
 <p align="left">
-  <a href="https://www.credly.com/badges/af58ae9a-0280-40a0-85d0-78e09c8b8aba/public_url">
-    <img src="./assets/badges/agile-explorer.png" width="90" />
+  <a href="https://www.credly.com/badges/af58ae9a-0280-40a0-85d0-78e09c8b8aba/public_url" title="Agile Explorer">
+    <img src="./assets/badges/agile-explorer.png" alt="Agile Explorer badge" width="90" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/75b2e0d4-6a2b-4f47-a5b0-edf2b346fd52/public_url">
-    <img src="./assets/badges/open-source-foundations.png" width="90" />
+  <a href="https://www.credly.com/badges/75b2e0d4-6a2b-4f47-a5b0-edf2b346fd52/public_url" title="Open Source Foundations">
+    <img src="./assets/badges/open-source-foundations.png" alt="Open Source Foundations badge" width="90" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/d963726866c84123b554ec64ce725b86">
-    <img src="./assets/badges/ibm-sql-relational-101.png" width="90" />
+  <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/d963726866c84123b554ec64ce725b86" title="IBM SQL and Relational Databases 101">
+    <img src="./assets/badges/ibm-sql-relational-101-badge.png" alt="IBM SQL and Relational Databases 101 badge" width="90" />
   </a>
 </p>
 
