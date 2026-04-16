@@ -140,7 +140,7 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
   </a>
   &nbsp;&nbsp;
   <a href="LIEN_DE_TA_CERTIFICATION_PROJECT_MANAGEMENT" title="Project Management Fundamentals">
-    <img src="./assets/badges/project-management-fundamentals.png" alt="Project Management Fundamentals badge" width="90" />
+    <img src="./assets/badges/Project_Management_Fundamentals.png" alt="Project Management Fundamentals badge" width="90" />
   </a>
 </p>
 
