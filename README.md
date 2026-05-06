@@ -151,7 +151,7 @@ This background helps me bring structure, ownership, communication and reliabili
 
 - [Open Source Foundations](https://www.credly.com/badges/75b2e0d4-6a2b-4f47-a5b0-edf2b346fd52/public_url)
 - [Agile Explorer](https://www.credly.com/badges/af58ae9a-0280-40a0-85d0-78e09c8b8aba/public_url)
-- [Project Management Fundamentals](https://github.com/Antgst/CV)
+- [Project Management Fundamentals]([https://github.com/Antgst/CV](https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/Project_Management_Fundamentals.png))
 - [IBM SQL and Relational Databases](https://courses.skillsbuild.skillsnetwork.site/certificates/d963726866c84123b554ec64ce725b86)
 
 </details>
@@ -257,7 +257,7 @@ Cette expérience m’aide à apporter de la structure, de la rigueur, de la com
 
 - [Open Source Foundations](https://www.credly.com/badges/75b2e0d4-6a2b-4f47-a5b0-edf2b346fd52/public_url)
 - [Agile Explorer](https://www.credly.com/badges/af58ae9a-0280-40a0-85d0-78e09c8b8aba/public_url)
-- [Project Management Fundamentals](https://github.com/Antgst/CV)
+- [Project Management Fundamentals]([https://github.com/Antgst/CV](https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/Project_Management_Fundamentals.png))
 - [IBM SQL and Relational Databases](https://courses.skillsbuild.skillsnetwork.site/certificates/d963726866c84123b554ec64ce725b86)
 
 ---
