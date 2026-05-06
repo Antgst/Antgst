@@ -41,6 +41,8 @@ I am especially interested in turning real operational problems into practical w
 
 🎯 **Seeking an internship or apprenticeship in full-stack web development — Rennes or remote.**
 
+🇫🇷 **French version available below:** [jump to French version](#version-francaise)
+
 ---
 
 ## Selected Projects
@@ -267,6 +269,7 @@ Cette expérience m’aide à apporter de la structure, de la rigueur, de la com
 - Email : [ant.gousset@gmail.com](mailto:ant.gousset@gmail.com)
 - LinkedIn : [linkedin.com/in/antoinegousset](https://www.linkedin.com/in/antoinegousset)
 - CV : [Voir mon CV](https://github.com/Antgst/CV)
+- Appel optionnel de 20 minutes : [Réserver un créneau](https://calendar.app.google/U6Q94Svp3Wt1fEj26)
 
 <p align="right">
   <a href="#english-version">⬆️ Back to English version</a>
