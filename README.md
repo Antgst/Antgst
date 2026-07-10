@@ -187,6 +187,20 @@ This experience brings structure, ownership, communication, business awareness a
 
 <br>
 
+<p align="center">
+  <a href="https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cloud.pdf">
+    <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-3/certificate-cloud.png" width="180" alt="IBM Cloud Computing Fundamentals badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cyber-1.pdf">
+    <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-3/certificate-cyber-1.png" width="180" alt="IBM Cybersecurity Fundamentals badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/Project_Management_Fundamentals.png">
+    <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-2/Project_Management_Fundamentals.png" width="180" alt="IBM Project Management Fundamentals badge" />
+  </a>
+</p>
+
 - [IBM Cloud Computing Fundamentals](https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cloud.pdf)
 - [IBM Cybersecurity Fundamentals](https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cyber-1.pdf)
 - [IBM SQL and Relational Databases](https://courses.skillsbuild.skillsnetwork.site/certificates/d963726866c84123b554ec64ce725b86)
@@ -321,6 +335,20 @@ Cette expérience m’apporte de la structure, de l’autonomie, de la communica
 ---
 
 ## Certifications
+
+<p align="center">
+  <a href="https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cloud.pdf">
+    <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-3/certificate-cloud.png" width="180" alt="Badge IBM Cloud Computing Fundamentals" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cyber-1.pdf">
+    <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-3/certificate-cyber-1.png" width="180" alt="Badge IBM Cybersecurity Fundamentals" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/Project_Management_Fundamentals.png">
+    <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-2/Project_Management_Fundamentals.png" width="180" alt="Badge IBM Project Management Fundamentals" />
+  </a>
+</p>
 
 - [IBM Cloud Computing Fundamentals](https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cloud.pdf)
 - [IBM Cybersecurity Fundamentals](https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cyber-1.pdf)
