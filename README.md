@@ -189,15 +189,24 @@ This experience brings structure, ownership, communication, business awareness a
 
 <p align="center">
   <a href="https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cloud.pdf">
-    <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-3/certificate-cloud.png" width="180" alt="IBM Cloud Computing Fundamentals badge" />
+    <img src="https://img.shields.io/badge/IBM-Cloud%20Computing%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud Computing Fundamentals" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cyber-1.pdf">
-    <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-3/certificate-cyber-1.png" width="180" alt="IBM Cybersecurity Fundamentals badge" />
+    <img src="https://img.shields.io/badge/IBM-Cybersecurity%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cybersecurity Fundamentals" />
   </a>
-  &nbsp;&nbsp;
+  <br>
+  <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/d963726866c84123b554ec64ce725b86">
+    <img src="https://img.shields.io/badge/IBM-SQL%20%26%20Relational%20Databases-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SQL and Relational Databases" />
+  </a>
   <a href="https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/Project_Management_Fundamentals.png">
-    <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-2/Project_Management_Fundamentals.png" width="180" alt="IBM Project Management Fundamentals badge" />
+    <img src="https://img.shields.io/badge/IBM-Project%20Management%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Project Management Fundamentals" />
+  </a>
+  <br>
+  <a href="https://www.credly.com/badges/af58ae9a-0280-40a0-85d0-78e09c8b8aba/public_url">
+    <img src="https://img.shields.io/badge/IBM-Agile%20Explorer-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Agile Explorer" />
+  </a>
+  <a href="https://www.credly.com/badges/75b2e0d4-6a2b-4f47-a5b0-edf2b346fd52/public_url">
+    <img src="https://img.shields.io/badge/IBM-Open%20Source%20Foundations-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Open Source Foundations" />
   </a>
 </p>
 
@@ -338,15 +347,24 @@ Cette expérience m’apporte de la structure, de l’autonomie, de la communica
 
 <p align="center">
   <a href="https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cloud.pdf">
-    <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-3/certificate-cloud.png" width="180" alt="Badge IBM Cloud Computing Fundamentals" />
+    <img src="https://img.shields.io/badge/IBM-Cloud%20Computing%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Certification IBM Cloud Computing Fundamentals" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cyber-1.pdf">
-    <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-3/certificate-cyber-1.png" width="180" alt="Badge IBM Cybersecurity Fundamentals" />
+    <img src="https://img.shields.io/badge/IBM-Cybersecurity%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Certification IBM Cybersecurity Fundamentals" />
   </a>
-  &nbsp;&nbsp;
+  <br>
+  <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/d963726866c84123b554ec64ce725b86">
+    <img src="https://img.shields.io/badge/IBM-SQL%20%26%20Relational%20Databases-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Certification IBM SQL and Relational Databases" />
+  </a>
   <a href="https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/Project_Management_Fundamentals.png">
-    <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-2/Project_Management_Fundamentals.png" width="180" alt="Badge IBM Project Management Fundamentals" />
+    <img src="https://img.shields.io/badge/IBM-Project%20Management%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Certification IBM Project Management Fundamentals" />
+  </a>
+  <br>
+  <a href="https://www.credly.com/badges/af58ae9a-0280-40a0-85d0-78e09c8b8aba/public_url">
+    <img src="https://img.shields.io/badge/IBM-Agile%20Explorer-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Certification IBM Agile Explorer" />
+  </a>
+  <a href="https://www.credly.com/badges/75b2e0d4-6a2b-4f47-a5b0-edf2b346fd52/public_url">
+    <img src="https://img.shields.io/badge/IBM-Open%20Source%20Foundations-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Certification IBM Open Source Foundations" />
   </a>
 </p>
 
