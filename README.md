@@ -20,7 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Antgst/holbertonschool-hbnb">HBnB Project</a> •
+  <a href="https://github.com/Antgst/Kerno-MVP">KERNO</a> •
+  <a href="https://github.com/Antgst/holbertonschool-hbnb">HBnB</a> •
   <a href="https://github.com/Antgst/Antgst.github.io">Portfolio</a> •
   <a href="https://github.com/Antgst/CV">CV</a> •
   <a href="https://www.linkedin.com/in/antoinegousset">LinkedIn</a> •
@@ -31,13 +32,13 @@
 
 <a id="english-version"></a>
 
-# Junior Full-Stack Web Developer | Python • Flask • JavaScript
+# Junior Full-Stack Web Developer | React • Node.js • PostgreSQL
 
-Former retail manager with experience leading 50+ team members, now training as a full-stack web developer at **Holberton School Rennes**.
+Former deputy retail director with experience leading teams of more than 50 people, now training as a full-stack web developer at **Holberton School Rennes**.
 
-I build structured web applications using **Python, Flask, SQL, JavaScript, HTML and CSS**, with a strong interest in clean architecture, API design and reliable delivery.
+I build structured web applications with **React, JavaScript, Node.js, Express, PostgreSQL and Python**, with particular attention to API design, authentication, database modeling, maintainability and reliable delivery.
 
-I am especially interested in turning real operational problems into practical web solutions.
+My previous operational experience helps me turn concrete business needs into practical digital products.
 
 🎯 **Seeking an internship or apprenticeship in full-stack web development — Rennes or remote.**
 
@@ -47,29 +48,47 @@ I am especially interested in turning real operational problems into practical w
 
 ## Selected Projects
 
-### HBnB Evolution — Full-Stack Web Application  
-**Python • Flask • REST API • JWT • SQLAlchemy • JavaScript • SQLite**
+### KERNO — B2B SaaS Marketplace
+**React • Vite • JavaScript • Node.js • Express • PostgreSQL • Prisma • JWT • Tailwind CSS**
 
-HBnB is a group project focused on building and integrating a web application with a layered backend architecture, REST API, authentication and front-end interaction.
+KERNO is a collaborative B2B marketplace connecting local or direct suppliers with retail stores. The MVP validates a simple business flow: supplier profile creation, product publication, catalogue search and contact requests.
 
-- Built and integrated front-end pages connected to a Flask REST API
-- Implemented authentication-aware UI behavior and dynamic content rendering
+- Built and refined responsive React interfaces for stores and suppliers
+- Integrated the front end with an Express REST API
+- Worked with PostgreSQL through Prisma ORM, migrations and seed scripts
+- Implemented JWT authentication, role-based access control and protected routes
+- Contributed to product, supplier, store and contact-request business flows
+- Documented and tested the application with Swagger, Postman/Newman and Playwright
+- Used GitHub Actions, React Doctor, ESLint and Knip to improve code quality
+- Worked in a four-person team using issues, feature branches, pull requests and reviews
+
+👉 [View the KERNO repository](https://github.com/Antgst/Kerno-MVP)
+
+---
+
+### HBnB Evolution — Full-Stack Web Application
+**Python • Flask • Flask-RESTX • REST API • JWT • SQLAlchemy • JavaScript • SQLite**
+
+HBnB is a group project focused on building and integrating a web application with a layered backend architecture, authentication and front-end interaction.
+
+- Built front-end pages connected to a Flask REST API
+- Implemented authentication-aware interface behavior and dynamic rendering
 - Contributed to a layered backend architecture with clear separation of concerns
 - Worked on place pages, host cards, amenities, galleries and reviews
 - Participated in API validation through a Postman test suite — **142 tests passing**
 
-👉 [View the HBnB project](https://github.com/Antgst/holbertonschool-hbnb)
+👉 [View the HBnB repository](https://github.com/Antgst/holbertonschool-hbnb)
 
 ---
 
-### Portfolio Website — Developer Profile  
-**React • Vite • JavaScript • CSS • Responsive UI**
+### Portfolio Website — Developer Profile
+**React • Vite • JavaScript • CSS • Responsive Design**
 
-Personal portfolio designed to present my developer profile, technical projects and transition from retail management to software engineering.
+Personal portfolio presenting my developer profile, technical projects and transition from retail management to software engineering.
 
-- Built as a modern front-end project with a clean component structure
-- Focused on readability, responsive layout and professional positioning
-- Highlights my full-stack learning path and selected projects
+- Built with reusable React components
+- Designed for responsive navigation and clear project presentation
+- Focused on accessibility, readability and professional positioning
 
 👉 [View the portfolio repository](https://github.com/Antgst/Antgst.github.io)
 
@@ -77,18 +96,33 @@ Personal portfolio designed to present my developer profile, technical projects 
 
 ## Technical Stack
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,c,python,html,css,js,mysql,sqlite,postman,vscode,markdown&theme=dark)](https://skillicons.dev)
+### Languages
 
-**Main focus:**
+[![Languages](https://skillicons.dev/icons?i=js,python,c,html,css,sql&theme=dark)](https://skillicons.dev)
 
-- Python backend development with Flask / Flask-RESTX
-- RESTful API design and validation
-- SQL database modeling with SQLite and SQLAlchemy
-- JWT authentication and access control
-- Front-end integration with HTML, CSS and vanilla JavaScript
-- Git, Linux, Bash and collaborative development workflows
+### Front End
 
-**Currently strengthening:** TypeScript, React, Node.js, PostgreSQL and Docker.
+[![Front End](https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark)](https://skillicons.dev)
+
+### Back End & Databases
+
+[![Back End](https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mysql,sqlite,prisma&theme=dark)](https://skillicons.dev)
+
+### Tools & Quality
+
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman,docker,githubactions,markdown&theme=dark)](https://skillicons.dev)
+
+**Regularly used:**
+
+- React, Vite, JavaScript, HTML, CSS and Tailwind CSS
+- Node.js, Express and REST API development
+- PostgreSQL, Prisma, SQLAlchemy, SQLite and MySQL
+- JWT authentication, role-based access control and API security basics
+- Swagger/OpenAPI, Postman, Newman and Playwright
+- Git, GitHub, Linux, Bash, ESLint and GitHub Actions
+- Python, Flask and Flask-RESTX
+
+**Currently strengthening:** TypeScript, Docker, deployment practices, cloud fundamentals and cybersecurity.
 
 ---
 
@@ -126,10 +160,10 @@ Personal portfolio designed to present my developer profile, technical projects 
 
 ### Shell & Tooling
 
-**Shell Basics** — command line fundamentals, permissions and scripting basics  
+**Shell Basics** — command-line fundamentals, permissions and scripting basics  
 👉 [View repository](https://github.com/Antgst/holbertonschool-shell)
 
-**Git Intro** — version control fundamentals and collaborative workflow basics  
+**Git Intro** — version-control fundamentals and collaborative workflow basics  
 👉 [View repository](https://github.com/Antgst/git-intro)
 
 </details>
@@ -138,9 +172,11 @@ Personal portfolio designed to present my developer profile, technical projects 
 
 ## Previous Experience
 
-Before moving into software development, I worked as a deputy store director in retail, leading 50+ team members and contributing to daily operations in a fast-paced environment.
+Before moving into software development, I worked for 18 years in retail and progressed to deputy store director.
 
-This background helps me bring structure, ownership, communication and reliability to technical projects.
+I managed teams of more than 50 people and contributed to daily operations, performance monitoring, organization and problem solving in demanding environments.
+
+This experience brings structure, ownership, communication, business awareness and a results-oriented mindset to my technical projects.
 
 ---
 
@@ -151,10 +187,14 @@ This background helps me bring structure, ownership, communication and reliabili
 
 <br>
 
-- [Open Source Foundations](https://www.credly.com/badges/75b2e0d4-6a2b-4f47-a5b0-edf2b346fd52/public_url)
-- [Agile Explorer](https://www.credly.com/badges/af58ae9a-0280-40a0-85d0-78e09c8b8aba/public_url)
-- [Project Management Fundamentals](https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/Project_Management_Fundamentals.png)
+- [IBM Cloud Computing Fundamentals](https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cloud.pdf)
+- [IBM Cybersecurity Fundamentals](https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cyber-1.pdf)
 - [IBM SQL and Relational Databases](https://courses.skillsbuild.skillsnetwork.site/certificates/d963726866c84123b554ec64ce725b86)
+- [IBM Project Management Fundamentals](https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/Project_Management_Fundamentals.png)
+- [IBM Agile Explorer](https://www.credly.com/badges/af58ae9a-0280-40a0-85d0-78e09c8b8aba/public_url)
+- [IBM Open Source Foundations](https://www.credly.com/badges/75b2e0d4-6a2b-4f47-a5b0-edf2b346fd52/public_url)
+
+👉 [View the certificates repository](https://github.com/Antgst/holbertonschool-france-certificates-ibm)
 
 </details>
 
@@ -165,7 +205,7 @@ This background helps me bring structure, ownership, communication and reliabili
 - Email: [ant.gousset@gmail.com](mailto:ant.gousset@gmail.com)
 - LinkedIn: [linkedin.com/in/antoinegousset](https://www.linkedin.com/in/antoinegousset)
 - CV: [View my CV](https://github.com/Antgst/CV)
-- Optional 20-minute call: [Book here](https://calendar.app.google/U6Q94Svp3Wt1fEj26)
+- Optional 20-minute call: [Book a meeting](https://calendar.app.google/U6Q94Svp3Wt1fEj26)
 
 ---
 
@@ -175,7 +215,7 @@ This background helps me bring structure, ownership, communication and reliabili
 <br>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Antgst&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=0d1117" alt="Antoine Gousset GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Antgst&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=0d1117" alt="Antoine Gousset GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antgst&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=0d1117" alt="Antoine Gousset most used languages" />
 </p>
 
@@ -190,13 +230,13 @@ This background helps me bring structure, ownership, communication and reliabili
 
 <br>
 
-# Développeur web full-stack junior | Python • Flask • JavaScript
+# Développeur web full-stack junior | React • Node.js • PostgreSQL
 
 Ancien directeur adjoint en grande distribution, avec une expérience de management de plus de 50 collaborateurs, je suis aujourd’hui en reconversion vers le développement web à **Holberton School Rennes**.
 
-Je construis des applications web structurées avec **Python, Flask, SQL, JavaScript, HTML et CSS**, avec un intérêt fort pour l’architecture propre, la conception d’API et la livraison de solutions fiables.
+Je construis des applications web structurées avec **React, JavaScript, Node.js, Express, PostgreSQL et Python**, en portant une attention particulière à la conception d’API, à l’authentification, à la modélisation des données, à la maintenabilité et à la fiabilité.
 
-Je m’intéresse particulièrement à la transformation de problèmes terrain réels en solutions web concrètes.
+Mon expérience opérationnelle me permet de transformer des besoins métier concrets en produits numériques utiles.
 
 🎯 **À la recherche d’un stage ou d’une alternance en développement web full-stack — Rennes ou remote.**
 
@@ -204,29 +244,47 @@ Je m’intéresse particulièrement à la transformation de problèmes terrain r
 
 ## Projets principaux
 
-### HBnB Evolution — Application web full-stack  
-**Python • Flask • API REST • JWT • SQLAlchemy • JavaScript • SQLite**
+### KERNO — Marketplace SaaS B2B
+**React • Vite • JavaScript • Node.js • Express • PostgreSQL • Prisma • JWT • Tailwind CSS**
 
-Projet de groupe centré sur la construction et l’intégration d’une application web avec architecture backend en couches, API REST, authentification et interaction front-end.
+KERNO est une marketplace collaborative qui connecte des fournisseurs locaux ou directs avec des magasins de détail. Le MVP valide un parcours métier simple : création du profil fournisseur, publication des produits, recherche dans le catalogue et envoi de demandes de contact.
 
-- Intégration de pages front-end connectées à une API Flask
-- Mise en place de comportements d’interface liés à l’authentification
-- Contribution à une architecture backend structurée avec séparation des responsabilités
-- Travail sur les pages de lieux, cartes hôtes, équipements, galeries et avis
-- Participation à la validation API avec une suite Postman — **142 tests validés**
+- Création et amélioration d’interfaces React responsives pour magasins et fournisseurs
+- Intégration du front-end avec une API REST Express
+- Utilisation de PostgreSQL avec Prisma ORM, migrations et scripts de seed
+- Mise en place de l’authentification JWT, du contrôle d’accès par rôle et de routes protégées
+- Contribution aux parcours produits, fournisseurs, magasins et demandes de contact
+- Documentation et tests avec Swagger, Postman/Newman et Playwright
+- Utilisation de GitHub Actions, React Doctor, ESLint et Knip pour la qualité du code
+- Travail en équipe de quatre avec issues, branches, pull requests et revues
 
-👉 [Voir le projet HBnB](https://github.com/Antgst/holbertonschool-hbnb)
+👉 [Voir le repository KERNO](https://github.com/Antgst/Kerno-MVP)
 
 ---
 
-### Portfolio Website — Profil développeur  
-**React • Vite • JavaScript • CSS • UI responsive**
+### HBnB Evolution — Application web full-stack
+**Python • Flask • Flask-RESTX • API REST • JWT • SQLAlchemy • JavaScript • SQLite**
 
-Portfolio personnel conçu pour présenter mon profil développeur, mes projets techniques et ma transition de la grande distribution vers le développement web.
+Projet de groupe centré sur la construction et l’intégration d’une application web avec une architecture backend en couches, une authentification et des interactions front-end.
 
-- Projet front-end moderne avec une structure claire en composants
-- Travail sur la lisibilité, le responsive design et le positionnement professionnel
-- Mise en avant de mon parcours full-stack et de mes projets sélectionnés
+- Création de pages front-end connectées à une API REST Flask
+- Mise en place de comportements d’interface liés à l’authentification
+- Contribution à une architecture backend avec séparation des responsabilités
+- Travail sur les pages de lieux, cartes hôtes, équipements, galeries et avis
+- Participation à la validation de l’API avec une suite Postman — **142 tests validés**
+
+👉 [Voir le repository HBnB](https://github.com/Antgst/holbertonschool-hbnb)
+
+---
+
+### Portfolio — Profil développeur
+**React • Vite • JavaScript • CSS • Responsive Design**
+
+Portfolio personnel présentant mon profil développeur, mes projets techniques et ma transition de la grande distribution vers le développement logiciel.
+
+- Construction avec des composants React réutilisables
+- Navigation responsive et présentation claire des projets
+- Travail sur l’accessibilité, la lisibilité et le positionnement professionnel
 
 👉 [Voir le repository Portfolio](https://github.com/Antgst/Antgst.github.io)
 
@@ -234,33 +292,44 @@ Portfolio personnel conçu pour présenter mon profil développeur, mes projets 
 
 ## Stack technique
 
-**Focus principal :**
+**Langages :** JavaScript, Python, C, SQL, HTML et CSS
 
-- Développement backend Python avec Flask / Flask-RESTX
-- Conception et validation d’API REST
-- Modélisation SQL avec SQLite et SQLAlchemy
-- Authentification JWT et gestion des accès
-- Intégration front-end avec HTML, CSS et JavaScript vanilla
-- Git, Linux, Bash et workflows de développement collaboratif
+**Front-end :** React, Vite, Tailwind CSS et responsive design
 
-**En cours de renforcement :** TypeScript, React, Node.js, PostgreSQL et Docker.
+**Back-end :** Node.js, Express, Flask et Flask-RESTX
+
+**Bases de données :** PostgreSQL, Prisma ORM, SQLAlchemy, SQLite et MySQL
+
+**API et sécurité :** API REST, Swagger/OpenAPI, JWT, RBAC, CORS et bcrypt
+
+**Tests et qualité :** Postman, Newman, Playwright, ESLint, React Doctor et Knip
+
+**Outils :** Git, GitHub, GitHub Actions, Linux, Bash, VS Code et Markdown
+
+**En cours de renforcement :** TypeScript, Docker, déploiement, cloud et cybersécurité.
 
 ---
 
 ## Expérience précédente
 
-Avant ma reconversion vers le développement web, j’ai travaillé comme directeur adjoint en grande distribution, avec une responsabilité d’équipe de plus de 50 personnes dans un environnement opérationnel exigeant.
+Avant ma reconversion, j’ai travaillé pendant 18 ans dans la grande distribution jusqu’au poste de directeur adjoint.
 
-Cette expérience m’aide à apporter de la structure, de la rigueur, de la communication et un sens concret des responsabilités dans les projets techniques.
+J’ai managé des équipes de plus de 50 personnes et participé au pilotage quotidien de l’activité, à l’organisation, au suivi des performances et à la résolution de problèmes dans des environnements exigeants.
+
+Cette expérience m’apporte de la structure, de l’autonomie, de la communication, une compréhension métier et une forte orientation résultats dans mes projets techniques.
 
 ---
 
 ## Certifications
 
-- [Open Source Foundations](https://www.credly.com/badges/75b2e0d4-6a2b-4f47-a5b0-edf2b346fd52/public_url)
-- [Agile Explorer](https://www.credly.com/badges/af58ae9a-0280-40a0-85d0-78e09c8b8aba/public_url)
-- [Project Management Fundamentals](https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/Project_Management_Fundamentals.png)
+- [IBM Cloud Computing Fundamentals](https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cloud.pdf)
+- [IBM Cybersecurity Fundamentals](https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cyber-1.pdf)
 - [IBM SQL and Relational Databases](https://courses.skillsbuild.skillsnetwork.site/certificates/d963726866c84123b554ec64ce725b86)
+- [IBM Project Management Fundamentals](https://github.com/Antgst/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/Project_Management_Fundamentals.png)
+- [IBM Agile Explorer](https://www.credly.com/badges/af58ae9a-0280-40a0-85d0-78e09c8b8aba/public_url)
+- [IBM Open Source Foundations](https://www.credly.com/badges/75b2e0d4-6a2b-4f47-a5b0-edf2b346fd52/public_url)
+
+👉 [Voir le repository des certificats](https://github.com/Antgst/holbertonschool-france-certificates-ibm)
 
 ---
 
