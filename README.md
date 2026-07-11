@@ -198,7 +198,6 @@ This experience brings structure, ownership, communication, business awareness a
   <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-1/certificate-oss" width="145" alt="IBM Open Source Foundations badge" />
 </p>
 
-👉 [View the certificates repository](https://github.com/Antgst/holbertonschool-france-certificates-ibm)
 ---
 
 ## Contact
