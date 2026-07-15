@@ -191,9 +191,9 @@ This experience brings structure, ownership, communication, business awareness a
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-2/Project_Management_Fundamentals.png" width="145" alt="IBM Project Management Fundamentals badge" />
-  &nbsp;
   <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-1/Agile%20Explorer%20Badge.png" width="145" alt="IBM Agile Explorer badge" />
+    &nbsp;
+  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-2/Project_Management_Fundamentals.png" width="145" alt="IBM Project Management Fundamentals badge" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-1/Open%20Source%20Foundations%20Badge.png" width="145" alt="IBM Open Source Foundations badge" />
 </p>
