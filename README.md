@@ -325,19 +325,19 @@ Cette expérience m’apporte de la structure, de l’autonomie, de la communica
 ## Certifications
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-3/certificate-cloud.png" width="145" alt="Badge IBM Cloud Computing Fundamentals" />
+  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-3/certificate-cloud.png" width="145" alt="IBM Cloud Computing Fundamentals badge" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-3/certificate-cyber-1.png" width="145" alt="Badge IBM Cybersecurity Fundamentals" />
+  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-2/Badge_SQL.png" width="145" alt="IBM SQL and Relational Databases badge" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-2/Badge_SQL.png" width="145" alt="Badge IBM SQL and Relational Databases" />
+  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-3/certificate-cyber-1.png" width="145" alt="IBM Cybersecurity Fundamentals badge" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-2/Project_Management_Fundamentals.png" width="145" alt="Badge IBM Project Management Fundamentals" />
+  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-1/Agile%20Explorer%20Badge.png" width="145" alt="IBM Agile Explorer badge" />
+    &nbsp;
+  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-2/Project_Management_Fundamentals.png" width="145" alt="IBM Project Management Fundamentals badge" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-1/Agile%20Explorer%20Badge.png" width="145" alt="Badge IBM Agile Explorer" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-1/Open%20Source%20Foundations%20Badge.png" width="145" alt="Badge IBM Open Source Foundations" />
+  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-1/Open%20Source%20Foundations%20Badge.png" width="145" alt="IBM Open Source Foundations badge" />
 </p>
 
 👉 [Voir le repository des certificats](https://github.com/Antgst/holbertonschool-france-certificates-ibm)
