@@ -185,9 +185,9 @@ This experience brings structure, ownership, communication, business awareness a
 <p align="center">
   <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-3/certificate-cloud.png" width="145" alt="IBM Cloud Computing Fundamentals badge" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-3/certificate-cyber-1.png" width="145" alt="IBM Cybersecurity Fundamentals badge" />
-  &nbsp;
   <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-2/Badge_SQL.png" width="145" alt="IBM SQL and Relational Databases badge" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/Antgst/holbertonschool-france-certificates-ibm/main/certificates-trimester-3/certificate-cyber-1.png" width="145" alt="IBM Cybersecurity Fundamentals badge" />
 </p>
 
 <p align="center">
