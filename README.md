@@ -3,152 +3,169 @@
 </p>
 
 <p align="center">
-  <a href="#francais">🇫🇷 Français</a>
+  <a href="https://www.linkedin.com/in/antoinegousset"><strong>LinkedIn</strong></a>
   &nbsp;•&nbsp;
-  <a href="#english">🇬🇧 English</a>
+  <a href="https://github.com/Antgst/Antgst.github.io"><strong>Portfolio</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Antgst/Kerno-MVP"><strong>KERNO</strong></a>
+  &nbsp;•&nbsp;
+  <a href="mailto:ant.gousset@gmail.com"><strong>Email</strong></a>
+</p>
+
+<br>
+
+## 🧰 Stack principale / Core stack
+
+<p align="center">
+  <strong>Front-end</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind&theme=dark" alt="JavaScript, TypeScript, React, Vite, Tailwind CSS" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antoinegousset">LinkedIn</a> •
-  <a href="https://github.com/Antgst/Antgst.github.io">Portfolio</a> •
-  <a href="https://github.com/Antgst/Kerno-MVP">KERNO</a> •
-  <a href="mailto:ant.gousset@gmail.com">Email</a>
+  <strong>Back-end & Data</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,python,flask&theme=dark" alt="Node.js, Express, PostgreSQL, Prisma, Python, Flask" />
 </p>
+
+<p align="center">
+  <strong>Quality, Delivery & Tooling</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman,vscode&theme=dark" alt="Docker, Git, GitHub, GitHub Actions, Linux, Postman, VS Code" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-1f6feb?style=flat-square" alt="Full-Stack" />
+  <img src="https://img.shields.io/badge/SaaS-238636?style=flat-square" alt="SaaS" />
+  <img src="https://img.shields.io/badge/REST%20APIs-8957e5?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Testing-d29922?style=flat-square" alt="Testing" />
+  <img src="https://img.shields.io/badge/CI%2FCD-da3633?style=flat-square" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Automation-0969da?style=flat-square" alt="Automation" />
+</p>
+
+<br>
 
 ---
 
-<a id="francais"></a>
+<details open>
+<summary><h2>🇫🇷 Français</h2></summary>
 
-# 🇫🇷 Français
+<br>
 
-## Développeur full-stack avec une approche produit
+### Développeur full-stack · SaaS builder · approche produit
 
-Je construis des produits web en partant d'un besoin métier concret, avec une attention particulière portée à la **maintenabilité, aux tests et à la fiabilité de la livraison**.
-
-Ma stack principale s'articule autour de **React, JavaScript / TypeScript, Node.js, Express et PostgreSQL**, avec un travail régulier sur les API REST, l'authentification, la modélisation des données, les tests automatisés et la CI/CD.
+Je construis des applications et produits web à partir de **besoins métier concrets**, avec une attention particulière portée à la maintenabilité, aux tests et à la fiabilité de la livraison.
 
 Je contribue actuellement dans un **environnement full-stack professionnel chez Okwind**, sur une codebase existante avec tickets, revues de code, tests, pipelines et différents environnements de livraison.
 
 En parallèle, je conçois et fais évoluer des **produits SaaS, outils internes et automatisations**, avec un intérêt particulier pour l'utilisation pragmatique de l'IA et des agents dans les workflows de développement.
 
-### Ce que j'aime construire
+<br>
 
-- **Produits SaaS et B2B** avec de vrais parcours utilisateurs et règles métier
+### Ce que je construis
+
+- **SaaS et produits B2B** avec de vrais parcours utilisateurs et règles métier
 - **Applications full-stack** de l'interface jusqu'à l'API et la base de données
-- **Workflows de livraison fiables** avec tests, CI/CD et code review
-- **Outils et automatisations** qui réduisent les tâches répétitives
-- **Fonctionnalités assistées par l'IA** lorsqu'elles apportent une valeur concrète au produit ou au développement
+- **Workflows fiables** avec tests, CI/CD, code review et documentation
+- **Automatisations et outils développeur** pour réduire les tâches répétitives
 
-### Projet phare — KERNO
+<br>
 
-**React • Vite • Node.js • Express • PostgreSQL • Prisma • JWT • Tailwind CSS**
+### 🚀 Projet phare — KERNO
 
-[KERNO](https://github.com/Antgst/Kerno-MVP) est une marketplace SaaS B2B conçue autour d'un problème concret de la grande distribution : faciliter la découverte de fournisseurs, l'exploration de catalogues et la prise de contact qualifiée entre magasins et fournisseurs.
+> **Marketplace SaaS B2B pour la grande distribution**  
+> React · Vite · Node.js · Express · PostgreSQL · Prisma · JWT · Tailwind CSS
 
-Le projet couvre notamment :
+[**KERNO**](https://github.com/Antgst/Kerno-MVP) part d'un problème métier que je connais bien : faciliter la découverte de fournisseurs, l'exploration de catalogues et la prise de contact qualifiée entre magasins et fournisseurs.
 
-- authentification par rôles et parcours protégés ;
-- API REST et logique métier côté serveur ;
-- modélisation PostgreSQL avec Prisma, migrations et données de seed ;
-- interfaces responsives pour produits, fournisseurs et magasins ;
-- tests API et end-to-end avec Postman/Newman et Playwright ;
-- qualité de code et workflows GitHub Actions ;
-- itérations produit sur l'onboarding, la découverte et les demandes de contact.
+Le projet couvre l'authentification par rôles, les API REST, la modélisation PostgreSQL, les migrations Prisma, les interfaces responsives, les tests API/E2E et les workflows GitHub Actions.
 
-**Repo :** [github.com/Antgst/Kerno-MVP](https://github.com/Antgst/Kerno-MVP)  
-**Environnement :** [kerno.ausaryu.com](https://kerno.ausaryu.com/)
+<p align="center">
+  <a href="https://github.com/Antgst/Kerno-MVP"><img src="https://img.shields.io/badge/Repository-KERNO-181717?style=for-the-badge&logo=github" alt="KERNO repository" /></a>
+  <a href="https://kerno.ausaryu.com/"><img src="https://img.shields.io/badge/Live-kerno.ausaryu.com-238636?style=for-the-badge" alt="KERNO live environment" /></a>
+</p>
+
+<br>
 
 ### Ma façon de travailler
 
-Je privilégie une boucle simple : **comprendre le besoin → suivre le flux existant → modifier le minimum nécessaire → relire le diff → tester → intégrer → documenter ce qui doit durer**.
+**Comprendre → suivre le flux → modifier le minimum nécessaire → relire → tester → intégrer → documenter.**
 
-L'objectif n'est pas uniquement de faire fonctionner une fonctionnalité, mais de la rendre **compréhensible, testable et maintenable**.
+L'objectif n'est pas seulement qu'une fonctionnalité fonctionne, mais qu'elle reste **compréhensible, testable et maintenable**.
 
-### Un profil technique avec une forte culture métier
+<br>
+
+### Culture produit & métier
 
 Avant le développement logiciel, j'ai passé **18 ans dans la grande distribution**, jusqu'au poste de directeur adjoint avec management d'équipes de plus de 50 personnes.
 
-Cette expérience influence encore ma manière de développer : je regarde naturellement les workflows, les contraintes opérationnelles, l'adoption, la priorisation et la valeur réellement apportée à l'utilisateur.
+Cette expérience influence ma manière de développer : je regarde naturellement les workflows, les contraintes opérationnelles, l'adoption, la priorisation et la valeur réellement apportée à l'utilisateur.
 
-Ma trajectoire se situe aujourd'hui à l'intersection de :
+<p align="center"><strong>Full-Stack Engineering × SaaS × Product Thinking × Automation × Applied AI</strong></p>
 
-**Full-Stack Engineering × SaaS × Product Thinking × Automation × Applied AI**
+</details>
 
 ---
 
-<a id="english"></a>
+<details>
+<summary><h2>🇬🇧 English</h2></summary>
 
-# 🇬🇧 English
+<br>
 
-## Full-Stack Developer with a product mindset
+### Full-Stack Developer · SaaS Builder · Product-minded
 
-I build web products from concrete business needs, with a strong focus on **maintainability, testing and reliable delivery**.
-
-My main stack revolves around **React, JavaScript / TypeScript, Node.js, Express and PostgreSQL**, with regular work around REST APIs, authentication, data modelling, automated testing and CI/CD.
+I build web applications and products from **real business needs**, with a strong focus on maintainability, testing and reliable delivery.
 
 I currently contribute in a **professional full-stack environment at Okwind**, working with an existing codebase, tickets, code reviews, tests, delivery pipelines and multiple environments.
 
 Alongside professional development, I design and iterate on **SaaS products, internal tools and automation-oriented projects**, with a particular interest in pragmatic uses of AI and agents inside engineering workflows.
 
-### What I like to build
+<br>
+
+### What I build
 
 - **SaaS and B2B products** with real user journeys and business rules
 - **Full-stack applications** from interface to API and database
-- **Reliable delivery workflows** with testing, CI/CD and code review
-- **Developer tools and automation** that remove repetitive work
-- **AI-assisted features and workflows** when they create concrete product or engineering value
+- **Reliable workflows** with testing, CI/CD, code review and documentation
+- **Developer tooling and automation** that remove repetitive work
 
-### Featured project — KERNO
+<br>
 
-**React • Vite • Node.js • Express • PostgreSQL • Prisma • JWT • Tailwind CSS**
+### 🚀 Featured product — KERNO
 
-[KERNO](https://github.com/Antgst/Kerno-MVP) is a B2B SaaS marketplace built around a concrete retail problem: making it easier for stores to discover suppliers, explore catalogues and start qualified business conversations.
+> **B2B SaaS marketplace for the retail industry**  
+> React · Vite · Node.js · Express · PostgreSQL · Prisma · JWT · Tailwind CSS
 
-The project includes:
+[**KERNO**](https://github.com/Antgst/Kerno-MVP) is built around a retail problem I know first-hand: making it easier for stores to discover suppliers, explore catalogues and start qualified business conversations.
 
-- role-based authentication and protected application flows;
-- REST APIs and server-side business logic;
-- PostgreSQL modelling with Prisma, migrations and seed data;
-- responsive product, supplier and store experiences;
-- API and end-to-end testing with Postman/Newman and Playwright;
-- code-quality tooling and GitHub Actions workflows;
-- product iterations around onboarding, discovery and contact requests.
+The project covers role-based authentication, REST APIs, PostgreSQL modelling, Prisma migrations, responsive interfaces, API/E2E testing and GitHub Actions workflows.
 
-**Repository:** [github.com/Antgst/Kerno-MVP](https://github.com/Antgst/Kerno-MVP)  
-**Live environment:** [kerno.ausaryu.com](https://kerno.ausaryu.com/)
+<p align="center">
+  <a href="https://github.com/Antgst/Kerno-MVP"><img src="https://img.shields.io/badge/Repository-KERNO-181717?style=for-the-badge&logo=github" alt="KERNO repository" /></a>
+  <a href="https://kerno.ausaryu.com/"><img src="https://img.shields.io/badge/Live-kerno.ausaryu.com-238636?style=for-the-badge" alt="KERNO live environment" /></a>
+</p>
+
+<br>
 
 ### How I work
 
-I prefer a simple engineering loop: **understand the need → trace the existing flow → make the smallest coherent change → review the diff → test → integrate → document what needs to last**.
+**Understand → trace the flow → make the smallest coherent change → review → test → integrate → document.**
 
 The goal is not simply to make a feature work once, but to make it **understandable, testable and maintainable**.
 
-### Technical profile, strong business background
+<br>
+
+### Product & business background
 
 Before moving into software development, I spent **18 years in retail**, progressing to deputy store director and managing teams of more than 50 people.
 
 That experience still shapes the way I build software: I naturally look at workflows, operational constraints, adoption, prioritisation and the real value delivered to users.
 
-My current direction sits at the intersection of:
+<p align="center"><strong>Full-Stack Engineering × SaaS × Product Thinking × Automation × Applied AI</strong></p>
 
-**Full-Stack Engineering × SaaS × Product Thinking × Automation × Applied AI**
+</details>
 
 ---
 
-## Stack & tooling
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,react,vite,tailwind,nodejs,express,postgres,prisma,docker,git,github,githubactions,linux,postman&theme=dark" alt="Technical stack" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>React · JavaScript · TypeScript · Node.js · Express · PostgreSQL · Prisma · REST APIs · GitHub Actions · Docker · Playwright</strong>
-</p>
-
 <details>
-<summary><b>Software engineering foundations / Fondamentaux</b></summary>
+<summary><b>🎓 Software engineering foundations / Fondamentaux</b></summary>
 
 <br>
 
@@ -158,15 +175,15 @@ Mes fondamentaux ont été construits à travers une formation intensive par pro
 
 </details>
 
----
+<br>
 
-## GitHub activity
+## 📊 GitHub activity
 
 <p align="center">
   <img src="./github-metrics.svg" alt="Antoine Gousset GitHub metrics" width="820" />
 </p>
 
----
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antoinegousset">LinkedIn</a> •
