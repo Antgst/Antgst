@@ -6,35 +6,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antoinegousset"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Antgst/Antgst.github.io"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:ant.gousset@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/antoinegousset"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Antgst/Antgst.github.io"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:ant.gousset@gmail.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <br>
 
-## Tech stack
+## Core stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-1f6feb?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-1f6feb?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-1f6feb?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-1f6feb?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind-1f6feb?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-1f6feb?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-1f6feb?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1f6feb?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-1f6feb?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-1f6feb?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-1f6feb?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-1f6feb?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-1f6feb?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-1f6feb?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Postman-1f6feb?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Playwright-1f6feb?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img width="32%" src="./assets/stack-frontend.svg" alt="Front-end stack card" />
+  <img width="32%" src="./assets/stack-backend.svg" alt="Back-end and data stack card" />
+  <img width="32%" src="./assets/stack-delivery.svg" alt="Quality and delivery stack card" />
 </p>
 
 <p align="center">
@@ -47,16 +31,17 @@
 
 <p align="center">
   <a href="https://github.com/Antgst/Kerno-MVP">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Antgst&repo=Kerno-MVP&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="KERNO repository" />
+    <img width="49%" src="./assets/project-kerno.svg" alt="KERNO project card" />
   </a>
   <a href="https://github.com/Antgst/Antgst.github.io">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Antgst&repo=Antgst.github.io&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Portfolio repository" />
+    <img width="49%" src="./assets/project-portfolio.svg" alt="Portfolio project card" />
   </a>
 </p>
 
 <p align="center">
-  <strong>KERNO</strong> is my main SaaS project: a B2B marketplace built around a real retail use case.<br>
-  <a href="https://kerno.ausaryu.com/">Live</a> · <a href="https://github.com/Antgst/Kerno-MVP">Repository</a>
+  <a href="https://kerno.ausaryu.com/"><img src="https://img.shields.io/badge/KERNO_Live-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="KERNO live" /></a>
+  <a href="https://github.com/Antgst/Kerno-MVP"><img src="https://img.shields.io/badge/KERNO_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="KERNO repository" /></a>
+  <a href="https://github.com/Antgst/Antgst.github.io"><img src="https://img.shields.io/badge/Portfolio_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repository" /></a>
 </p>
 
 <br>
