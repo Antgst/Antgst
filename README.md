@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/profile-card.svg" alt="Antoine Gousset — Full-Stack Developer and SaaS Builder" width="840" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/antoinegousset"><strong>LinkedIn</strong></a>
   &nbsp;•&nbsp;
   <a href="https://github.com/Antgst/Antgst.github.io"><strong>Portfolio</strong></a>
