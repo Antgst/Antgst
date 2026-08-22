@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="360" viewBox="0 0 840 360" role="img" aria-labelledby="title desc">
+  <title id="title">Antoine Gousset — Full-Stack Developer and SaaS Builder</title>
+  <desc id="desc">GitHub profile card highlighting product-minded full-stack development, SaaS, APIs, testing and delivery.</desc>
+
+  <defs>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="55%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0b2239"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#3fb950"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="840" height="360" rx="12" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="839" height="359" rx="11.5" fill="none" stroke="#30363d"/>
+  <rect x="1" y="1" width="838" height="124" rx="11" fill="url(#hero)"/>
+  <rect x="28" y="118" width="784" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <circle cx="47" cy="42" r="5" fill="#3fb950"/>
+  <text x="60" y="47" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13">available for building useful software</text>
+
+  <text x="28" y="82" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="700">Antoine Gousset</text>
+  <text x="28" y="108" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16">Full-Stack Developer · SaaS Builder · Product-minded engineer</text>
+
+  <text x="812" y="47" text-anchor="end" fill="#58a6ff" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">BUILD / SHIP / ITERATE</text>
+  <text x="812" y="82" text-anchor="end" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">Rennes, France</text>
+  <text x="812" y="103" text-anchor="end" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">business → product → code</text>
+
+  <text x="28" y="156" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600">CURRENT FOCUS</text>
+  <text x="28" y="181" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15">SaaS products · Full-stack applications · APIs · Automation · Applied AI</text>
+
+  <rect x="28" y="203" width="376" height="60" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="44" y="226" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600">FEATURED PRODUCT</text>
+  <text x="44" y="249" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600">KERNO · B2B SaaS Marketplace</text>
+
+  <rect x="436" y="203" width="376" height="60" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="452" y="226" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600">ENGINEERING</text>
+  <text x="452" y="249" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600">Tests · CI/CD · Reviews · Maintainability</text>
+
+  <text x="28" y="296" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600">FRONT END</text>
+  <text x="28" y="319" fill="#e6edf3" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">React · Vite · JS/TS · Tailwind</text>
+
+  <text x="305" y="296" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600">BACK END &amp; DATA</text>
+  <text x="305" y="319" fill="#e6edf3" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">Node.js · Express · PostgreSQL · Prisma</text>
+
+  <text x="610" y="296" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600">DELIVERY</text>
+  <text x="610" y="319" fill="#e6edf3" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">Git · Actions · Docker · Playwright</text>
+
+  <text x="28" y="344" fill="#484f58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11">&gt; turning concrete business problems into reliable software</text>
+</svg>
