@@ -20,7 +20,7 @@
   <rect x="28" y="118" width="784" height="3" rx="1.5" fill="url(#accent)"/>
 
   <circle cx="47" cy="42" r="5" fill="#3fb950"/>
-  <text x="60" y="47" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13">available for building useful software</text>
+  <text x="60" y="47" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13">building useful software</text>
 
   <text x="28" y="82" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="700">Antoine Gousset</text>
   <text x="28" y="108" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16">Full-Stack Developer · SaaS Builder · Product-minded engineer</text>
