@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=185&section=header&text=Antoine%20Gousset&fontSize=46&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20Builder&descAlignY=58&descSize=18" alt="Antoine Gousset - Full-Stack Developer and SaaS Builder" />
+  <img src="./assets/profile-card.svg" alt="Antoine Gousset — Full-Stack Developer and SaaS Builder" width="840" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Antgst/Kerno-MVP"><img src="https://img.shields.io/badge/Building-SaaS%20Products-238636?style=for-the-badge" alt="Building SaaS products" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Rennes%2C%20France-1f6feb?style=for-the-badge" alt="Based in Rennes, France" />
+  <a href="#francais">🇫🇷 Français</a>
+  &nbsp;•&nbsp;
+  <a href="#english">🇬🇧 English</a>
 </p>
 
 <p align="center">
@@ -16,114 +17,144 @@
 
 ---
 
-## Full-Stack Developer with a product mindset
+<a id="francais"></a>
 
-I build web products with a strong focus on **real business use cases, maintainable architecture and reliable delivery**.
+# 🇫🇷 Français
 
-My main stack revolves around **React, JavaScript, Node.js, Express and PostgreSQL**, with regular work around REST APIs, authentication, database modelling, automated tests, CI/CD and developer tooling.
+## Développeur full-stack avec une approche produit
 
-I am currently gaining hands-on experience in a professional full-stack environment at **Okwind**, working with an existing codebase, team workflows, reviews, tests and delivery pipelines.
+Je construis des produits web en partant d'un besoin métier concret, avec une attention particulière portée à la **maintenabilité, aux tests et à la fiabilité de la livraison**.
 
-Alongside professional development, I build and iterate on **SaaS products, internal tools and automation-oriented projects**. I am particularly interested in the intersection of software engineering, product thinking and AI-assisted development.
+Ma stack principale s'articule autour de **React, JavaScript / TypeScript, Node.js, Express et PostgreSQL**, avec un travail régulier sur les API REST, l'authentification, la modélisation des données, les tests automatisés et la CI/CD.
 
----
+Je contribue actuellement dans un **environnement full-stack professionnel chez Okwind**, sur une codebase existante avec tickets, revues de code, tests, pipelines et différents environnements de livraison.
 
-## What I like to build
+En parallèle, je conçois et fais évoluer des **produits SaaS, outils internes et automatisations**, avec un intérêt particulier pour l'utilisation pragmatique de l'IA et des agents dans les workflows de développement.
 
-- **SaaS and B2B products** with clear user journeys and business rules
-- **Full-stack applications** from interface to API and database
-- **Reliable delivery workflows** with testing, CI/CD and code review
-- **Developer tooling and automation** that reduce repetitive work
-- **AI-assisted workflows and agents** used as engineering leverage, not as a substitute for engineering discipline
+### Ce que j'aime construire
 
----
+- **Produits SaaS et B2B** avec de vrais parcours utilisateurs et règles métier
+- **Applications full-stack** de l'interface jusqu'à l'API et la base de données
+- **Workflows de livraison fiables** avec tests, CI/CD et code review
+- **Outils et automatisations** qui réduisent les tâches répétitives
+- **Fonctionnalités assistées par l'IA** lorsqu'elles apportent une valeur concrète au produit ou au développement
 
-## Featured project
-
-### KERNO — B2B SaaS Marketplace
+### Projet phare — KERNO
 
 **React • Vite • Node.js • Express • PostgreSQL • Prisma • JWT • Tailwind CSS**
 
-[KERNO](https://github.com/Antgst/Kerno-MVP) is a B2B marketplace built around a concrete retail problem: making it easier for stores to discover suppliers, explore their catalogues and start qualified business conversations.
+[KERNO](https://github.com/Antgst/Kerno-MVP) est une marketplace SaaS B2B conçue autour d'un problème concret de la grande distribution : faciliter la découverte de fournisseurs, l'exploration de catalogues et la prise de contact qualifiée entre magasins et fournisseurs.
 
-The project covers more than UI implementation. It includes:
+Le projet couvre notamment :
 
-- role-based authentication and protected application flows
-- REST API integration and domain-oriented backend logic
-- PostgreSQL modelling with Prisma, migrations and seed data
-- responsive product, supplier and store experiences
-- automated API and end-to-end validation with Postman/Newman and Playwright
-- code-quality tooling and GitHub Actions workflows
-- iterative product decisions around onboarding, discovery and contact flows
+- authentification par rôles et parcours protégés ;
+- API REST et logique métier côté serveur ;
+- modélisation PostgreSQL avec Prisma, migrations et données de seed ;
+- interfaces responsives pour produits, fournisseurs et magasins ;
+- tests API et end-to-end avec Postman/Newman et Playwright ;
+- qualité de code et workflows GitHub Actions ;
+- itérations produit sur l'onboarding, la découverte et les demandes de contact.
+
+**Repo :** [github.com/Antgst/Kerno-MVP](https://github.com/Antgst/Kerno-MVP)  
+**Environnement :** [kerno.ausaryu.com](https://kerno.ausaryu.com/)
+
+### Ma façon de travailler
+
+Je privilégie une boucle simple : **comprendre le besoin → suivre le flux existant → modifier le minimum nécessaire → relire le diff → tester → intégrer → documenter ce qui doit durer**.
+
+L'objectif n'est pas uniquement de faire fonctionner une fonctionnalité, mais de la rendre **compréhensible, testable et maintenable**.
+
+### Un profil technique avec une forte culture métier
+
+Avant le développement logiciel, j'ai passé **18 ans dans la grande distribution**, jusqu'au poste de directeur adjoint avec management d'équipes de plus de 50 personnes.
+
+Cette expérience influence encore ma manière de développer : je regarde naturellement les workflows, les contraintes opérationnelles, l'adoption, la priorisation et la valeur réellement apportée à l'utilisateur.
+
+Ma trajectoire se situe aujourd'hui à l'intersection de :
+
+**Full-Stack Engineering × SaaS × Product Thinking × Automation × Applied AI**
+
+---
+
+<a id="english"></a>
+
+# 🇬🇧 English
+
+## Full-Stack Developer with a product mindset
+
+I build web products from concrete business needs, with a strong focus on **maintainability, testing and reliable delivery**.
+
+My main stack revolves around **React, JavaScript / TypeScript, Node.js, Express and PostgreSQL**, with regular work around REST APIs, authentication, data modelling, automated testing and CI/CD.
+
+I currently contribute in a **professional full-stack environment at Okwind**, working with an existing codebase, tickets, code reviews, tests, delivery pipelines and multiple environments.
+
+Alongside professional development, I design and iterate on **SaaS products, internal tools and automation-oriented projects**, with a particular interest in pragmatic uses of AI and agents inside engineering workflows.
+
+### What I like to build
+
+- **SaaS and B2B products** with real user journeys and business rules
+- **Full-stack applications** from interface to API and database
+- **Reliable delivery workflows** with testing, CI/CD and code review
+- **Developer tools and automation** that remove repetitive work
+- **AI-assisted features and workflows** when they create concrete product or engineering value
+
+### Featured project — KERNO
+
+**React • Vite • Node.js • Express • PostgreSQL • Prisma • JWT • Tailwind CSS**
+
+[KERNO](https://github.com/Antgst/Kerno-MVP) is a B2B SaaS marketplace built around a concrete retail problem: making it easier for stores to discover suppliers, explore catalogues and start qualified business conversations.
+
+The project includes:
+
+- role-based authentication and protected application flows;
+- REST APIs and server-side business logic;
+- PostgreSQL modelling with Prisma, migrations and seed data;
+- responsive product, supplier and store experiences;
+- API and end-to-end testing with Postman/Newman and Playwright;
+- code-quality tooling and GitHub Actions workflows;
+- product iterations around onboarding, discovery and contact requests.
 
 **Repository:** [github.com/Antgst/Kerno-MVP](https://github.com/Antgst/Kerno-MVP)  
 **Live environment:** [kerno.ausaryu.com](https://kerno.ausaryu.com/)
 
----
+### How I work
 
-## Engineering toolbox
-
-### Languages & front end
-
-[![Languages and front end](https://skillicons.dev/icons?i=js,ts,python,c,html,css,react,vite,tailwind&theme=dark)](https://skillicons.dev)
-
-### Back end & data
-
-[![Back end and databases](https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mysql,sqlite,prisma&theme=dark)](https://skillicons.dev)
-
-### Delivery & tooling
-
-[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,bash,vscode,postman&theme=dark)](https://skillicons.dev)
-
-**Regularly used:** React, Vite, JavaScript, Node.js, Express, PostgreSQL, Prisma, REST APIs, JWT/RBAC, Git, GitHub Actions, Linux, Postman/Newman, Playwright, ESLint and Docker.
-
-**Currently deepening:** TypeScript, containerisation, deployment architecture, CI/CD, application observability and AI-assisted software engineering.
-
----
-
-## How I approach engineering work
-
-I prefer a pragmatic development loop:
-
-1. understand the actual user or business need;
-2. trace the existing data and application flow before changing code;
-3. make the smallest coherent change that solves the problem;
-4. review the diff and validate assumptions with tests;
-5. use branches, pull requests and CI as part of the development process;
-6. document decisions that will matter again later.
+I prefer a simple engineering loop: **understand the need → trace the existing flow → make the smallest coherent change → review the diff → test → integrate → document what needs to last**.
 
 The goal is not simply to make a feature work once, but to make it **understandable, testable and maintainable**.
 
----
-
-## Product & business background
+### Technical profile, strong business background
 
 Before moving into software development, I spent **18 years in retail**, progressing to deputy store director and managing teams of more than 50 people.
 
-That background still shapes the way I build software: I naturally look at workflows, constraints, adoption, operational friction and measurable value — not only at the technical implementation.
+That experience still shapes the way I build software: I naturally look at workflows, operational constraints, adoption, prioritisation and the real value delivered to users.
 
-It also gave me a strong bias toward **ownership, prioritisation, communication and shipping useful solutions**.
-
----
-
-## Current direction
-
-I am building toward a profile at the intersection of:
+My current direction sits at the intersection of:
 
 **Full-Stack Engineering × SaaS × Product Thinking × Automation × Applied AI**
 
-My long-term objective is to be able to take a product from a business problem to a reliable deployed application: architecture, implementation, testing, delivery and iteration included.
-
 ---
 
+## Stack & tooling
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,vite,tailwind,nodejs,express,postgres,prisma,docker,git,github,githubactions,linux,postman&theme=dark" alt="Technical stack" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>React · JavaScript · TypeScript · Node.js · Express · PostgreSQL · Prisma · REST APIs · GitHub Actions · Docker · Playwright</strong>
+</p>
+
 <details>
-<summary><b>Earlier software engineering foundations</b></summary>
+<summary><b>Software engineering foundations / Fondamentaux</b></summary>
 
 <br>
 
-My foundations were built through intensive project-based work at **Holberton School Rennes**, covering C, Python, shell, algorithms, data structures, APIs, databases and full-stack web development.
+My software engineering foundations were built through intensive project-based work at **Holberton School Rennes**, covering C, Python, shell, algorithms, data structures, APIs, databases and full-stack development.
 
-Those projects remain available on this GitHub profile, but my current focus is increasingly on **production-oriented development, SaaS products and engineering workflows**.
+Mes fondamentaux ont été construits à travers une formation intensive par projets à **Holberton School Rennes**, couvrant notamment C, Python, shell, algorithmique, structures de données, API, bases de données et développement full-stack.
 
 </details>
 
@@ -137,14 +168,12 @@ Those projects remain available on this GitHub profile, but my current focus is 
 
 ---
 
-## Contact
-
-- **LinkedIn:** [linkedin.com/in/antoinegousset](https://www.linkedin.com/in/antoinegousset)
-- **Portfolio:** [github.com/Antgst/Antgst.github.io](https://github.com/Antgst/Antgst.github.io)
-- **Email:** [ant.gousset@gmail.com](mailto:ant.gousset@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/antoinegousset">LinkedIn</a> •
+  <a href="https://github.com/Antgst/Antgst.github.io">Portfolio</a> •
+  <a href="mailto:ant.gousset@gmail.com">Email</a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Antgst&label=Profile%20views&style=flat-square&color=1f6feb" alt="Profile views" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=110&section=footer" alt="Footer wave" />
