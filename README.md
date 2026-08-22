@@ -45,11 +45,11 @@
 ---
 
 <details open>
-<summary><h2>🇫🇷 Français</h2></summary>
+<summary><strong>🇫🇷 Français</strong></summary>
 
 <br>
 
-### Développeur full-stack · SaaS builder · approche produit
+## Développeur full-stack · SaaS builder · approche produit
 
 Je construis des applications et produits web à partir de **besoins métier concrets**, avec une attention particulière portée à la maintenabilité, aux tests et à la fiabilité de la livraison.
 
@@ -105,11 +105,11 @@ Cette expérience influence ma manière de développer : je regarde naturellemen
 ---
 
 <details>
-<summary><h2>🇬🇧 English</h2></summary>
+<summary><strong>🇬🇧 English</strong></summary>
 
 <br>
 
-### Full-Stack Developer · SaaS Builder · Product-minded
+## Full-Stack Developer · SaaS Builder · Product-minded
 
 I build web applications and products from **real business needs**, with a strong focus on maintainability, testing and reliable delivery.
 
@@ -165,7 +165,7 @@ That experience still shapes the way I build software: I naturally look at workf
 ---
 
 <details>
-<summary><b>🎓 Software engineering foundations / Fondamentaux</b></summary>
+<summary><strong>🎓 Software engineering foundations / Fondamentaux</strong></summary>
 
 <br>
 
