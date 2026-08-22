@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="250" viewBox="0 0 520 250" role="img" aria-labelledby="title desc">
+  <title id="title">KERNO project card</title>
+  <desc id="desc">KERNO, a B2B SaaS marketplace for retail suppliers and stores.</desc>
+  <rect width="520" height="250" rx="20" fill="#0d1117"/>
+  <rect x="1.5" y="1.5" width="517" height="247" rx="18.5" fill="none" stroke="#58A6FF" stroke-width="3"/>
+  <rect x="24" y="24" width="126" height="24" rx="12" fill="#111d2f" stroke="#58A6FF"/>
+  <text x="87" y="40" text-anchor="middle" fill="#58A6FF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">MAIN SAAS PROJECT</text>
+  <g transform="translate(438 24)" fill="none" stroke="#58A6FF" stroke-width="2.4" stroke-linejoin="round">
+    <path d="M5 17 24 6l19 11-19 11L5 17Z"/><path d="M5 17v20l19 11 19-11V17M24 28v20"/>
+  </g>
+  <text x="24" y="84" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">KERNO</text>
+  <text x="24" y="110" fill="#58A6FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">B2B SaaS marketplace</text>
+  <text x="24" y="140" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="15">Connects retail stores and suppliers through</text>
+  <text x="24" y="160" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="15">catalog discovery, contact flows and business logic.</text>
+  <rect x="24" y="184" width="74" height="24" rx="12" fill="#111d2f" stroke="#58A6FF"/>
+  <text x="61" y="200" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">React</text>
+  <rect x="108" y="184" width="78" height="24" rx="12" fill="#111d2f" stroke="#58A6FF"/>
+  <text x="147" y="200" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">Node.js</text>
+  <rect x="196" y="184" width="92" height="24" rx="12" fill="#111d2f" stroke="#58A6FF"/>
+  <text x="242" y="200" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">PostgreSQL</text>
+  <rect x="298" y="184" width="72" height="24" rx="12" fill="#111d2f" stroke="#58A6FF"/>
+  <text x="334" y="200" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">Prisma</text>
+  <rect x="380" y="184" width="74" height="24" rx="12" fill="#111d2f" stroke="#58A6FF"/>
+  <text x="417" y="200" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">JWT</text>
+  <text x="24" y="228" fill="#58A6FF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">LIVE ↗  ·  REPOSITORY ↗</text>
+</svg>

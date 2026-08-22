@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="250" viewBox="0 0 520 250" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio project card</title>
+  <desc id="desc">Portfolio website project card.</desc>
+  <rect width="520" height="250" rx="20" fill="#0d1117"/>
+  <rect x="1.5" y="1.5" width="517" height="247" rx="18.5" fill="none" stroke="#58A6FF" stroke-width="3"/>
+  <rect x="24" y="24" width="92" height="24" rx="12" fill="#111d2f" stroke="#58A6FF"/>
+  <text x="70" y="40" text-anchor="middle" fill="#58A6FF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">SHOWCASE</text>
+  <g transform="translate(438 25)" fill="none" stroke="#58A6FF" stroke-width="2.4" stroke-linejoin="round">
+    <rect x="2" y="4" width="48" height="36" rx="5"/><path d="M2 13h48"/><circle cx="9" cy="9" r="1.4" fill="#58A6FF" stroke="none"/><circle cx="15" cy="9" r="1.4" fill="#58A6FF" stroke="none"/><path d="M17 23h18M17 29h11"/>
+  </g>
+  <text x="24" y="84" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Portfolio</text>
+  <text x="24" y="110" fill="#58A6FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Developer profile website</text>
+  <text x="24" y="140" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="15">Presents projects, positioning and product focus</text>
+  <text x="24" y="160" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="15">with a clean front-end experience and clear navigation.</text>
+  <rect x="24" y="184" width="74" height="24" rx="12" fill="#111d2f" stroke="#58A6FF"/>
+  <text x="61" y="200" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">React</text>
+  <rect x="108" y="184" width="62" height="24" rx="12" fill="#111d2f" stroke="#58A6FF"/>
+  <text x="139" y="200" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">Vite</text>
+  <rect x="180" y="184" width="96" height="24" rx="12" fill="#111d2f" stroke="#58A6FF"/>
+  <text x="228" y="200" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">Responsive</text>
+  <rect x="286" y="184" width="72" height="24" rx="12" fill="#111d2f" stroke="#58A6FF"/>
+  <text x="322" y="200" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">UI/UX</text>
+  <text x="24" y="228" fill="#58A6FF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">REPOSITORY ↗</text>
+</svg>
