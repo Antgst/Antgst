@@ -12,6 +12,10 @@
   <a href="mailto:ant.gousset@gmail.com">Email</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Antgst&label=Visites+du+profil&color=1f6feb&style=flat-square" alt="Visites du profil GitHub" />
+</p>
+
 # Développeur full-stack · SaaS · IA appliquée
 
 Je conçois des applications web et des outils logiciels en partant d’un besoin concret : comprendre le problème, cadrer le produit, construire une solution maintenable, la tester et la livrer proprement.
@@ -76,6 +80,20 @@ L’objectif est de rendre l’IA utile dans un vrai cycle d’ingénierie sans 
 🤖 **IA & agents** — Codex · Ollama · Agents locaux · Workflows agentiques  
 🎓 **Holberton / Intra** — C · Python · Shell · Algorithmique · Structures de données  
 🛠️ **Outils** — VS Code · GitHub · GitHub CLI · Postman
+
+## Stack rencontrée en stage
+
+Technologies et outils rencontrés en environnement professionnel, volontairement séparés de ma stack principale pour distinguer **expérience en cours** et **technologies déjà consolidées**.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,php,symfony,gitlab,linux&theme=dark" alt="Stack rencontrée en stage" />
+</p>
+
+⚛️ **Front-end** — React · TypeScript · Vite · React Hook Form · React Context · Google Places  
+🐘 **Back-end** — PHP · Symfony · API Platform · Doctrine · AutoMapper · Serializer  
+🔌 **API & architecture** — REST · DTO · Providers · relations d’entités · JSON  
+🧪 **Tests & qualité** — Cypress · Robot Framework · Robocop · tests d’intégration · code review  
+🧰 **Environnement** — Linux · Git · GitLab · Make · DevTools / Network
 
 ## Ma façon de travailler
 
