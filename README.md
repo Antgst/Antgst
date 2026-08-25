@@ -68,12 +68,14 @@ L’objectif est de rendre l’IA utile dans un vrai cycle d’ingénierie sans 
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css,react,vite,tailwind,nodejs,express,postgres,sqlite,prisma,docker,git,github,githubactions,linux,bash,vscode,postman&theme=dark" alt="Stack technique" />
 </p>
 
-**Front-end** — React, Vite, JavaScript, TypeScript, HTML, CSS, Tailwind CSS  
-**Back-end** — Node.js, Express, Python, Flask, API REST  
-**Données** — PostgreSQL, Prisma, SQLAlchemy, SQLite, MySQL  
-**Qualité** — Playwright, Postman/Newman, ESLint, GitHub Actions, revues de code  
-**Environnement** — Git, GitHub, Linux, Bash, Docker, VS Code  
-**IA appliquée** — Codex, Ollama, agents locaux, automatisation et workflows contrôlés
+🎨 **Front-end** — React · Vite · JavaScript · TypeScript · Tailwind CSS  
+⚙️ **Back-end** — Node.js · Express · Python · Flask · REST APIs  
+🗄️ **Data** — PostgreSQL · Prisma · SQLAlchemy · SQLite · MySQL  
+🧪 **Tests & qualité** — Playwright · Postman/Newman · ESLint · Code review  
+🚀 **DevOps** — Docker · GitHub Actions · Linux · Bash · Git  
+🤖 **IA & agents** — Codex · Ollama · Agents locaux · Workflows agentiques  
+🎓 **Holberton / Intra** — C · Python · Shell · Algorithmique · Structures de données  
+🛠️ **Outils** — VS Code · GitHub · GitHub CLI · Postman
 
 ## Ma façon de travailler
 
