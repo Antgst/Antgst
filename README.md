@@ -69,7 +69,7 @@ L’objectif est de rendre l’IA utile dans un vrai cycle d’ingénierie sans 
 ## Stack technique
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css,react,vite,tailwind,nodejs,express,postgres,sqlite,prisma,docker,git,github,githubactions,linux,bash,vscode,postman&theme=dark" alt="Stack technique" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css,react,vite,tailwind,nodejs,express,postgres,sqlite,prisma,docker,git,github,githubactions,linux,bash,vscode,postman&theme=dark&perline=11" alt="Stack technique" />
 </p>
 
 🎨 **Front-end** — React · Vite · JavaScript · TypeScript · Tailwind CSS  
