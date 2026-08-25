@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="160" viewBox="0 0 360 160" role="img" aria-labelledby="title desc">
+  <title id="title">Front-end stack</title>
+  <desc id="desc">Frontend technologies: React, TypeScript, JavaScript, Vite, Tailwind CSS.</desc>
+  <rect width="360" height="160" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="358" height="158" rx="17" fill="none" stroke="#58A6FF" stroke-width="2"/>
+  <g transform="translate(302 20)" fill="none" stroke="#58A6FF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 8 4 16l8 8"/><path d="m28 8 8 8-8 8"/><path d="m22 5-6 22"/>
+  </g>
+  <text x="24" y="38" fill="#58A6FF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">FRONT-END</text>
+  <text x="24" y="64" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">React ecosystem</text>
+  <text x="24" y="92" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="15">TypeScript · JavaScript</text>
+  <text x="24" y="114" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="15">React · Vite · Tailwind CSS</text>
+  <rect x="24" y="126" width="102" height="20" rx="10" fill="#111d2f" stroke="#58A6FF"/>
+  <text x="75" y="140" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">UI / UX</text>
+  <rect x="136" y="126" width="102" height="20" rx="10" fill="#111d2f" stroke="#58A6FF"/>
+  <text x="187" y="140" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">Responsive</text>
+  <rect x="248" y="126" width="88" height="20" rx="10" fill="#111d2f" stroke="#58A6FF"/>
+  <text x="292" y="140" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">DX</text>
+</svg>
