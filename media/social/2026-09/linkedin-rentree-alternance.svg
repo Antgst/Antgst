@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628">
+  <rect width="1200" height="628" fill="#F4F1EA"/>
+  <rect x="72" y="72" width="1056" height="484" rx="28" fill="#FFFFFF" stroke="#161616" stroke-width="3"/>
+  <text x="120" y="155" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#161616">MARDI : DEUX RENTRÉES.</text>
+  <line x1="120" y1="188" x2="1080" y2="188" stroke="#161616" stroke-width="2"/>
+
+  <g transform="translate(135 245)">
+    <rect x="0" y="38" width="150" height="180" rx="24" fill="#E5B75B" stroke="#161616" stroke-width="3"/>
+    <path d="M35 42 C35 -5 115 -5 115 42" fill="none" stroke="#161616" stroke-width="12"/>
+    <rect x="32" y="105" width="86" height="74" rx="12" fill="#F4F1EA" stroke="#161616" stroke-width="3"/>
+    <text x="190" y="85" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#161616">LUI</text>
+    <text x="190" y="128" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#161616">cherche sa classe,</text>
+    <text x="190" y="164" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#161616">retrouve ses copains,</text>
+    <text x="190" y="200" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#161616">et repart avec son cartable.</text>
+  </g>
+
+  <line x1="600" y1="230" x2="600" y2="495" stroke="#D0CBC1" stroke-width="2"/>
+
+  <g transform="translate(650 245)">
+    <rect x="0" y="40" width="170" height="112" rx="8" fill="#DDE7E2" stroke="#161616" stroke-width="3"/>
+    <rect x="18" y="58" width="134" height="76" fill="#F7F7F4"/>
+    <rect x="-18" y="152" width="206" height="18" rx="8" fill="#161616"/>
+    <text x="220" y="85" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#161616">MOI</text>
+    <text x="220" y="128" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#161616">cherche une alternance,</text>
+    <text x="220" y="164" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#161616">avec GitHub, LinkedIn</text>
+    <text x="220" y="200" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#161616">et quelques candidatures.</text>
+  </g>
+
+  <text x="120" y="522" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#66625B">Même période. Deux rentrées. Et dans les deux cas : faire bonne impression.</text>
+</svg>
