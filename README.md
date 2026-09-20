@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://antgst.github.io">Portfolio</a>
   &nbsp;•&nbsp;
-  <a href="https://antgst.github.io/antoine-gousset-cv-2026.pdf">CV</a>
+  <a href="./antoine-gousset-cv-2026.pdf">CV</a>
   &nbsp;•&nbsp;
   <a href="https://github.com/Antgst/Kerno-MVP">KERNO</a>
   &nbsp;•&nbsp;
