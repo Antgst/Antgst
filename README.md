@@ -5,6 +5,8 @@
 <p align="center">
   <a href="https://antgst.github.io">Portfolio</a>
   &nbsp;•&nbsp;
+  <a href="https://antgst.github.io/antoine-gousset-cv-2026.pdf">CV</a>
+  &nbsp;•&nbsp;
   <a href="https://github.com/Antgst/Kerno-MVP">KERNO</a>
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/antoinegousset">LinkedIn</a>
@@ -128,6 +130,7 @@ Projet full-stack représentatif : [HBnB Evolution](https://github.com/Antgst-Ho
 ## Contact
 
 - **Portfolio** : [antgst.github.io](https://antgst.github.io)
+- **CV** : [Télécharger le CV](https://antgst.github.io/antoine-gousset-cv-2026.pdf)
 - **LinkedIn** : [linkedin.com/in/antoinegousset](https://www.linkedin.com/in/antoinegousset)
 - **Email** : [ant.gousset@gmail.com](mailto:ant.gousset@gmail.com)
 - **Localisation** : Rennes, France
