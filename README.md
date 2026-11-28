@@ -20,6 +20,8 @@
 
 # Développeur full-stack · SaaS · IA appliquée
 
+**Titulaire du titre professionnel Développeur web et web mobile (RNCP, niveau 5)**, obtenu en novembre 2026 avec les félicitations du jury.
+
 Je conçois des applications web et des outils logiciels en partant d’un besoin concret : comprendre le problème, cadrer le produit, construire une solution maintenable, la tester et la livrer proprement.
 
 Mon parcours précédent dans la grande distribution m’a apporté une forte culture opérationnelle, du management, de la priorisation et une attention particulière à la valeur métier. Aujourd’hui, je transpose cette expérience dans le développement logiciel, avec un intérêt marqué pour les **produits SaaS**, l’**automatisation** et les **agents IA**.
@@ -83,7 +85,9 @@ L’objectif est de rendre l’IA utile dans un vrai cycle d’ingénierie sans 
 🎓 **Holberton / Intra** — C · Python · Shell · Algorithmique · Structures de données  
 🛠️ **Outils** — VS Code · GitHub · GitHub CLI · Postman
 
-## Stack rencontrée en stage
+## Expérience professionnelle en développement
+
+Je réalise actuellement un stage de développement full-stack chez OKWIND, jusqu'en décembre 2026. J'interviens sur une application existante avec des tickets, des revues de code, des tests et des pipelines d'intégration continue.
 
 Technologies et outils rencontrés en environnement professionnel, volontairement séparés de ma stack principale pour distinguer **expérience en cours** et **technologies déjà consolidées**.
 
@@ -123,9 +127,22 @@ Avant le développement logiciel, j’ai travaillé pendant **18 ans dans la gra
 
 Cette transition vers le logiciel n’efface pas cette expérience : elle me donne un regard très orienté **usage, contraintes terrain, priorités et résultats**.
 
+J'ai suivi la formation de développeur web à Holberton School Rennes, avec une approche par projets couvrant les fondamentaux du développement logiciel et le full-stack.
+
 Mes projets pédagogiques et fondamentaux en C, Python, Shell, systèmes et web sont désormais regroupés dans l’organisation [Antgst-Holberton](https://github.com/Antgst-Holberton), afin de garder ce profil principal centré sur mes projets actuels.
 
 Projet full-stack représentatif : [HBnB Evolution](https://github.com/Antgst-Holberton/holbertonschool-hbnb).
+
+## Activité GitHub
+
+<details>
+<summary>Voir mes statistiques GitHub</summary>
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Métriques et activité GitHub" width="820" />
+</p>
+
+</details>
 
 ## Contact
 
